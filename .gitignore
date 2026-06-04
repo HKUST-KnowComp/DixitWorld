@@ -1,0 +1,35 @@
+# ============================================================
+# Public GitHub repo = WHITELIST. Ignore everything by default,
+# then explicitly un-ignore only what should be published.
+# Everything not listed here stays on local disk but is NOT tracked.
+# ============================================================
+
+# 1) ignore all top-level entries
+/*
+
+# 2) publish these top-level files / directories
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/src/
+!/experiments/
+!/analysis/
+!/data/
+!/paper/
+
+# 3) within data/: publish only filtered, non-copyright, paper-used files.
+#    Re-ignore raw images (copyright), duplicates, and analysis artifacts.
+/data/images/
+/data/image_captions_old.json
+/data/dixit.xlsx
+/data/dixit_excel_analysis_report.txt
+
+# 4) within paper/: publish only the paper PDF (exclude reference PDFs, tex, rebuttal)
+/paper/*
+!/paper/ACL_main.pdf
+
+# 5) always-ignore safety nets (in case of future moves)
+.env
+__pycache__/
+*.py[cod]
+.DS_Store

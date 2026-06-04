@@ -1,0 +1,596 @@
+{
+  "model": "gemma3-27b",
+  "style": "dixit_abstract",
+  "total_images": 84,
+  "total_tokens": 5353,
+  "captions": {
+    "1": {
+      "filename": "1.png",
+      "caption": "Fragile ascension",
+      "reasoning": "The image evokes a sense of aspiration, reaching for something beautiful and fragile. There's a feeling of delicate construction and the pursuit of freedom. The butterfly suggests transformation.",
+      "tokens": 55,
+      "old_caption": "Artist paints a dove in the sky, blending creativity with nature's canvas."
+    },
+    "2": {
+      "filename": "2.png",
+      "caption": "Empty command",
+      "reasoning": "The image evokes a sense of grand gesture and perhaps a slightly whimsical, theatrical power. I'm focusing on the outstretched arms and the king's commanding pose, but framing it as something more emo...",
+      "tokens": 63,
+      "old_caption": "Majestic king gestures grandly amidst a backdrop of clouds and greenery."
+    },
+    "3": {
+      "filename": "3.png",
+      "caption": "Golden passage",
+      "reasoning": "The image evokes a sense of journey, hope, and a magical transition. The rainbow serves as a bridge or path to something new. The child and horse suggest innocence and freedom. I'm aiming for a clue t...",
+      "tokens": 71,
+      "old_caption": "Child on white horse near cliff, vibrant rainbow, lush green hills in background."
+    },
+    "4": {
+      "filename": "4.png",
+      "caption": "Hidden anxieties",
+      "reasoning": "The image feels unsettling and strange. The creature is amorphous and slightly menacing, but also comical. It evokes a feeling of hidden anxieties or things lurking beneath the surface. The surroundin...",
+      "tokens": 64,
+      "old_caption": "Playful monster backpack amidst a colorful mess of everyday items on a table."
+    },
+    "5": {
+      "filename": "5.png",
+      "caption": "Weightless surrender",
+      "reasoning": "The image evokes a sense of falling or drifting, perhaps a loss of control or a surrender to something. The figure seems small and vulnerable against the patterned background. I'm trying to capture th...",
+      "tokens": 66,
+      "old_caption": "Person in a patterned room, lying contemplatively on a bed with tally marks on the wall."
+    },
+    "6": {
+      "filename": "6.png",
+      "caption": "Entwined destiny",
+      "reasoning": "The image has a sense of controlled chaos, a delicate balance between rigid structure (the die) and flowing, unpredictable energy (the creature). It evokes a feeling of fate and the unknown.",
+      "tokens": 60,
+      "old_caption": "Surreal tentacles emerge from dice against a vibrant, fiery backdrop."
+    },
+    "7": {
+      "filename": "7.png",
+      "caption": "Wound, waiting stillness",
+      "reasoning": "The image evokes a sense of isolation and a contained world. The structure feels like a strange, self-contained mechanism. I want to focus on the feeling of being 'wound up' or trapped in a cycle.",
+      "tokens": 66,
+      "old_caption": "Person gazes from a quirky blue house amidst a snowy, whimsical landscape."
+    },
+    "8": {
+      "filename": "8.png",
+      "caption": "Silent guardian",
+      "reasoning": "The image evokes a feeling of quiet sadness and a longing for comfort. The boy and the bear are both somewhat isolated, and there's a sense of unspoken emotion. I'm aiming for a clue that captures thi...",
+      "tokens": 70,
+      "old_caption": "Child and teddy bear stand back-to-back, evoking a mood of sadness and separation."
+    },
+    "9": {
+      "filename": "9.png",
+      "caption": "Uncharted memories",
+      "reasoning": "The image evokes a sense of searching, direction, and perhaps a lost path. The open locket suggests something missing or a memory. I'm focusing on the feeling of longing and uncertain journeys.",
+      "tokens": 61,
+      "old_caption": "Open compass on a map, symbolizing adventure and direction."
+    },
+    "10": {
+      "filename": "10.png",
+      "caption": "Unwritten fate",
+      "reasoning": "The image shows a knight on a horse facing a dragon emerging from a book. The scene feels like a story unfolding, a battle between imagination and fear, or perhaps knowledge and the unknown. 'Unwritte...",
+      "tokens": 75,
+      "old_caption": "Knight confronts serpent emerging from book, blending fantasy and literature in a surreal scene."
+    },
+    "11": {
+      "filename": "11.png",
+      "caption": "Quiet reckoning",
+      "reasoning": "The image evokes a sense of delicate balance, a contrast between lightness and weight, and a pondering of value. It feels like a quiet, internal judgment.",
+      "tokens": 51,
+      "old_caption": "Balance scale contrasts feather's lightness with a heavy red sack, symbolizing value and weight."
+    },
+    "12": {
+      "filename": "12.png",
+      "caption": "Fragile ascent",
+      "reasoning": "The image evokes a sense of precariousness, ambition, and a journey into the unknown. The man is climbing towards something, but the stairs are incomplete and lead to an uncertain space. The overall f...",
+      "tokens": 71,
+      "old_caption": "Man in top hat ascends sky stairs, reflecting surreal dreamscape."
+    },
+    "13": {
+      "filename": "13.png",
+      "caption": "Golden, slow climb",
+      "reasoning": "The image evokes a sense of slow, deliberate ascent, a journey toward something distant and perhaps unreachable. The spiral also feels like a winding path through time or memory.",
+      "tokens": 55,
+      "old_caption": "Spiral staircase ascends to the sky, amidst serene hills and a curious snail."
+    },
+    "14": {
+      "filename": "14.png",
+      "caption": "Devouring giants",
+      "reasoning": "The image conveys a sense of overwhelming force and a consuming hunger. The exaggerated features and the man's gesture suggest a desperate grasping at something small amidst chaos. The scale emphasize...",
+      "tokens": 64,
+      "old_caption": "Giant devours cityscape, clutching houses with a fierce expression against a vivid backdrop."
+    },
+    "15": {
+      "filename": "15.png",
+      "caption": "Rising unease",
+      "reasoning": "The image evokes a sense of sickness, rising tension, and a potentially dangerous state. The thermometer and red color suggest heat and fever. I want to focus on the unsettling feeling.",
+      "tokens": 50,
+      "old_caption": "Surreal thermometer melting under moonlight, symbolizing extreme heat and climate change."
+    },
+    "16": {
+      "filename": "16.png",
+      "caption": "Guarded bloom",
+      "reasoning": "The image shows a lonely tree holding onto a small bouquet of flowers. This evokes a feeling of fragile resilience and quiet beauty. The tree feels like it’s guarding something precious.",
+      "tokens": 57,
+      "old_caption": "Whimsical tree with a face holds vibrant flowers, set in a peaceful landscape."
+    },
+    "17": {
+      "filename": "17.png",
+      "caption": "Ephemeral yearning",
+      "reasoning": "The image evokes a sense of wonder, longing, and smallness against a vast backdrop. The figure seems to be reaching for something distant and dreamlike. The colors suggest a transition or a fading mem...",
+      "tokens": 61,
+      "old_caption": "Child blows bubbles under a magical sunset sky, surrounded by lush green hills."
+    },
+    "18": {
+      "filename": "18.png",
+      "caption": "Orchestrated ascent",
+      "reasoning": "The image evokes a sense of conducting a symphony of birdsong. The raised arms suggest creation and control of the music. It feels uplifting and hopeful.",
+      "tokens": 52,
+      "old_caption": "Conductor orchestrates birds singing in harmony on a tree branch under a clear blue sky."
+    },
+    "19": {
+      "filename": "19.png",
+      "caption": "Rewinding memories",
+      "reasoning": "The image evokes a sense of time, memory, and unfolding. The spiral feels like a rewind, and the film strip reinforces that idea. It also has a slightly melancholy feel.",
+      "tokens": 57,
+      "old_caption": "Whimsical spiral with flowing ribbon and ladder, evoking a surreal, dreamlike mood."
+    },
+    "20": {
+      "filename": "20.png",
+      "caption": "Ephemeral echoes",
+      "reasoning": "The figure is made of paper, appearing fragile and scattered, like thoughts or memories. The image evokes a sense of fleeting existence and unraveling.",
+      "tokens": 49,
+      "old_caption": "A figure of paper strides through a windy, surreal landscape under a stormy sky."
+    },
+    "21": {
+      "filename": "21.png",
+      "caption": "Golden captivity",
+      "reasoning": "The image evokes a sense of being controlled, a lack of agency, and a gilded cage. The figure is presented as royalty, but is clearly a puppet. 'Golden captivity' captures this duality.",
+      "tokens": 60,
+      "old_caption": "Wooden puppet sits on ornate throne, symbolizing control and authority."
+    },
+    "22": {
+      "filename": "22.png",
+      "caption": "Solemn procession",
+      "reasoning": "The image evokes a sense of forced celebration or a parade masking inner sadness. The boy's expression is a key element - he seems separate from the festivities. The rigid lines of the soldiers create...",
+      "tokens": 79,
+      "old_caption": "Toy soldier pulls a cart with a child, surrounded by a line of marching soldiers."
+    },
+    "23": {
+      "filename": "23.png",
+      "caption": "Timeless wonder",
+      "reasoning": "The image combines a starry night and a clock, suggesting the vastness of time and the universe. It evokes a sense of mystery and contemplation about existence. The contrast between the infinite stars...",
+      "tokens": 71,
+      "old_caption": "Pocket watch reveals a starry sky, blending time with the cosmos."
+    },
+    "24": {
+      "filename": "24.png",
+      "caption": "Watched, silent sorrow",
+      "reasoning": "The image evokes a sense of melancholy despite the bright colors. The 'eyes' on the sun and cloud feel watchful and slightly sad. The mountains seem to be sheltering from something, or maybe grieving....",
+      "tokens": 70,
+      "old_caption": "Surprised sun gazes at vibrant umbrellas under a clear blue sky."
+    },
+    "25": {
+      "filename": "25.png",
+      "caption": "Hidden faces",
+      "reasoning": "The image shows multiple masks displaying different emotions. It feels like a hidden, inner turmoil, a performance of feelings. I'm aiming for something about concealed emotions and duality.",
+      "tokens": 55,
+      "old_caption": "Yellow masks express diverse emotions on a rich red backdrop."
+    },
+    "26": {
+      "filename": "26.png",
+      "caption": "Fading embers",
+      "reasoning": "The image evokes a sense of loneliness, age, and a slow, deliberate journey. The figure seems to be made of flickering light or memories, and the red sky adds to a feeling of melancholy or fading warm...",
+      "tokens": 77,
+      "old_caption": "Leaf-covered figure with staff under crescent moons and red sky, evoking mystery and solitude."
+    },
+    "27": {
+      "filename": "27.png",
+      "caption": "Exposed fragility",
+      "reasoning": "The image evokes a sense of isolation and vulnerability under intense scrutiny. The spotlight feels like judgment or exposure. The clown's posture suggests sadness or resignation.",
+      "tokens": 52,
+      "old_caption": "Lonely clown in spotlight, evoking melancholy and solitude."
+    },
+    "28": {
+      "filename": "28.png",
+      "caption": "Bizarre freedom",
+      "reasoning": "The image features a precarious and unusual situation—a person riding *inside* a monster. This evokes a sense of being consumed yet somehow protected, or a strange, unsettling journey. The bright colo...",
+      "tokens": 72,
+      "old_caption": "Fairy rescues child from giant creature's jaws in a whimsical, adventurous scene."
+    },
+    "29": {
+      "filename": "29.png",
+      "caption": "Fading embers",
+      "reasoning": "The image evokes a sense of dwindling hope, fragility, and the passage of time. The melting wax suggests something lost or fading away. The single flame represents a last glimmer.",
+      "tokens": 49,
+      "old_caption": "Lit candle with dripping wax in a holder, casting a warm, serene glow."
+    },
+    "30": {
+      "filename": "30.png",
+      "caption": "Captured reverie",
+      "reasoning": "The image evokes a sense of contained wonder, a fragile world, and a yearning for something beyond. The snowglobe emphasizes isolation and a dreamlike state.",
+      "tokens": 52,
+      "old_caption": "Person in a snow globe with house and trees under a starry sky."
+    },
+    "31": {
+      "filename": "31.png",
+      "caption": "Windswept solitude",
+      "reasoning": "The image evokes a sense of loneliness, longing, and being swept away by forces beyond control. The figure seems distant and vulnerable, with a hint of melancholy. The red flower provides a small cont...",
+      "tokens": 71,
+      "old_caption": "Animated figure strolls through a tranquil snowy landscape, hair and coat flowing in the breeze."
+    },
+    "32": {
+      "filename": "32.png",
+      "caption": "Weightless surrender",
+      "reasoning": "The image evokes a sense of falling, disorientation, and perhaps a playful loss of control. I'm focusing on the feeling of being upside down and the unexpectedness of the situation.",
+      "tokens": 58,
+      "old_caption": "Two figures fall through a vivid orange void, evoking a dreamlike sense of motion."
+    },
+    "33": {
+      "filename": "33.png",
+      "caption": "Tiny expeditions",
+      "reasoning": "The image evokes a sense of miniature worlds and hidden journeys. The ladybug feels like a vessel for exploration and the telescope suggests searching for something distant.",
+      "tokens": 50,
+      "old_caption": "Whimsical ladybug with playful creatures peeking from its spots on a vibrant green leaf."
+    },
+    "34": {
+      "filename": "34.png",
+      "caption": "Precarious ambition",
+      "reasoning": "The image shows a struggle, a delicate balance, and a potential disruption of something valuable. The ants seem to be challenging each other over the 'treasure' (the gold). The scissors add a sense of...",
+      "tokens": 65,
+      "old_caption": "Ants duel with swords atop a towering stack of gold coins."
+    },
+    "35": {
+      "filename": "35.png",
+      "caption": "Ephemeral grace",
+      "reasoning": "The image evokes a sense of delicate beauty, fragility, and a yearning for graceful movement. The ribbons and the shoes themselves suggest a fleeting moment or a lost dream. It feels wistful and sligh...",
+      "tokens": 55,
+      "old_caption": "Pink ballet shoes hang gracefully, evoking nostalgia against a dark, cobwebbed backdrop."
+    },
+    "36": {
+      "filename": "36.png",
+      "caption": "Silent confrontation",
+      "reasoning": "The image evokes a sense of a contained struggle, a tiny conflict within a vast, empty space. The snails seem almost like gladiators in a miniature coliseum. It feels like a quiet, absurd battle.",
+      "tokens": 62,
+      "old_caption": "Two snails in hats face off in a colorful, whimsical arena."
+    },
+    "37": {
+      "filename": "37.png",
+      "caption": "Quiet valor",
+      "reasoning": "The image evokes a sense of a small hero facing a large, imposing challenge. The rabbit knight is preparing for a quest, a journey into the unknown. The contrast between the detailed red door and the ...",
+      "tokens": 80,
+      "old_caption": "Rabbit knight faces three mysterious doors, ready for an adventurous quest."
+    },
+    "38": {
+      "filename": "38.png",
+      "caption": "Golden solitude",
+      "reasoning": "The image evokes a sense of rustic charm, quiet observation, and a touch of melancholy. The scarecrow seems to be a silent guardian of the field, almost wistful in its stillness. I'm aiming for a clue...",
+      "tokens": 70,
+      "old_caption": "Cheerful scarecrow stands amidst vibrant sunflowers under a bright blue sky."
+    },
+    "39": {
+      "filename": "39.png",
+      "caption": "Pale remembrance",
+      "reasoning": "The image evokes a sense of quiet solitude amidst vibrant life. The single white poppy stands out, suggesting a different path or a fragile moment. 'Pale remembrance' captures this feeling of delicate...",
+      "tokens": 61,
+      "old_caption": "White poppy stands out among vibrant red blooms on a lush green backdrop."
+    },
+    "40": {
+      "filename": "40.png",
+      "caption": "Silent observation",
+      "reasoning": "The image evokes a sense of guardedness and internal observation, with a quiet strength. The small figures could represent inner thoughts or anxieties. I'm focusing on the introspective quality and th...",
+      "tokens": 63,
+      "old_caption": "Thoughtful woman adorned with whimsical figurine earrings, gazing into the distance."
+    },
+    "41": {
+      "filename": "41.png",
+      "caption": "Ephemeral worlds",
+      "reasoning": "The image shows miniature worlds contained within droplets. It feels fragile, hopeful, and a little lonely. The red background adds a sense of intensity and confinement, while the various scenes withi...",
+      "tokens": 81,
+      "old_caption": "Surreal droplets encapsulate life and nature against a vibrant red backdrop."
+    },
+    "42": {
+      "filename": "42.png",
+      "caption": "Growing shadows",
+      "reasoning": "The image evokes a sense of hidden fear and childhood vulnerability. The looming shadow represents internal anxieties or threats perceived by the children. The contrast between the small figures and t...",
+      "tokens": 66,
+      "old_caption": "Children's shadows transform into a wolf, blending innocence with imagination."
+    },
+    "43": {
+      "filename": "43.png",
+      "caption": "Yearning ascent",
+      "reasoning": "The image evokes a sense of reaching for knowledge, ambition, and perhaps a slightly whimsical or precarious journey. The stacks of books and the figures striving upwards suggest aspiration and growth...",
+      "tokens": 72,
+      "old_caption": "Fairy enchants towering stack of colorful books, sparking magic and wonder."
+    },
+    "44": {
+      "filename": "44.png",
+      "caption": "Wistful observation",
+      "reasoning": "The image evokes a sense of longing and childhood wonder, looking *into* a world of possibility. The small figure gazing at the toys feels wistful. It's a contained, hopeful scene.",
+      "tokens": 62,
+      "old_caption": "Colorful toy display featuring dolls, clothes, and playful vehicles in a vibrant setting."
+    },
+    "45": {
+      "filename": "45.png",
+      "caption": "Open sky dream",
+      "reasoning": "The image evokes a sense of possibility, a transition, and a hopeful opening. The blue sky and clouds suggest freedom and dreams. The stone arch feels ancient and enduring, yet leads to something new....",
+      "tokens": 77,
+      "old_caption": "Stone archway opens to a serene, painted sky with fluffy clouds."
+    },
+    "46": {
+      "filename": "46.png",
+      "caption": "Fading golden hours",
+      "reasoning": "The image evokes a sense of whimsical, slightly melancholic nostalgia. The carousel suggests childhood, but the animal riders feel a bit strange and dreamlike. The overall feeling is of a fading, bitt...",
+      "tokens": 63,
+      "old_caption": "Whimsical carousel ride at sunset, children joyfully riding animals under a starry canopy."
+    },
+    "47": {
+      "filename": "47.png",
+      "caption": "Fleeting existence",
+      "reasoning": "The image depicts a person trapped within a time-keeping device, suggesting themes of being consumed by time or a distorted perception of it. The figure's pose and the hourglass shape evoke a sense of...",
+      "tokens": 83,
+      "old_caption": "Elderly woman and child in hourglass, symbolizing life's passage and time's flow."
+    },
+    "48": {
+      "filename": "48.png",
+      "caption": "Silent labyrinth",
+      "reasoning": "The image evokes a sense of being lost or trapped within a complex system. The winding paths and the bird seem to be searching for a way out. It feels like a slightly unsettling, surreal journey.",
+      "tokens": 60,
+      "old_caption": "Bird navigates a 3D maze, surrounded by insects and a butterfly, in a whimsical scene."
+    },
+    "49": {
+      "filename": "49.png",
+      "caption": "Forgotten sanctuary",
+      "reasoning": "The image evokes a sense of solitude and mystery within a dense, almost claustrophobic forest. The white figure feels vulnerable and lost, like a fading memory or a forgotten dream. The twisting trees...",
+      "tokens": 70,
+      "old_caption": "Mysterious shell nestled in a dark, twisted forest path."
+    },
+    "50": {
+      "filename": "50.png",
+      "caption": "Hidden melody",
+      "reasoning": "The image presents a whimsical scene of a mouse playing a flute in front of a grand palace. It evokes a feeling of a small creature with grand ambitions or a secret world hidden within a larger one. T...",
+      "tokens": 92,
+      "old_caption": "Blue mouse charms snake with flute in vibrant, exotic palace setting."
+    },
+    "51": {
+      "filename": "51.png",
+      "caption": "Lunar devotion",
+      "reasoning": "The image evokes a sense of longing, captivity, and a strange, dreamlike quality. The cat looking up adds to the feeling of wistful observation. 'Lunar devotion' captures the mood and the prominent mo...",
+      "tokens": 63,
+      "old_caption": "Cat gazes at a couple in a floating birdcage under a crescent moonlit sky."
+    },
+    "52": {
+      "filename": "52.png",
+      "caption": "Gentle giant",
+      "reasoning": "The image depicts a large, seemingly gentle dragon facing a small figure with a sword. This evokes a sense of daunting courage and a power imbalance. The colors suggest a dreamlike quality. Thus, I'm ...",
+      "tokens": 76,
+      "old_caption": "Child faces friendly blue dragon with a toy sword in a whimsical encounter."
+    },
+    "53": {
+      "filename": "53.png",
+      "caption": "Unlocking the self",
+      "reasoning": "The image evokes a sense of unlocking inner thoughts and secrets, with the keys representing access to the mind/soul. The face is serene and almost dreamlike, suggesting hidden depths.",
+      "tokens": 58,
+      "old_caption": "Contemplative figure with open mind, glowing thoughts, and symbolic keys against a red backdrop."
+    },
+    "54": {
+      "filename": "54.png",
+      "caption": "Forgotten narratives",
+      "reasoning": "The image evokes a sense of solitude and contemplation, with the falling letters suggesting lost thoughts or a fading story. It feels melancholic and quiet. The person seems to be lost in their own wo...",
+      "tokens": 60,
+      "old_caption": "Man reads under a starry sky of letters, blending reality with imagination."
+    },
+    "55": {
+      "filename": "55.png",
+      "caption": "Glassed solitude",
+      "reasoning": "The image evokes a sense of wonder, isolation, and a contained world. The cat seems to be reaching out from within a bubble, perhaps longing for something beyond. The fish inside adds to the feeling o...",
+      "tokens": 71,
+      "old_caption": "Curious cat reaches over fishbowl under a whimsical starry sky."
+    },
+    "56": {
+      "filename": "56.png",
+      "caption": "Silent trophy",
+      "reasoning": "The image evokes a sense of stillness, loss, and a past life. The deer head on the wall represents a captured moment, while the cat and bowls suggest a quiet, domestic scene that contrasts with the wi...",
+      "tokens": 78,
+      "old_caption": "Cat gazes at deer mount as water drips from ceiling onto wooden floor."
+    },
+    "57": {
+      "filename": "57.png",
+      "caption": "Caged embers",
+      "reasoning": "The image shows something fragile (a heart) being contained, yet consumed by fire. The glass dome creates a sense of isolation and preservation, ironically alongside destruction. I'm aiming for a clue...",
+      "tokens": 77,
+      "old_caption": "Heart ablaze under glass dome, symbolizing fiery passion and containment."
+    },
+    "58": {
+      "filename": "58.png",
+      "caption": "Celestial counting",
+      "reasoning": "The image shows a childlike abacus with planets as beads. This evokes a sense of playful creation and a cosmic order organized by innocent hands. The color scheme feels dreamlike and whimsical. 'Celes...",
+      "tokens": 65,
+      "old_caption": "Planetary abacus against a starry sky, blending education with cosmic wonder."
+    },
+    "59": {
+      "filename": "59.png",
+      "caption": "Fleeting capture",
+      "reasoning": "The image shows a fox painting fish, seemingly trying to bring the ocean to life on canvas. It feels like yearning and the act of creation. I’m focusing on the wistful, slightly absurd quality of tryi...",
+      "tokens": 72,
+      "old_caption": "Cat artist paints vibrant underwater scene with fish and seaweed, blending creativity and whimsy."
+    },
+    "60": {
+      "filename": "60.png",
+      "caption": "Secret garden",
+      "reasoning": "The image evokes a sense of hidden observation and a delicate balance, like a secret world. The man seems to be peeking into something precious and fragile. It has a childlike quality, and perhaps a h...",
+      "tokens": 64,
+      "old_caption": "Curious figure peeks through a leaf, discovering hidden treasures within its folds."
+    },
+    "61": {
+      "filename": "61.png",
+      "caption": "Unreachable aspirations",
+      "reasoning": "The image evokes a sense of ambition and reaching for the impossible, coupled with the idea of challenging established order. The man with the axe suggests effort and disruption, while the planets and...",
+      "tokens": 74,
+      "old_caption": "Surreal tree with planets and deer, as a person with an axe approaches."
+    },
+    "62": {
+      "filename": "62.png",
+      "caption": "Bottled illumination",
+      "reasoning": "The image evokes a sense of fragile hope and contained wonder. The figure is small within a large, glass enclosure, suggesting a delicate new idea or a protected dream. The light represents that hope ...",
+      "tokens": 62,
+      "old_caption": "Whimsical figure in starry robe illuminates light bulb with a candle's gentle glow."
+    },
+    "63": {
+      "filename": "63.png",
+      "caption": "Crimson pursuit",
+      "reasoning": "The image evokes a sense of hidden knowledge, secret creation, and a touch of the mysterious. The alchemist is focused, but the scene feels slightly unreal and dreamlike. 'Crimson pursuit' captures th...",
+      "tokens": 71,
+      "old_caption": "Whimsical scientist concocts potions in a colorful, cluttered laboratory filled with mysterious bottles."
+    },
+    "64": {
+      "filename": "64.png",
+      "caption": "Golden embrace",
+      "reasoning": "The image evokes a sense of containment or being bound, but also a kind of golden, hopeful enclosure. The circular shape feels like a protective orbit or a loop of fate.",
+      "tokens": 55,
+      "old_caption": "Dark braid intertwined with a vibrant yellow ring against a serene blue backdrop."
+    },
+    "65": {
+      "filename": "65.png",
+      "caption": "Golden restraint",
+      "reasoning": "The image evokes a sense of being tethered, but also a longing for freedom and the vastness of the sea. The contrast between the solid anchor and the flowing yellow suggests a struggle between stabili...",
+      "tokens": 62,
+      "old_caption": "Anchor suspended over vibrant yellow dunes under a clear blue sky."
+    },
+    "66": {
+      "filename": "66.png",
+      "caption": "Fragile ascension",
+      "reasoning": "The image evokes a sense of fragile hope rising from darkness or uncertainty. The flame is small but determined, piercing through a vast and potentially overwhelming space. It feels like a vulnerable ...",
+      "tokens": 58,
+      "old_caption": "Hand with torch rises from waves, symbolizing hope and resilience."
+    },
+    "67": {
+      "filename": "67.png",
+      "caption": "Caged longing",
+      "reasoning": "The image evokes a feeling of being trapped yet reaching for something beyond, a sense of aspiration and confinement at once. The red hair feels like a flame or a beacon.",
+      "tokens": 55,
+      "old_caption": "Woman with flowing hair stands atop a cage, fish swimming inside, evoking a surreal dreamscape."
+    },
+    "68": {
+      "filename": "68.png",
+      "caption": "Golden uncertainty",
+      "reasoning": "The image evokes a sense of quiet contemplation, a shared moment, and the strategic dance of life. The birds and light suggest fleeting thoughts or opportunities. The chessboard represents choices and...",
+      "tokens": 57,
+      "old_caption": "Couple enjoys a whimsical chess game under warm light, surrounded by fluttering red butterflies."
+    },
+    "69": {
+      "filename": "69.png",
+      "caption": "Silent beginnings",
+      "reasoning": "The image evokes a sense of potential and hidden life, like secrets held within fragile shells. The repetition of the egg shapes suggests a quiet, expectant gathering.",
+      "tokens": 51,
+      "old_caption": "Whimsical egg-shaped village with glowing windows under a dark sky."
+    },
+    "70": {
+      "filename": "70.png",
+      "caption": "Whispers of giants",
+      "reasoning": "The image evokes a sense of wonder and discovery, a small person encountering something vast and mysterious. The shell feels like a world unto itself, or a portal. The feeling is one of hidden stories...",
+      "tokens": 65,
+      "old_caption": "Child explores a giant seashell on the beach, evoking wonder and curiosity."
+    },
+    "71": {
+      "filename": "71.png",
+      "caption": "Fleeting control",
+      "reasoning": "The image evokes a sense of being overwhelmed and the struggle to grasp something powerful and chaotic. The hand reaching out feels vulnerable and small against the immense tornado. The contrast betwe...",
+      "tokens": 73,
+      "old_caption": "Hand cradles swirling blue vortex, contrasting vibrant orange backdrop."
+    },
+    "72": {
+      "filename": "72.png",
+      "caption": "Tiny universes",
+      "reasoning": "The image evokes a sense of contained worlds, childhood fantasies, and the idea of being 'inside' a story. It feels a bit wistful and imaginative.",
+      "tokens": 52,
+      "old_caption": "Dollhouse with a doll, vibrant rooms, and charming details create a whimsical scene."
+    },
+    "73": {
+      "filename": "73.png",
+      "caption": "Skybound reverie",
+      "reasoning": "The image evokes a sense of aspiration, wonder, and escaping reality. The castle feels almost unreal, floating in the sky. The blue tones add to the dreamlike quality.",
+      "tokens": 57,
+      "old_caption": "Floating castle tethered to a blue balloon drifts through a serene, cloud-dotted sky."
+    },
+    "74": {
+      "filename": "74.png",
+      "caption": "Fragile emergence",
+      "reasoning": "The image evokes a sense of delicate growth emerging from a harsh environment. The flower seems hopeful yet vulnerable. The cracked ground suggests struggle or resilience.",
+      "tokens": 50,
+      "old_caption": "Daisy blooms defiantly from cracked earth under a swirling, dark sky."
+    },
+    "75": {
+      "filename": "75.png",
+      "caption": "Golden decadence",
+      "reasoning": "The image evokes a sense of excess, a feast that's perhaps a little chaotic and overdone. It feels like a moment of temporary indulgence before a potential fall. The colors are warm but also slightly ...",
+      "tokens": 64,
+      "old_caption": "A chaotic feast with diverse dishes and drinks on a crowded table."
+    },
+    "76": {
+      "filename": "76.png",
+      "caption": "Revealed destiny",
+      "reasoning": "The image shows a hand being examined closely, specifically the lines on the palm. This evokes themes of fate, scrutiny, and hidden patterns. I'm focusing on the idea of revealing something unseen or ...",
+      "tokens": 56,
+      "old_caption": "Magnifying glass reveals intricate palm lines on a hand."
+    },
+    "77": {
+      "filename": "77.png",
+      "caption": "Quiet beginnings",
+      "reasoning": "The image shows a cycle of life, protection, and guidance. The adult bird is overseeing the newly hatched chicks, and there's a sense of duty and observation. The egg represents potential and beginnin...",
+      "tokens": 61,
+      "old_caption": "Officer chicken inspects chicks; a surprised face peeks from a cracked egg nearby."
+    },
+    "78": {
+      "filename": "78.png",
+      "caption": "Emerald labyrinth",
+      "reasoning": "The image evokes a feeling of being tangled, lost, and a bit surreal. The white shapes stand out as something different, perhaps a search for clarity within chaos. The overall feeling is organic but a...",
+      "tokens": 68,
+      "old_caption": "Knife entangled in twisting green vines, evoking a surreal and mysterious ambiance."
+    },
+    "79": {
+      "filename": "79.png",
+      "caption": "Golden longing",
+      "reasoning": "The image evokes a sense of swirling energy and a reaching for something just out of grasp. The flowing hair and dress contribute to this feeling of movement and aspiration. The bright colors suggest ...",
+      "tokens": 63,
+      "old_caption": "Surprised woman in colorful dress beside giant yellow apple on vibrant background."
+    },
+    "80": {
+      "filename": "80.png",
+      "caption": "Ephemeral Eden",
+      "reasoning": "The image shows a small world enclosed in a water droplet. It evokes a feeling of fragility, isolation, and a hidden paradise. The water represents both protection and confinement.",
+      "tokens": 54,
+      "old_caption": "Island within a droplet, encapsulating nature's tranquility in a surreal, dreamlike scene."
+    },
+    "81": {
+      "filename": "81.png",
+      "caption": "Sunken reverie",
+      "reasoning": "The image evokes a sense of peace, dreams, and a connection to the sea. The woman appears to be floating or dreaming within the water. The small boat adds to the feeling of journey and tranquility.",
+      "tokens": 63,
+      "old_caption": "Dreamy figure rests in ocean, gazing at tiny sailboat under a golden sunset."
+    },
+    "82": {
+      "filename": "82.png",
+      "caption": "Melancholy resonance",
+      "reasoning": "The image evokes a feeling of peaceful solitude and the expression of inner emotions through music. The flowing hair and the instrument's form suggest a release of something internal.",
+      "tokens": 55,
+      "old_caption": "Joyful cellist plays as tiny figures dance on swirling musical notes."
+    },
+    "83": {
+      "filename": "83.png",
+      "caption": "Puppet master's gaze",
+      "reasoning": "The image evokes a sense of performance, control, and a slightly unsettling power dynamic. The larger figure seems to be orchestrating a miniature world, or perhaps a memory. The color scheme is also ...",
+      "tokens": 68,
+      "old_caption": "Elderly woman joyfully presents a puppet show, featuring two lively characters on stage."
+    },
+    "84": {
+      "filename": "84.png",
+      "caption": "Golden anticipation",
+      "reasoning": "The image evokes a sense of reaching for something just out of grasp, youthful ambition, and a slightly surreal journey. The vibrant colors and unusual plants contribute to a feeling of a dreamlike st...",
+      "tokens": 59,
+      "old_caption": "Person sowing seeds in a colorful, surreal landscape under a bright yellow sky."
+    }
+  }
+}

@@ -1,0 +1,2282 @@
+{
+  "metadata": {
+    "total_images": 84,
+    "distractors_per_difficulty": 5,
+    "difficulties": [
+      "hard",
+      "medium",
+      "easy"
+    ],
+    "seed": 42
+  },
+  "data": [
+    {
+      "id": 1,
+      "target_caption": "Fragile ascension",
+      "distractors": {
+        "hard": [
+          59,
+          20,
+          84,
+          74,
+          41
+        ],
+        "medium": [
+          18,
+          48,
+          69,
+          53,
+          60
+        ],
+        "easy": [
+          28,
+          49,
+          50,
+          10,
+          33
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "target_caption": "Empty command",
+      "distractors": {
+        "hard": [
+          45,
+          20,
+          41,
+          38,
+          16
+        ],
+        "medium": [
+          14,
+          30,
+          26,
+          1,
+          46
+        ],
+        "easy": [
+          23,
+          78,
+          82,
+          75,
+          34
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "target_caption": "Golden passage",
+      "distractors": {
+        "hard": [
+          17,
+          46,
+          28,
+          70,
+          39
+        ],
+        "medium": [
+          38,
+          16,
+          60,
+          49,
+          84
+        ],
+        "easy": [
+          23,
+          7,
+          54,
+          5,
+          25
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "target_caption": "Hidden anxieties",
+      "distractors": {
+        "hard": [
+          44,
+          75,
+          60,
+          63,
+          78
+        ],
+        "medium": [
+          25,
+          16,
+          49,
+          41,
+          10
+        ],
+        "easy": [
+          47,
+          66,
+          83,
+          31,
+          23
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "target_caption": "Weightless surrender",
+      "distractors": {
+        "hard": [
+          53,
+          7,
+          12,
+          19,
+          30
+        ],
+        "medium": [
+          67,
+          71,
+          2,
+          47,
+          4
+        ],
+        "easy": [
+          79,
+          73,
+          11,
+          50,
+          45
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "target_caption": "Entwined destiny",
+      "distractors": {
+        "hard": [
+          41,
+          80,
+          78,
+          19,
+          73
+        ],
+        "medium": [
+          36,
+          61,
+          4,
+          50,
+          14
+        ],
+        "easy": [
+          12,
+          1,
+          45,
+          84,
+          79
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "target_caption": "Wound, waiting stillness",
+      "distractors": {
+        "hard": [
+          30,
+          31,
+          24,
+          84,
+          2
+        ],
+        "medium": [
+          54,
+          26,
+          15,
+          60,
+          81
+        ],
+        "easy": [
+          77,
+          11,
+          52,
+          29,
+          83
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "target_caption": "Silent guardian",
+      "distractors": {
+        "hard": [
+          44,
+          52,
+          28,
+          46,
+          72
+        ],
+        "medium": [
+          83,
+          19,
+          80,
+          53,
+          32
+        ],
+        "easy": [
+          81,
+          24,
+          55,
+          11,
+          50
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "target_caption": "Uncharted memories",
+      "distractors": {
+        "hard": [
+          53,
+          19,
+          26,
+          20,
+          66
+        ],
+        "medium": [
+          12,
+          65,
+          58,
+          48,
+          43
+        ],
+        "easy": [
+          44,
+          5,
+          70,
+          24,
+          27
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "target_caption": "Unwritten fate",
+      "distractors": {
+        "hard": [
+          78,
+          43,
+          80,
+          37,
+          6
+        ],
+        "medium": [
+          32,
+          53,
+          27,
+          28,
+          19
+        ],
+        "easy": [
+          58,
+          8,
+          18,
+          72,
+          23
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "target_caption": "Quiet reckoning",
+      "distractors": {
+        "hard": [
+          41,
+          15,
+          26,
+          43,
+          25
+        ],
+        "medium": [
+          77,
+          66,
+          55,
+          2,
+          50
+        ],
+        "easy": [
+          22,
+          63,
+          78,
+          10,
+          18
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "target_caption": "Fragile ascent",
+      "distractors": {
+        "hard": [
+          19,
+          13,
+          54,
+          20,
+          53
+        ],
+        "medium": [
+          45,
+          41,
+          65,
+          31,
+          69
+        ],
+        "easy": [
+          27,
+          3,
+          55,
+          77,
+          70
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "target_caption": "Golden, slow climb",
+      "distractors": {
+        "hard": [
+          19,
+          49,
+          12,
+          48,
+          60
+        ],
+        "medium": [
+          37,
+          43,
+          74,
+          6,
+          38
+        ],
+        "easy": [
+          51,
+          41,
+          56,
+          63,
+          5
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "target_caption": "Devouring giants",
+      "distractors": {
+        "hard": [
+          2,
+          20,
+          80,
+          71,
+          41
+        ],
+        "medium": [
+          57,
+          12,
+          10,
+          26,
+          53
+        ],
+        "easy": [
+          1,
+          48,
+          22,
+          74,
+          9
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "target_caption": "Rising unease",
+      "distractors": {
+        "hard": [
+          80,
+          62,
+          19,
+          41,
+          66
+        ],
+        "medium": [
+          20,
+          53,
+          32,
+          81,
+          54
+        ],
+        "easy": [
+          49,
+          13,
+          16,
+          72,
+          42
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "target_caption": "Guarded bloom",
+      "distractors": {
+        "hard": [
+          38,
+          33,
+          74,
+          2,
+          61
+        ],
+        "medium": [
+          14,
+          46,
+          49,
+          20,
+          84
+        ],
+        "easy": [
+          9,
+          68,
+          18,
+          36,
+          17
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "target_caption": "Ephemeral yearning",
+      "distractors": {
+        "hard": [
+          69,
+          73,
+          46,
+          3,
+          84
+        ],
+        "medium": [
+          24,
+          20,
+          30,
+          38,
+          6
+        ],
+        "easy": [
+          57,
+          31,
+          53,
+          48,
+          10
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "target_caption": "Orchestrated ascent",
+      "distractors": {
+        "hard": [
+          1,
+          24,
+          61,
+          48,
+          84
+        ],
+        "medium": [
+          2,
+          82,
+          56,
+          60,
+          30
+        ],
+        "easy": [
+          21,
+          77,
+          41,
+          65,
+          8
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "target_caption": "Rewinding memories",
+      "distractors": {
+        "hard": [
+          12,
+          13,
+          20,
+          80,
+          78
+        ],
+        "medium": [
+          71,
+          82,
+          31,
+          41,
+          62
+        ],
+        "easy": [
+          25,
+          54,
+          7,
+          17,
+          60
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "target_caption": "Ephemeral echoes",
+      "distractors": {
+        "hard": [
+          31,
+          84,
+          19,
+          54,
+          1
+        ],
+        "medium": [
+          23,
+          61,
+          12,
+          69,
+          80
+        ],
+        "easy": [
+          60,
+          76,
+          67,
+          11,
+          22
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "target_caption": "Golden captivity",
+      "distractors": {
+        "hard": [
+          83,
+          26,
+          53,
+          60,
+          49
+        ],
+        "medium": [
+          10,
+          52,
+          29,
+          61,
+          44
+        ],
+        "easy": [
+          34,
+          46,
+          27,
+          54,
+          71
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "target_caption": "Solemn procession",
+      "distractors": {
+        "hard": [
+          44,
+          28,
+          52,
+          8,
+          21
+        ],
+        "medium": [
+          29,
+          49,
+          9,
+          42,
+          34
+        ],
+        "easy": [
+          19,
+          23,
+          73,
+          63,
+          69
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "target_caption": "Timeless wonder",
+      "distractors": {
+        "hard": [
+          58,
+          54,
+          71,
+          15,
+          20
+        ],
+        "medium": [
+          6,
+          53,
+          74,
+          19,
+          2
+        ],
+        "easy": [
+          67,
+          70,
+          4,
+          35,
+          34
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "target_caption": "Watched, silent sorrow",
+      "distractors": {
+        "hard": [
+          38,
+          7,
+          65,
+          2,
+          84
+        ],
+        "medium": [
+          58,
+          41,
+          73,
+          74,
+          23
+        ],
+        "easy": [
+          9,
+          68,
+          28,
+          47,
+          3
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "target_caption": "Hidden faces",
+      "distractors": {
+        "hard": [
+          53,
+          41,
+          79,
+          36,
+          26
+        ],
+        "medium": [
+          57,
+          68,
+          1,
+          78,
+          2
+        ],
+        "easy": [
+          43,
+          52,
+          76,
+          84,
+          33
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "target_caption": "Fading embers",
+      "distractors": {
+        "hard": [
+          60,
+          53,
+          49,
+          80,
+          69
+        ],
+        "medium": [
+          2,
+          4,
+          21,
+          38,
+          41
+        ],
+        "easy": [
+          51,
+          46,
+          18,
+          40,
+          47
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "target_caption": "Exposed fragility",
+      "distractors": {
+        "hard": [
+          10,
+          53,
+          72,
+          42,
+          19
+        ],
+        "medium": [
+          47,
+          12,
+          69,
+          82,
+          37
+        ],
+        "easy": [
+          40,
+          73,
+          44,
+          16,
+          23
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "target_caption": "Bizarre freedom",
+      "distractors": {
+        "hard": [
+          52,
+          43,
+          70,
+          80,
+          3
+        ],
+        "medium": [
+          48,
+          46,
+          55,
+          22,
+          37
+        ],
+        "easy": [
+          18,
+          65,
+          50,
+          71,
+          47
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "target_caption": "Fading embers",
+      "distractors": {
+        "hard": [
+          62,
+          15,
+          66,
+          19,
+          69
+        ],
+        "medium": [
+          21,
+          41,
+          45,
+          26,
+          53
+        ],
+        "easy": [
+          25,
+          54,
+          28,
+          14,
+          27
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "target_caption": "Captured reverie",
+      "distractors": {
+        "hard": [
+          7,
+          31,
+          20,
+          84,
+          26
+        ],
+        "medium": [
+          61,
+          16,
+          2,
+          45,
+          69
+        ],
+        "easy": [
+          21,
+          48,
+          19,
+          8,
+          50
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "target_caption": "Windswept solitude",
+      "distractors": {
+        "hard": [
+          20,
+          7,
+          30,
+          2,
+          19
+        ],
+        "medium": [
+          26,
+          43,
+          84,
+          41,
+          49
+        ],
+        "easy": [
+          78,
+          83,
+          38,
+          33,
+          47
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "target_caption": "Weightless surrender",
+      "distractors": {
+        "hard": [
+          41,
+          80,
+          53,
+          19,
+          42
+        ],
+        "medium": [
+          26,
+          10,
+          51,
+          78,
+          20
+        ],
+        "easy": [
+          27,
+          17,
+          55,
+          36,
+          84
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "target_caption": "Tiny expeditions",
+      "distractors": {
+        "hard": [
+          16,
+          60,
+          38,
+          61,
+          44
+        ],
+        "medium": [
+          13,
+          42,
+          49,
+          80,
+          40
+        ],
+        "easy": [
+          34,
+          14,
+          83,
+          58,
+          11
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "target_caption": "Precarious ambition",
+      "distractors": {
+        "hard": [
+          61,
+          36,
+          52,
+          50,
+          66
+        ],
+        "medium": [
+          78,
+          33,
+          11,
+          46,
+          60
+        ],
+        "easy": [
+          40,
+          42,
+          44,
+          17,
+          31
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "target_caption": "Ephemeral grace",
+      "distractors": {
+        "hard": [
+          64,
+          71,
+          19,
+          41,
+          44
+        ],
+        "medium": [
+          46,
+          24,
+          25,
+          13,
+          72
+        ],
+        "easy": [
+          10,
+          40,
+          18,
+          73,
+          5
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "target_caption": "Silent confrontation",
+      "distractors": {
+        "hard": [
+          25,
+          68,
+          33,
+          13,
+          6
+        ],
+        "medium": [
+          16,
+          83,
+          46,
+          60,
+          32
+        ],
+        "easy": [
+          67,
+          14,
+          35,
+          3,
+          7
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "target_caption": "Quiet valor",
+      "distractors": {
+        "hard": [
+          10,
+          49,
+          13,
+          48,
+          60
+        ],
+        "medium": [
+          53,
+          9,
+          80,
+          57,
+          61
+        ],
+        "easy": [
+          63,
+          35,
+          81,
+          52,
+          17
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "target_caption": "Golden solitude",
+      "distractors": {
+        "hard": [
+          39,
+          24,
+          16,
+          84,
+          69
+        ],
+        "medium": [
+          30,
+          17,
+          18,
+          41,
+          46
+        ],
+        "easy": [
+          83,
+          47,
+          52,
+          12,
+          51
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "target_caption": "Pale remembrance",
+      "distractors": {
+        "hard": [
+          38,
+          16,
+          41,
+          74,
+          84
+        ],
+        "medium": [
+          53,
+          13,
+          62,
+          26,
+          69
+        ],
+        "easy": [
+          36,
+          63,
+          77,
+          5,
+          50
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "target_caption": "Silent observation",
+      "distractors": {
+        "hard": [
+          79,
+          53,
+          62,
+          44,
+          60
+        ],
+        "medium": [
+          76,
+          81,
+          51,
+          19,
+          13
+        ],
+        "easy": [
+          28,
+          57,
+          24,
+          46,
+          80
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "target_caption": "Ephemeral worlds",
+      "distractors": {
+        "hard": [
+          80,
+          6,
+          32,
+          71,
+          20
+        ],
+        "medium": [
+          73,
+          24,
+          15,
+          19,
+          78
+        ],
+        "easy": [
+          45,
+          30,
+          48,
+          68,
+          21
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "target_caption": "Growing shadows",
+      "distractors": {
+        "hard": [
+          32,
+          72,
+          80,
+          49,
+          26
+        ],
+        "medium": [
+          60,
+          28,
+          2,
+          78,
+          19
+        ],
+        "easy": [
+          11,
+          3,
+          76,
+          35,
+          38
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "target_caption": "Yearning ascent",
+      "distractors": {
+        "hard": [
+          28,
+          10,
+          19,
+          60,
+          50
+        ],
+        "medium": [
+          13,
+          7,
+          78,
+          44,
+          72
+        ],
+        "easy": [
+          34,
+          27,
+          68,
+          36,
+          24
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "target_caption": "Wistful observation",
+      "distractors": {
+        "hard": [
+          72,
+          4,
+          83,
+          46,
+          8
+        ],
+        "medium": [
+          22,
+          19,
+          82,
+          36,
+          31
+        ],
+        "easy": [
+          76,
+          12,
+          14,
+          1,
+          74
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "target_caption": "Open sky dream",
+      "distractors": {
+        "hard": [
+          2,
+          69,
+          20,
+          13,
+          26
+        ],
+        "medium": [
+          57,
+          16,
+          58,
+          30,
+          74
+        ],
+        "easy": [
+          70,
+          82,
+          53,
+          76,
+          9
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "target_caption": "Fading golden hours",
+      "distractors": {
+        "hard": [
+          17,
+          3,
+          44,
+          2,
+          38
+        ],
+        "medium": [
+          55,
+          8,
+          43,
+          28,
+          33
+        ],
+        "easy": [
+          7,
+          40,
+          25,
+          11,
+          65
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "target_caption": "Fleeting existence",
+      "distractors": {
+        "hard": [
+          32,
+          19,
+          71,
+          40,
+          23
+        ],
+        "medium": [
+          67,
+          81,
+          9,
+          76,
+          8
+        ],
+        "easy": [
+          30,
+          63,
+          37,
+          21,
+          60
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "target_caption": "Silent labyrinth",
+      "distractors": {
+        "hard": [
+          13,
+          19,
+          80,
+          69,
+          37
+        ],
+        "medium": [
+          28,
+          50,
+          61,
+          67,
+          68
+        ],
+        "easy": [
+          21,
+          59,
+          62,
+          54,
+          65
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "target_caption": "Forgotten sanctuary",
+      "distractors": {
+        "hard": [
+          78,
+          60,
+          13,
+          26,
+          61
+        ],
+        "medium": [
+          80,
+          4,
+          74,
+          31,
+          70
+        ],
+        "easy": [
+          7,
+          5,
+          12,
+          54,
+          24
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "target_caption": "Hidden melody",
+      "distractors": {
+        "hard": [
+          71,
+          43,
+          19,
+          78,
+          52
+        ],
+        "medium": [
+          64,
+          2,
+          59,
+          80,
+          68
+        ],
+        "easy": [
+          3,
+          32,
+          16,
+          38,
+          72
+        ]
+      }
+    },
+    {
+      "id": 51,
+      "target_caption": "Lunar devotion",
+      "distractors": {
+        "hard": [
+          55,
+          56,
+          24,
+          7,
+          32
+        ],
+        "medium": [
+          38,
+          40,
+          61,
+          13,
+          48
+        ],
+        "easy": [
+          39,
+          75,
+          14,
+          70,
+          72
+        ]
+      }
+    },
+    {
+      "id": 52,
+      "target_caption": "Gentle giant",
+      "distractors": {
+        "hard": [
+          28,
+          10,
+          50,
+          44,
+          8
+        ],
+        "medium": [
+          36,
+          17,
+          3,
+          78,
+          21
+        ],
+        "easy": [
+          79,
+          45,
+          13,
+          76,
+          11
+        ]
+      }
+    },
+    {
+      "id": 53,
+      "target_caption": "Unlocking the self",
+      "distractors": {
+        "hard": [
+          26,
+          25,
+          19,
+          62,
+          9
+        ],
+        "medium": [
+          43,
+          5,
+          69,
+          60,
+          54
+        ],
+        "easy": [
+          23,
+          49,
+          76,
+          18,
+          74
+        ]
+      }
+    },
+    {
+      "id": 54,
+      "target_caption": "Forgotten narratives",
+      "distractors": {
+        "hard": [
+          20,
+          12,
+          23,
+          58,
+          53
+        ],
+        "medium": [
+          9,
+          24,
+          2,
+          1,
+          55
+        ],
+        "easy": [
+          11,
+          68,
+          38,
+          49,
+          59
+        ]
+      }
+    },
+    {
+      "id": 55,
+      "target_caption": "Glassed solitude",
+      "distractors": {
+        "hard": [
+          51,
+          59,
+          56,
+          13,
+          74
+        ],
+        "medium": [
+          19,
+          1,
+          84,
+          2,
+          61
+        ],
+        "easy": [
+          75,
+          18,
+          12,
+          52,
+          35
+        ]
+      }
+    },
+    {
+      "id": 56,
+      "target_caption": "Silent trophy",
+      "distractors": {
+        "hard": [
+          51,
+          55,
+          61,
+          7,
+          59
+        ],
+        "medium": [
+          32,
+          21,
+          1,
+          2,
+          67
+        ],
+        "easy": [
+          84,
+          20,
+          64,
+          83,
+          79
+        ]
+      }
+    },
+    {
+      "id": 57,
+      "target_caption": "Caged embers",
+      "distractors": {
+        "hard": [
+          66,
+          62,
+          45,
+          53,
+          47
+        ],
+        "medium": [
+          49,
+          17,
+          14,
+          19,
+          25
+        ],
+        "easy": [
+          20,
+          28,
+          8,
+          44,
+          5
+        ]
+      }
+    },
+    {
+      "id": 58,
+      "target_caption": "Celestial counting",
+      "distractors": {
+        "hard": [
+          23,
+          54,
+          20,
+          24,
+          2
+        ],
+        "medium": [
+          45,
+          70,
+          74,
+          62,
+          53
+        ],
+        "easy": [
+          78,
+          82,
+          57,
+          28,
+          44
+        ]
+      }
+    },
+    {
+      "id": 59,
+      "target_caption": "Fleeting capture",
+      "distractors": {
+        "hard": [
+          55,
+          1,
+          67,
+          51,
+          56
+        ],
+        "medium": [
+          42,
+          16,
+          31,
+          80,
+          48
+        ],
+        "easy": [
+          49,
+          47,
+          32,
+          26,
+          44
+        ]
+      }
+    },
+    {
+      "id": 60,
+      "target_caption": "Secret garden",
+      "distractors": {
+        "hard": [
+          26,
+          49,
+          70,
+          13,
+          78
+        ],
+        "medium": [
+          16,
+          44,
+          37,
+          31,
+          21
+        ],
+        "easy": [
+          57,
+          51,
+          9,
+          5,
+          15
+        ]
+      }
+    },
+    {
+      "id": 61,
+      "target_caption": "Unreachable aspirations",
+      "distractors": {
+        "hard": [
+          78,
+          49,
+          26,
+          60,
+          16
+        ],
+        "medium": [
+          42,
+          19,
+          30,
+          58,
+          41
+        ],
+        "easy": [
+          44,
+          67,
+          3,
+          11,
+          82
+        ]
+      }
+    },
+    {
+      "id": 62,
+      "target_caption": "Bottled illumination",
+      "distractors": {
+        "hard": [
+          29,
+          53,
+          15,
+          40,
+          69
+        ],
+        "medium": [
+          16,
+          2,
+          63,
+          66,
+          57
+        ],
+        "easy": [
+          61,
+          41,
+          64,
+          45,
+          20
+        ]
+      }
+    },
+    {
+      "id": 63,
+      "target_caption": "Crimson pursuit",
+      "distractors": {
+        "hard": [
+          4,
+          78,
+          43,
+          62,
+          50
+        ],
+        "medium": [
+          6,
+          48,
+          41,
+          69,
+          19
+        ],
+        "easy": [
+          56,
+          71,
+          58,
+          32,
+          37
+        ]
+      }
+    },
+    {
+      "id": 64,
+      "target_caption": "Golden embrace",
+      "distractors": {
+        "hard": [
+          71,
+          19,
+          35,
+          78,
+          41
+        ],
+        "medium": [
+          20,
+          40,
+          50,
+          18,
+          23
+        ],
+        "easy": [
+          13,
+          38,
+          74,
+          15,
+          77
+        ]
+      }
+    },
+    {
+      "id": 65,
+      "target_caption": "Golden restraint",
+      "distractors": {
+        "hard": [
+          24,
+          84,
+          20,
+          73,
+          12
+        ],
+        "medium": [
+          7,
+          3,
+          41,
+          70,
+          17
+        ],
+        "easy": [
+          37,
+          22,
+          75,
+          16,
+          74
+        ]
+      }
+    },
+    {
+      "id": 66,
+      "target_caption": "Fragile ascension",
+      "distractors": {
+        "hard": [
+          53,
+          76,
+          57,
+          15,
+          41
+        ],
+        "medium": [
+          43,
+          62,
+          6,
+          9,
+          14
+        ],
+        "easy": [
+          42,
+          18,
+          70,
+          17,
+          24
+        ]
+      }
+    },
+    {
+      "id": 67,
+      "target_caption": "Caged longing",
+      "distractors": {
+        "hard": [
+          59,
+          55,
+          19,
+          81,
+          80
+        ],
+        "medium": [
+          69,
+          79,
+          31,
+          1,
+          33
+        ],
+        "easy": [
+          70,
+          38,
+          42,
+          52,
+          20
+        ]
+      }
+    },
+    {
+      "id": 68,
+      "target_caption": "Golden uncertainty",
+      "distractors": {
+        "hard": [
+          36,
+          51,
+          33,
+          48,
+          50
+        ],
+        "medium": [
+          71,
+          40,
+          25,
+          62,
+          6
+        ],
+        "easy": [
+          23,
+          77,
+          81,
+          18,
+          83
+        ]
+      }
+    },
+    {
+      "id": 69,
+      "target_caption": "Silent beginnings",
+      "distractors": {
+        "hard": [
+          45,
+          17,
+          84,
+          38,
+          26
+        ],
+        "medium": [
+          48,
+          73,
+          16,
+          2,
+          41
+        ],
+        "easy": [
+          39,
+          61,
+          9,
+          52,
+          40
+        ]
+      }
+    },
+    {
+      "id": 70,
+      "target_caption": "Whispers of giants",
+      "distractors": {
+        "hard": [
+          60,
+          28,
+          81,
+          49,
+          3
+        ],
+        "medium": [
+          7,
+          59,
+          73,
+          20,
+          58
+        ],
+        "easy": [
+          6,
+          23,
+          38,
+          56,
+          62
+        ]
+      }
+    },
+    {
+      "id": 71,
+      "target_caption": "Fleeting control",
+      "distractors": {
+        "hard": [
+          64,
+          41,
+          76,
+          50,
+          23
+        ],
+        "medium": [
+          84,
+          1,
+          53,
+          14,
+          65
+        ],
+        "easy": [
+          43,
+          15,
+          9,
+          38,
+          21
+        ]
+      }
+    },
+    {
+      "id": 72,
+      "target_caption": "Tiny universes",
+      "distractors": {
+        "hard": [
+          44,
+          42,
+          80,
+          19,
+          48
+        ],
+        "medium": [
+          21,
+          27,
+          16,
+          13,
+          53
+        ],
+        "easy": [
+          61,
+          78,
+          54,
+          11,
+          3
+        ]
+      }
+    },
+    {
+      "id": 73,
+      "target_caption": "Skybound reverie",
+      "distractors": {
+        "hard": [
+          17,
+          6,
+          13,
+          41,
+          45
+        ],
+        "medium": [
+          71,
+          20,
+          65,
+          32,
+          2
+        ],
+        "easy": [
+          52,
+          4,
+          30,
+          7,
+          77
+        ]
+      }
+    },
+    {
+      "id": 74,
+      "target_caption": "Fragile emergence",
+      "distractors": {
+        "hard": [
+          1,
+          55,
+          16,
+          38,
+          30
+        ],
+        "medium": [
+          2,
+          45,
+          17,
+          81,
+          20
+        ],
+        "easy": [
+          68,
+          64,
+          78,
+          75,
+          37
+        ]
+      }
+    },
+    {
+      "id": 75,
+      "target_caption": "Golden decadence",
+      "distractors": {
+        "hard": [
+          4,
+          63,
+          19,
+          72,
+          78
+        ],
+        "medium": [
+          82,
+          80,
+          48,
+          38,
+          47
+        ],
+        "easy": [
+          74,
+          73,
+          23,
+          40,
+          5
+        ]
+      }
+    },
+    {
+      "id": 76,
+      "target_caption": "Revealed destiny",
+      "distractors": {
+        "hard": [
+          71,
+          66,
+          23,
+          78,
+          54
+        ],
+        "medium": [
+          1,
+          53,
+          26,
+          50,
+          61
+        ],
+        "easy": [
+          28,
+          83,
+          75,
+          42,
+          18
+        ]
+      }
+    },
+    {
+      "id": 77,
+      "target_caption": "Quiet beginnings",
+      "distractors": {
+        "hard": [
+          33,
+          48,
+          51,
+          69,
+          55
+        ],
+        "medium": [
+          36,
+          6,
+          28,
+          18,
+          38
+        ],
+        "easy": [
+          61,
+          81,
+          9,
+          40,
+          17
+        ]
+      }
+    },
+    {
+      "id": 78,
+      "target_caption": "Emerald labyrinth",
+      "distractors": {
+        "hard": [
+          49,
+          61,
+          19,
+          10,
+          6
+        ],
+        "medium": [
+          71,
+          4,
+          23,
+          63,
+          50
+        ],
+        "easy": [
+          38,
+          51,
+          9,
+          31,
+          55
+        ]
+      }
+    },
+    {
+      "id": 79,
+      "target_caption": "Golden longing",
+      "distractors": {
+        "hard": [
+          40,
+          25,
+          24,
+          84,
+          16
+        ],
+        "medium": [
+          44,
+          33,
+          35,
+          38,
+          83
+        ],
+        "easy": [
+          21,
+          58,
+          74,
+          27,
+          23
+        ]
+      }
+    },
+    {
+      "id": 80,
+      "target_caption": "Ephemeral Eden",
+      "distractors": {
+        "hard": [
+          41,
+          19,
+          6,
+          32,
+          26
+        ],
+        "medium": [
+          43,
+          12,
+          1,
+          81,
+          20
+        ],
+        "easy": [
+          35,
+          11,
+          70,
+          75,
+          55
+        ]
+      }
+    },
+    {
+      "id": 81,
+      "target_caption": "Sunken reverie",
+      "distractors": {
+        "hard": [
+          80,
+          30,
+          53,
+          12,
+          62
+        ],
+        "medium": [
+          74,
+          38,
+          67,
+          2,
+          69
+        ],
+        "easy": [
+          41,
+          49,
+          58,
+          21,
+          27
+        ]
+      }
+    },
+    {
+      "id": 82,
+      "target_caption": "Melancholy resonance",
+      "distractors": {
+        "hard": [
+          19,
+          50,
+          44,
+          83,
+          72
+        ],
+        "medium": [
+          18,
+          13,
+          48,
+          53,
+          80
+        ],
+        "easy": [
+          64,
+          12,
+          7,
+          57,
+          79
+        ]
+      }
+    },
+    {
+      "id": 83,
+      "target_caption": "Puppet master's gaze",
+      "distractors": {
+        "hard": [
+          44,
+          21,
+          72,
+          82,
+          47
+        ],
+        "medium": [
+          43,
+          28,
+          68,
+          29,
+          75
+        ],
+        "easy": [
+          16,
+          17,
+          57,
+          56,
+          41
+        ]
+      }
+    },
+    {
+      "id": 84,
+      "target_caption": "Golden anticipation",
+      "distractors": {
+        "hard": [
+          20,
+          1,
+          38,
+          41,
+          69
+        ],
+        "medium": [
+          54,
+          65,
+          39,
+          2,
+          12
+        ],
+        "easy": [
+          33,
+          53,
+          50,
+          49,
+          57
+        ]
+      }
+    }
+  ]
+}

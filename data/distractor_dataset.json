@@ -1,0 +1,6570 @@
+{
+  "metadata": {
+    "total_samples": 252,
+    "total_images": 84,
+    "difficulties": [
+      "hard",
+      "medium",
+      "easy"
+    ],
+    "caption_type": "phrase",
+    "distractors_per_sample": 5,
+    "task": "image-text matching",
+    "caption_style": "dixit_abstract",
+    "caption_length": "1-4 words"
+  },
+  "dataset": [
+    {
+      "image_id": 1,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/1.png",
+        "caption": "Fragile ascension"
+      },
+      "distractors": [
+        {
+          "img": "images/59.png"
+        },
+        {
+          "img": "images/20.png"
+        },
+        {
+          "img": "images/84.png"
+        },
+        {
+          "img": "images/74.png"
+        },
+        {
+          "img": "images/41.png"
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/1.png",
+        "caption": "Fragile ascension"
+      },
+      "distractors": [
+        {
+          "img": "images/18.png"
+        },
+        {
+          "img": "images/48.png"
+        },
+        {
+          "img": "images/69.png"
+        },
+        {
+          "img": "images/53.png"
+        },
+        {
+          "img": "images/60.png"
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/1.png",
+        "caption": "Fragile ascension"
+      },
+      "distractors": [
+        {
+          "img": "images/28.png"
+        },
+        {
+          "img": "images/49.png"
+        },
+        {
+          "img": "images/50.png"
+        },
+        {
+          "img": "images/10.png"
+        },
+        {
+          "img": "images/33.png"
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/2.png",
+        "caption": "Empty command"
+      },
+      "distractors": [
+        {
+          "img": "images/45.png"
+        },
+        {
+          "img": "images/20.png"
+        },
+        {
+          "img": "images/41.png"
+        },
+        {
+          "img": "images/38.png"
+        },
+        {
+          "img": "images/16.png"
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/2.png",
+        "caption": "Empty command"
+      },
+      "distractors": [
+        {
+          "img": "images/14.png"
+        },
+        {
+          "img": "images/30.png"
+        },
+        {
+          "img": "images/26.png"
+        },
+        {
+          "img": "images/1.png"
+        },
+        {
+          "img": "images/46.png"
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/2.png",
+        "caption": "Empty command"
+      },
+      "distractors": [
+        {
+          "img": "images/23.png"
+        },
+        {
+          "img": "images/78.png"
+        },
+        {
+          "img": "images/82.png"
+        },
+        {
+          "img": "images/75.png"
+        },
+        {
+          "img": "images/34.png"
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/3.png",
+        "caption": "Golden passage"
+      },
+      "distractors": [
+        {
+          "img": "images/17.png"
+        },
+        {
+          "img": "images/46.png"
+        },
+        {
+          "img": "images/28.png"
+        },
+        {
+          "img": "images/70.png"
+        },
+        {
+          "img": "images/39.png"
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/3.png",
+        "caption": "Golden passage"
+      },
+      "distractors": [
+        {
+          "img": "images/38.png"
+        },
+        {
+          "img": "images/16.png"
+        },
+        {
+          "img": "images/60.png"
+        },
+        {
+          "img": "images/49.png"
+        },
+        {
+          "img": "images/84.png"
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/3.png",
+        "caption": "Golden passage"
+      },
+      "distractors": [
+        {
+          "img": "images/23.png"
+        },
+        {
+          "img": "images/7.png"
+        },
+        {
+          "img": "images/54.png"
+        },
+        {
+          "img": "images/5.png"
+        },
+        {
+          "img": "images/25.png"
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/4.png",
+        "caption": "Hidden anxieties"
+      },
+      "distractors": [
+        {
+          "img": "images/44.png"
+        },
+        {
+          "img": "images/75.png"
+        },
+        {
+          "img": "images/60.png"
+        },
+        {
+          "img": "images/63.png"
+        },
+        {
+          "img": "images/78.png"
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/4.png",
+        "caption": "Hidden anxieties"
+      },
+      "distractors": [
+        {
+          "img": "images/25.png"
+        },
+        {
+          "img": "images/16.png"
+        },
+        {
+          "img": "images/49.png"
+        },
+        {
+          "img": "images/41.png"
+        },
+        {
+          "img": "images/10.png"
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/4.png",
+        "caption": "Hidden anxieties"
+      },
+      "distractors": [
+        {
+          "img": "images/47.png"
+        },
+        {
+          "img": "images/66.png"
+        },
+        {
+          "img": "images/83.png"
+        },
+        {
+          "img": "images/31.png"
+        },
+        {
+          "img": "images/23.png"
+        }
+      ]
+    },
+    {
+      "image_id": 5,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/5.png",
+        "caption": "Weightless surrender"
+      },
+      "distractors": [
+        {
+          "img": "images/53.png"
+        },
+        {
+          "img": "images/7.png"
+        },
+        {
+          "img": "images/12.png"
+        },
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/30.png"
+        }
+      ]
+    },
+    {
+      "image_id": 5,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/5.png",
+        "caption": "Weightless surrender"
+      },
+      "distractors": [
+        {
+          "img": "images/67.png"
+        },
+        {
+          "img": "images/71.png"
+        },
+        {
+          "img": "images/2.png"
+        },
+        {
+          "img": "images/47.png"
+        },
+        {
+          "img": "images/4.png"
+        }
+      ]
+    },
+    {
+      "image_id": 5,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/5.png",
+        "caption": "Weightless surrender"
+      },
+      "distractors": [
+        {
+          "img": "images/79.png"
+        },
+        {
+          "img": "images/73.png"
+        },
+        {
+          "img": "images/11.png"
+        },
+        {
+          "img": "images/50.png"
+        },
+        {
+          "img": "images/45.png"
+        }
+      ]
+    },
+    {
+      "image_id": 6,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/6.png",
+        "caption": "Entwined destiny"
+      },
+      "distractors": [
+        {
+          "img": "images/41.png"
+        },
+        {
+          "img": "images/80.png"
+        },
+        {
+          "img": "images/78.png"
+        },
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/73.png"
+        }
+      ]
+    },
+    {
+      "image_id": 6,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/6.png",
+        "caption": "Entwined destiny"
+      },
+      "distractors": [
+        {
+          "img": "images/36.png"
+        },
+        {
+          "img": "images/61.png"
+        },
+        {
+          "img": "images/4.png"
+        },
+        {
+          "img": "images/50.png"
+        },
+        {
+          "img": "images/14.png"
+        }
+      ]
+    },
+    {
+      "image_id": 6,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/6.png",
+        "caption": "Entwined destiny"
+      },
+      "distractors": [
+        {
+          "img": "images/12.png"
+        },
+        {
+          "img": "images/1.png"
+        },
+        {
+          "img": "images/45.png"
+        },
+        {
+          "img": "images/84.png"
+        },
+        {
+          "img": "images/79.png"
+        }
+      ]
+    },
+    {
+      "image_id": 7,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/7.png",
+        "caption": "Wound, waiting stillness"
+      },
+      "distractors": [
+        {
+          "img": "images/30.png"
+        },
+        {
+          "img": "images/31.png"
+        },
+        {
+          "img": "images/24.png"
+        },
+        {
+          "img": "images/84.png"
+        },
+        {
+          "img": "images/2.png"
+        }
+      ]
+    },
+    {
+      "image_id": 7,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/7.png",
+        "caption": "Wound, waiting stillness"
+      },
+      "distractors": [
+        {
+          "img": "images/54.png"
+        },
+        {
+          "img": "images/26.png"
+        },
+        {
+          "img": "images/15.png"
+        },
+        {
+          "img": "images/60.png"
+        },
+        {
+          "img": "images/81.png"
+        }
+      ]
+    },
+    {
+      "image_id": 7,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/7.png",
+        "caption": "Wound, waiting stillness"
+      },
+      "distractors": [
+        {
+          "img": "images/77.png"
+        },
+        {
+          "img": "images/11.png"
+        },
+        {
+          "img": "images/52.png"
+        },
+        {
+          "img": "images/29.png"
+        },
+        {
+          "img": "images/83.png"
+        }
+      ]
+    },
+    {
+      "image_id": 8,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/8.png",
+        "caption": "Silent guardian"
+      },
+      "distractors": [
+        {
+          "img": "images/44.png"
+        },
+        {
+          "img": "images/52.png"
+        },
+        {
+          "img": "images/28.png"
+        },
+        {
+          "img": "images/46.png"
+        },
+        {
+          "img": "images/72.png"
+        }
+      ]
+    },
+    {
+      "image_id": 8,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/8.png",
+        "caption": "Silent guardian"
+      },
+      "distractors": [
+        {
+          "img": "images/83.png"
+        },
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/80.png"
+        },
+        {
+          "img": "images/53.png"
+        },
+        {
+          "img": "images/32.png"
+        }
+      ]
+    },
+    {
+      "image_id": 8,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/8.png",
+        "caption": "Silent guardian"
+      },
+      "distractors": [
+        {
+          "img": "images/81.png"
+        },
+        {
+          "img": "images/24.png"
+        },
+        {
+          "img": "images/55.png"
+        },
+        {
+          "img": "images/11.png"
+        },
+        {
+          "img": "images/50.png"
+        }
+      ]
+    },
+    {
+      "image_id": 9,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/9.png",
+        "caption": "Uncharted memories"
+      },
+      "distractors": [
+        {
+          "img": "images/53.png"
+        },
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/26.png"
+        },
+        {
+          "img": "images/20.png"
+        },
+        {
+          "img": "images/66.png"
+        }
+      ]
+    },
+    {
+      "image_id": 9,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/9.png",
+        "caption": "Uncharted memories"
+      },
+      "distractors": [
+        {
+          "img": "images/12.png"
+        },
+        {
+          "img": "images/65.png"
+        },
+        {
+          "img": "images/58.png"
+        },
+        {
+          "img": "images/48.png"
+        },
+        {
+          "img": "images/43.png"
+        }
+      ]
+    },
+    {
+      "image_id": 9,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/9.png",
+        "caption": "Uncharted memories"
+      },
+      "distractors": [
+        {
+          "img": "images/44.png"
+        },
+        {
+          "img": "images/5.png"
+        },
+        {
+          "img": "images/70.png"
+        },
+        {
+          "img": "images/24.png"
+        },
+        {
+          "img": "images/27.png"
+        }
+      ]
+    },
+    {
+      "image_id": 10,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/10.png",
+        "caption": "Unwritten fate"
+      },
+      "distractors": [
+        {
+          "img": "images/78.png"
+        },
+        {
+          "img": "images/43.png"
+        },
+        {
+          "img": "images/80.png"
+        },
+        {
+          "img": "images/37.png"
+        },
+        {
+          "img": "images/6.png"
+        }
+      ]
+    },
+    {
+      "image_id": 10,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/10.png",
+        "caption": "Unwritten fate"
+      },
+      "distractors": [
+        {
+          "img": "images/32.png"
+        },
+        {
+          "img": "images/53.png"
+        },
+        {
+          "img": "images/27.png"
+        },
+        {
+          "img": "images/28.png"
+        },
+        {
+          "img": "images/19.png"
+        }
+      ]
+    },
+    {
+      "image_id": 10,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/10.png",
+        "caption": "Unwritten fate"
+      },
+      "distractors": [
+        {
+          "img": "images/58.png"
+        },
+        {
+          "img": "images/8.png"
+        },
+        {
+          "img": "images/18.png"
+        },
+        {
+          "img": "images/72.png"
+        },
+        {
+          "img": "images/23.png"
+        }
+      ]
+    },
+    {
+      "image_id": 11,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/11.png",
+        "caption": "Quiet reckoning"
+      },
+      "distractors": [
+        {
+          "img": "images/41.png"
+        },
+        {
+          "img": "images/15.png"
+        },
+        {
+          "img": "images/26.png"
+        },
+        {
+          "img": "images/43.png"
+        },
+        {
+          "img": "images/25.png"
+        }
+      ]
+    },
+    {
+      "image_id": 11,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/11.png",
+        "caption": "Quiet reckoning"
+      },
+      "distractors": [
+        {
+          "img": "images/77.png"
+        },
+        {
+          "img": "images/66.png"
+        },
+        {
+          "img": "images/55.png"
+        },
+        {
+          "img": "images/2.png"
+        },
+        {
+          "img": "images/50.png"
+        }
+      ]
+    },
+    {
+      "image_id": 11,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/11.png",
+        "caption": "Quiet reckoning"
+      },
+      "distractors": [
+        {
+          "img": "images/22.png"
+        },
+        {
+          "img": "images/63.png"
+        },
+        {
+          "img": "images/78.png"
+        },
+        {
+          "img": "images/10.png"
+        },
+        {
+          "img": "images/18.png"
+        }
+      ]
+    },
+    {
+      "image_id": 12,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/12.png",
+        "caption": "Fragile ascent"
+      },
+      "distractors": [
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/13.png"
+        },
+        {
+          "img": "images/54.png"
+        },
+        {
+          "img": "images/20.png"
+        },
+        {
+          "img": "images/53.png"
+        }
+      ]
+    },
+    {
+      "image_id": 12,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/12.png",
+        "caption": "Fragile ascent"
+      },
+      "distractors": [
+        {
+          "img": "images/45.png"
+        },
+        {
+          "img": "images/41.png"
+        },
+        {
+          "img": "images/65.png"
+        },
+        {
+          "img": "images/31.png"
+        },
+        {
+          "img": "images/69.png"
+        }
+      ]
+    },
+    {
+      "image_id": 12,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/12.png",
+        "caption": "Fragile ascent"
+      },
+      "distractors": [
+        {
+          "img": "images/27.png"
+        },
+        {
+          "img": "images/3.png"
+        },
+        {
+          "img": "images/55.png"
+        },
+        {
+          "img": "images/77.png"
+        },
+        {
+          "img": "images/70.png"
+        }
+      ]
+    },
+    {
+      "image_id": 13,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/13.png",
+        "caption": "Golden, slow climb"
+      },
+      "distractors": [
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/49.png"
+        },
+        {
+          "img": "images/12.png"
+        },
+        {
+          "img": "images/48.png"
+        },
+        {
+          "img": "images/60.png"
+        }
+      ]
+    },
+    {
+      "image_id": 13,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/13.png",
+        "caption": "Golden, slow climb"
+      },
+      "distractors": [
+        {
+          "img": "images/37.png"
+        },
+        {
+          "img": "images/43.png"
+        },
+        {
+          "img": "images/74.png"
+        },
+        {
+          "img": "images/6.png"
+        },
+        {
+          "img": "images/38.png"
+        }
+      ]
+    },
+    {
+      "image_id": 13,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/13.png",
+        "caption": "Golden, slow climb"
+      },
+      "distractors": [
+        {
+          "img": "images/51.png"
+        },
+        {
+          "img": "images/41.png"
+        },
+        {
+          "img": "images/56.png"
+        },
+        {
+          "img": "images/63.png"
+        },
+        {
+          "img": "images/5.png"
+        }
+      ]
+    },
+    {
+      "image_id": 14,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/14.png",
+        "caption": "Devouring giants"
+      },
+      "distractors": [
+        {
+          "img": "images/2.png"
+        },
+        {
+          "img": "images/20.png"
+        },
+        {
+          "img": "images/80.png"
+        },
+        {
+          "img": "images/71.png"
+        },
+        {
+          "img": "images/41.png"
+        }
+      ]
+    },
+    {
+      "image_id": 14,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/14.png",
+        "caption": "Devouring giants"
+      },
+      "distractors": [
+        {
+          "img": "images/57.png"
+        },
+        {
+          "img": "images/12.png"
+        },
+        {
+          "img": "images/10.png"
+        },
+        {
+          "img": "images/26.png"
+        },
+        {
+          "img": "images/53.png"
+        }
+      ]
+    },
+    {
+      "image_id": 14,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/14.png",
+        "caption": "Devouring giants"
+      },
+      "distractors": [
+        {
+          "img": "images/1.png"
+        },
+        {
+          "img": "images/48.png"
+        },
+        {
+          "img": "images/22.png"
+        },
+        {
+          "img": "images/74.png"
+        },
+        {
+          "img": "images/9.png"
+        }
+      ]
+    },
+    {
+      "image_id": 15,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/15.png",
+        "caption": "Rising unease"
+      },
+      "distractors": [
+        {
+          "img": "images/80.png"
+        },
+        {
+          "img": "images/62.png"
+        },
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/41.png"
+        },
+        {
+          "img": "images/66.png"
+        }
+      ]
+    },
+    {
+      "image_id": 15,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/15.png",
+        "caption": "Rising unease"
+      },
+      "distractors": [
+        {
+          "img": "images/20.png"
+        },
+        {
+          "img": "images/53.png"
+        },
+        {
+          "img": "images/32.png"
+        },
+        {
+          "img": "images/81.png"
+        },
+        {
+          "img": "images/54.png"
+        }
+      ]
+    },
+    {
+      "image_id": 15,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/15.png",
+        "caption": "Rising unease"
+      },
+      "distractors": [
+        {
+          "img": "images/49.png"
+        },
+        {
+          "img": "images/13.png"
+        },
+        {
+          "img": "images/16.png"
+        },
+        {
+          "img": "images/72.png"
+        },
+        {
+          "img": "images/42.png"
+        }
+      ]
+    },
+    {
+      "image_id": 16,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/16.png",
+        "caption": "Guarded bloom"
+      },
+      "distractors": [
+        {
+          "img": "images/38.png"
+        },
+        {
+          "img": "images/33.png"
+        },
+        {
+          "img": "images/74.png"
+        },
+        {
+          "img": "images/2.png"
+        },
+        {
+          "img": "images/61.png"
+        }
+      ]
+    },
+    {
+      "image_id": 16,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/16.png",
+        "caption": "Guarded bloom"
+      },
+      "distractors": [
+        {
+          "img": "images/14.png"
+        },
+        {
+          "img": "images/46.png"
+        },
+        {
+          "img": "images/49.png"
+        },
+        {
+          "img": "images/20.png"
+        },
+        {
+          "img": "images/84.png"
+        }
+      ]
+    },
+    {
+      "image_id": 16,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/16.png",
+        "caption": "Guarded bloom"
+      },
+      "distractors": [
+        {
+          "img": "images/9.png"
+        },
+        {
+          "img": "images/68.png"
+        },
+        {
+          "img": "images/18.png"
+        },
+        {
+          "img": "images/36.png"
+        },
+        {
+          "img": "images/17.png"
+        }
+      ]
+    },
+    {
+      "image_id": 17,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/17.png",
+        "caption": "Ephemeral yearning"
+      },
+      "distractors": [
+        {
+          "img": "images/69.png"
+        },
+        {
+          "img": "images/73.png"
+        },
+        {
+          "img": "images/46.png"
+        },
+        {
+          "img": "images/3.png"
+        },
+        {
+          "img": "images/84.png"
+        }
+      ]
+    },
+    {
+      "image_id": 17,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/17.png",
+        "caption": "Ephemeral yearning"
+      },
+      "distractors": [
+        {
+          "img": "images/24.png"
+        },
+        {
+          "img": "images/20.png"
+        },
+        {
+          "img": "images/30.png"
+        },
+        {
+          "img": "images/38.png"
+        },
+        {
+          "img": "images/6.png"
+        }
+      ]
+    },
+    {
+      "image_id": 17,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/17.png",
+        "caption": "Ephemeral yearning"
+      },
+      "distractors": [
+        {
+          "img": "images/57.png"
+        },
+        {
+          "img": "images/31.png"
+        },
+        {
+          "img": "images/53.png"
+        },
+        {
+          "img": "images/48.png"
+        },
+        {
+          "img": "images/10.png"
+        }
+      ]
+    },
+    {
+      "image_id": 18,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/18.png",
+        "caption": "Orchestrated ascent"
+      },
+      "distractors": [
+        {
+          "img": "images/1.png"
+        },
+        {
+          "img": "images/24.png"
+        },
+        {
+          "img": "images/61.png"
+        },
+        {
+          "img": "images/48.png"
+        },
+        {
+          "img": "images/84.png"
+        }
+      ]
+    },
+    {
+      "image_id": 18,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/18.png",
+        "caption": "Orchestrated ascent"
+      },
+      "distractors": [
+        {
+          "img": "images/2.png"
+        },
+        {
+          "img": "images/82.png"
+        },
+        {
+          "img": "images/56.png"
+        },
+        {
+          "img": "images/60.png"
+        },
+        {
+          "img": "images/30.png"
+        }
+      ]
+    },
+    {
+      "image_id": 18,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/18.png",
+        "caption": "Orchestrated ascent"
+      },
+      "distractors": [
+        {
+          "img": "images/21.png"
+        },
+        {
+          "img": "images/77.png"
+        },
+        {
+          "img": "images/41.png"
+        },
+        {
+          "img": "images/65.png"
+        },
+        {
+          "img": "images/8.png"
+        }
+      ]
+    },
+    {
+      "image_id": 19,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/19.png",
+        "caption": "Rewinding memories"
+      },
+      "distractors": [
+        {
+          "img": "images/12.png"
+        },
+        {
+          "img": "images/13.png"
+        },
+        {
+          "img": "images/20.png"
+        },
+        {
+          "img": "images/80.png"
+        },
+        {
+          "img": "images/78.png"
+        }
+      ]
+    },
+    {
+      "image_id": 19,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/19.png",
+        "caption": "Rewinding memories"
+      },
+      "distractors": [
+        {
+          "img": "images/71.png"
+        },
+        {
+          "img": "images/82.png"
+        },
+        {
+          "img": "images/31.png"
+        },
+        {
+          "img": "images/41.png"
+        },
+        {
+          "img": "images/62.png"
+        }
+      ]
+    },
+    {
+      "image_id": 19,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/19.png",
+        "caption": "Rewinding memories"
+      },
+      "distractors": [
+        {
+          "img": "images/25.png"
+        },
+        {
+          "img": "images/54.png"
+        },
+        {
+          "img": "images/7.png"
+        },
+        {
+          "img": "images/17.png"
+        },
+        {
+          "img": "images/60.png"
+        }
+      ]
+    },
+    {
+      "image_id": 20,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/20.png",
+        "caption": "Ephemeral echoes"
+      },
+      "distractors": [
+        {
+          "img": "images/31.png"
+        },
+        {
+          "img": "images/84.png"
+        },
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/54.png"
+        },
+        {
+          "img": "images/1.png"
+        }
+      ]
+    },
+    {
+      "image_id": 20,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/20.png",
+        "caption": "Ephemeral echoes"
+      },
+      "distractors": [
+        {
+          "img": "images/23.png"
+        },
+        {
+          "img": "images/61.png"
+        },
+        {
+          "img": "images/12.png"
+        },
+        {
+          "img": "images/69.png"
+        },
+        {
+          "img": "images/80.png"
+        }
+      ]
+    },
+    {
+      "image_id": 20,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/20.png",
+        "caption": "Ephemeral echoes"
+      },
+      "distractors": [
+        {
+          "img": "images/60.png"
+        },
+        {
+          "img": "images/76.png"
+        },
+        {
+          "img": "images/67.png"
+        },
+        {
+          "img": "images/11.png"
+        },
+        {
+          "img": "images/22.png"
+        }
+      ]
+    },
+    {
+      "image_id": 21,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/21.png",
+        "caption": "Golden captivity"
+      },
+      "distractors": [
+        {
+          "img": "images/83.png"
+        },
+        {
+          "img": "images/26.png"
+        },
+        {
+          "img": "images/53.png"
+        },
+        {
+          "img": "images/60.png"
+        },
+        {
+          "img": "images/49.png"
+        }
+      ]
+    },
+    {
+      "image_id": 21,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/21.png",
+        "caption": "Golden captivity"
+      },
+      "distractors": [
+        {
+          "img": "images/10.png"
+        },
+        {
+          "img": "images/52.png"
+        },
+        {
+          "img": "images/29.png"
+        },
+        {
+          "img": "images/61.png"
+        },
+        {
+          "img": "images/44.png"
+        }
+      ]
+    },
+    {
+      "image_id": 21,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/21.png",
+        "caption": "Golden captivity"
+      },
+      "distractors": [
+        {
+          "img": "images/34.png"
+        },
+        {
+          "img": "images/46.png"
+        },
+        {
+          "img": "images/27.png"
+        },
+        {
+          "img": "images/54.png"
+        },
+        {
+          "img": "images/71.png"
+        }
+      ]
+    },
+    {
+      "image_id": 22,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/22.png",
+        "caption": "Solemn procession"
+      },
+      "distractors": [
+        {
+          "img": "images/44.png"
+        },
+        {
+          "img": "images/28.png"
+        },
+        {
+          "img": "images/52.png"
+        },
+        {
+          "img": "images/8.png"
+        },
+        {
+          "img": "images/21.png"
+        }
+      ]
+    },
+    {
+      "image_id": 22,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/22.png",
+        "caption": "Solemn procession"
+      },
+      "distractors": [
+        {
+          "img": "images/29.png"
+        },
+        {
+          "img": "images/49.png"
+        },
+        {
+          "img": "images/9.png"
+        },
+        {
+          "img": "images/42.png"
+        },
+        {
+          "img": "images/34.png"
+        }
+      ]
+    },
+    {
+      "image_id": 22,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/22.png",
+        "caption": "Solemn procession"
+      },
+      "distractors": [
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/23.png"
+        },
+        {
+          "img": "images/73.png"
+        },
+        {
+          "img": "images/63.png"
+        },
+        {
+          "img": "images/69.png"
+        }
+      ]
+    },
+    {
+      "image_id": 23,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/23.png",
+        "caption": "Timeless wonder"
+      },
+      "distractors": [
+        {
+          "img": "images/58.png"
+        },
+        {
+          "img": "images/54.png"
+        },
+        {
+          "img": "images/71.png"
+        },
+        {
+          "img": "images/15.png"
+        },
+        {
+          "img": "images/20.png"
+        }
+      ]
+    },
+    {
+      "image_id": 23,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/23.png",
+        "caption": "Timeless wonder"
+      },
+      "distractors": [
+        {
+          "img": "images/6.png"
+        },
+        {
+          "img": "images/53.png"
+        },
+        {
+          "img": "images/74.png"
+        },
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/2.png"
+        }
+      ]
+    },
+    {
+      "image_id": 23,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/23.png",
+        "caption": "Timeless wonder"
+      },
+      "distractors": [
+        {
+          "img": "images/67.png"
+        },
+        {
+          "img": "images/70.png"
+        },
+        {
+          "img": "images/4.png"
+        },
+        {
+          "img": "images/35.png"
+        },
+        {
+          "img": "images/34.png"
+        }
+      ]
+    },
+    {
+      "image_id": 24,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/24.png",
+        "caption": "Watched, silent sorrow"
+      },
+      "distractors": [
+        {
+          "img": "images/38.png"
+        },
+        {
+          "img": "images/7.png"
+        },
+        {
+          "img": "images/65.png"
+        },
+        {
+          "img": "images/2.png"
+        },
+        {
+          "img": "images/84.png"
+        }
+      ]
+    },
+    {
+      "image_id": 24,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/24.png",
+        "caption": "Watched, silent sorrow"
+      },
+      "distractors": [
+        {
+          "img": "images/58.png"
+        },
+        {
+          "img": "images/41.png"
+        },
+        {
+          "img": "images/73.png"
+        },
+        {
+          "img": "images/74.png"
+        },
+        {
+          "img": "images/23.png"
+        }
+      ]
+    },
+    {
+      "image_id": 24,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/24.png",
+        "caption": "Watched, silent sorrow"
+      },
+      "distractors": [
+        {
+          "img": "images/9.png"
+        },
+        {
+          "img": "images/68.png"
+        },
+        {
+          "img": "images/28.png"
+        },
+        {
+          "img": "images/47.png"
+        },
+        {
+          "img": "images/3.png"
+        }
+      ]
+    },
+    {
+      "image_id": 25,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/25.png",
+        "caption": "Hidden faces"
+      },
+      "distractors": [
+        {
+          "img": "images/53.png"
+        },
+        {
+          "img": "images/41.png"
+        },
+        {
+          "img": "images/79.png"
+        },
+        {
+          "img": "images/36.png"
+        },
+        {
+          "img": "images/26.png"
+        }
+      ]
+    },
+    {
+      "image_id": 25,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/25.png",
+        "caption": "Hidden faces"
+      },
+      "distractors": [
+        {
+          "img": "images/57.png"
+        },
+        {
+          "img": "images/68.png"
+        },
+        {
+          "img": "images/1.png"
+        },
+        {
+          "img": "images/78.png"
+        },
+        {
+          "img": "images/2.png"
+        }
+      ]
+    },
+    {
+      "image_id": 25,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/25.png",
+        "caption": "Hidden faces"
+      },
+      "distractors": [
+        {
+          "img": "images/43.png"
+        },
+        {
+          "img": "images/52.png"
+        },
+        {
+          "img": "images/76.png"
+        },
+        {
+          "img": "images/84.png"
+        },
+        {
+          "img": "images/33.png"
+        }
+      ]
+    },
+    {
+      "image_id": 26,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/26.png",
+        "caption": "Fading embers"
+      },
+      "distractors": [
+        {
+          "img": "images/60.png"
+        },
+        {
+          "img": "images/53.png"
+        },
+        {
+          "img": "images/49.png"
+        },
+        {
+          "img": "images/80.png"
+        },
+        {
+          "img": "images/69.png"
+        }
+      ]
+    },
+    {
+      "image_id": 26,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/26.png",
+        "caption": "Fading embers"
+      },
+      "distractors": [
+        {
+          "img": "images/2.png"
+        },
+        {
+          "img": "images/4.png"
+        },
+        {
+          "img": "images/21.png"
+        },
+        {
+          "img": "images/38.png"
+        },
+        {
+          "img": "images/41.png"
+        }
+      ]
+    },
+    {
+      "image_id": 26,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/26.png",
+        "caption": "Fading embers"
+      },
+      "distractors": [
+        {
+          "img": "images/51.png"
+        },
+        {
+          "img": "images/46.png"
+        },
+        {
+          "img": "images/18.png"
+        },
+        {
+          "img": "images/40.png"
+        },
+        {
+          "img": "images/47.png"
+        }
+      ]
+    },
+    {
+      "image_id": 27,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/27.png",
+        "caption": "Exposed fragility"
+      },
+      "distractors": [
+        {
+          "img": "images/10.png"
+        },
+        {
+          "img": "images/53.png"
+        },
+        {
+          "img": "images/72.png"
+        },
+        {
+          "img": "images/42.png"
+        },
+        {
+          "img": "images/19.png"
+        }
+      ]
+    },
+    {
+      "image_id": 27,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/27.png",
+        "caption": "Exposed fragility"
+      },
+      "distractors": [
+        {
+          "img": "images/47.png"
+        },
+        {
+          "img": "images/12.png"
+        },
+        {
+          "img": "images/69.png"
+        },
+        {
+          "img": "images/82.png"
+        },
+        {
+          "img": "images/37.png"
+        }
+      ]
+    },
+    {
+      "image_id": 27,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/27.png",
+        "caption": "Exposed fragility"
+      },
+      "distractors": [
+        {
+          "img": "images/40.png"
+        },
+        {
+          "img": "images/73.png"
+        },
+        {
+          "img": "images/44.png"
+        },
+        {
+          "img": "images/16.png"
+        },
+        {
+          "img": "images/23.png"
+        }
+      ]
+    },
+    {
+      "image_id": 28,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/28.png",
+        "caption": "Bizarre freedom"
+      },
+      "distractors": [
+        {
+          "img": "images/52.png"
+        },
+        {
+          "img": "images/43.png"
+        },
+        {
+          "img": "images/70.png"
+        },
+        {
+          "img": "images/80.png"
+        },
+        {
+          "img": "images/3.png"
+        }
+      ]
+    },
+    {
+      "image_id": 28,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/28.png",
+        "caption": "Bizarre freedom"
+      },
+      "distractors": [
+        {
+          "img": "images/48.png"
+        },
+        {
+          "img": "images/46.png"
+        },
+        {
+          "img": "images/55.png"
+        },
+        {
+          "img": "images/22.png"
+        },
+        {
+          "img": "images/37.png"
+        }
+      ]
+    },
+    {
+      "image_id": 28,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/28.png",
+        "caption": "Bizarre freedom"
+      },
+      "distractors": [
+        {
+          "img": "images/18.png"
+        },
+        {
+          "img": "images/65.png"
+        },
+        {
+          "img": "images/50.png"
+        },
+        {
+          "img": "images/71.png"
+        },
+        {
+          "img": "images/47.png"
+        }
+      ]
+    },
+    {
+      "image_id": 29,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/29.png",
+        "caption": "Fading embers"
+      },
+      "distractors": [
+        {
+          "img": "images/62.png"
+        },
+        {
+          "img": "images/15.png"
+        },
+        {
+          "img": "images/66.png"
+        },
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/69.png"
+        }
+      ]
+    },
+    {
+      "image_id": 29,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/29.png",
+        "caption": "Fading embers"
+      },
+      "distractors": [
+        {
+          "img": "images/21.png"
+        },
+        {
+          "img": "images/41.png"
+        },
+        {
+          "img": "images/45.png"
+        },
+        {
+          "img": "images/26.png"
+        },
+        {
+          "img": "images/53.png"
+        }
+      ]
+    },
+    {
+      "image_id": 29,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/29.png",
+        "caption": "Fading embers"
+      },
+      "distractors": [
+        {
+          "img": "images/25.png"
+        },
+        {
+          "img": "images/54.png"
+        },
+        {
+          "img": "images/28.png"
+        },
+        {
+          "img": "images/14.png"
+        },
+        {
+          "img": "images/27.png"
+        }
+      ]
+    },
+    {
+      "image_id": 30,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/30.png",
+        "caption": "Captured reverie"
+      },
+      "distractors": [
+        {
+          "img": "images/7.png"
+        },
+        {
+          "img": "images/31.png"
+        },
+        {
+          "img": "images/20.png"
+        },
+        {
+          "img": "images/84.png"
+        },
+        {
+          "img": "images/26.png"
+        }
+      ]
+    },
+    {
+      "image_id": 30,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/30.png",
+        "caption": "Captured reverie"
+      },
+      "distractors": [
+        {
+          "img": "images/61.png"
+        },
+        {
+          "img": "images/16.png"
+        },
+        {
+          "img": "images/2.png"
+        },
+        {
+          "img": "images/45.png"
+        },
+        {
+          "img": "images/69.png"
+        }
+      ]
+    },
+    {
+      "image_id": 30,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/30.png",
+        "caption": "Captured reverie"
+      },
+      "distractors": [
+        {
+          "img": "images/21.png"
+        },
+        {
+          "img": "images/48.png"
+        },
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/8.png"
+        },
+        {
+          "img": "images/50.png"
+        }
+      ]
+    },
+    {
+      "image_id": 31,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/31.png",
+        "caption": "Windswept solitude"
+      },
+      "distractors": [
+        {
+          "img": "images/20.png"
+        },
+        {
+          "img": "images/7.png"
+        },
+        {
+          "img": "images/30.png"
+        },
+        {
+          "img": "images/2.png"
+        },
+        {
+          "img": "images/19.png"
+        }
+      ]
+    },
+    {
+      "image_id": 31,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/31.png",
+        "caption": "Windswept solitude"
+      },
+      "distractors": [
+        {
+          "img": "images/26.png"
+        },
+        {
+          "img": "images/43.png"
+        },
+        {
+          "img": "images/84.png"
+        },
+        {
+          "img": "images/41.png"
+        },
+        {
+          "img": "images/49.png"
+        }
+      ]
+    },
+    {
+      "image_id": 31,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/31.png",
+        "caption": "Windswept solitude"
+      },
+      "distractors": [
+        {
+          "img": "images/78.png"
+        },
+        {
+          "img": "images/83.png"
+        },
+        {
+          "img": "images/38.png"
+        },
+        {
+          "img": "images/33.png"
+        },
+        {
+          "img": "images/47.png"
+        }
+      ]
+    },
+    {
+      "image_id": 32,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/32.png",
+        "caption": "Weightless surrender"
+      },
+      "distractors": [
+        {
+          "img": "images/41.png"
+        },
+        {
+          "img": "images/80.png"
+        },
+        {
+          "img": "images/53.png"
+        },
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/42.png"
+        }
+      ]
+    },
+    {
+      "image_id": 32,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/32.png",
+        "caption": "Weightless surrender"
+      },
+      "distractors": [
+        {
+          "img": "images/26.png"
+        },
+        {
+          "img": "images/10.png"
+        },
+        {
+          "img": "images/51.png"
+        },
+        {
+          "img": "images/78.png"
+        },
+        {
+          "img": "images/20.png"
+        }
+      ]
+    },
+    {
+      "image_id": 32,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/32.png",
+        "caption": "Weightless surrender"
+      },
+      "distractors": [
+        {
+          "img": "images/27.png"
+        },
+        {
+          "img": "images/17.png"
+        },
+        {
+          "img": "images/55.png"
+        },
+        {
+          "img": "images/36.png"
+        },
+        {
+          "img": "images/84.png"
+        }
+      ]
+    },
+    {
+      "image_id": 33,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/33.png",
+        "caption": "Tiny expeditions"
+      },
+      "distractors": [
+        {
+          "img": "images/16.png"
+        },
+        {
+          "img": "images/60.png"
+        },
+        {
+          "img": "images/38.png"
+        },
+        {
+          "img": "images/61.png"
+        },
+        {
+          "img": "images/44.png"
+        }
+      ]
+    },
+    {
+      "image_id": 33,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/33.png",
+        "caption": "Tiny expeditions"
+      },
+      "distractors": [
+        {
+          "img": "images/13.png"
+        },
+        {
+          "img": "images/42.png"
+        },
+        {
+          "img": "images/49.png"
+        },
+        {
+          "img": "images/80.png"
+        },
+        {
+          "img": "images/40.png"
+        }
+      ]
+    },
+    {
+      "image_id": 33,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/33.png",
+        "caption": "Tiny expeditions"
+      },
+      "distractors": [
+        {
+          "img": "images/34.png"
+        },
+        {
+          "img": "images/14.png"
+        },
+        {
+          "img": "images/83.png"
+        },
+        {
+          "img": "images/58.png"
+        },
+        {
+          "img": "images/11.png"
+        }
+      ]
+    },
+    {
+      "image_id": 34,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/34.png",
+        "caption": "Precarious ambition"
+      },
+      "distractors": [
+        {
+          "img": "images/61.png"
+        },
+        {
+          "img": "images/36.png"
+        },
+        {
+          "img": "images/52.png"
+        },
+        {
+          "img": "images/50.png"
+        },
+        {
+          "img": "images/66.png"
+        }
+      ]
+    },
+    {
+      "image_id": 34,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/34.png",
+        "caption": "Precarious ambition"
+      },
+      "distractors": [
+        {
+          "img": "images/78.png"
+        },
+        {
+          "img": "images/33.png"
+        },
+        {
+          "img": "images/11.png"
+        },
+        {
+          "img": "images/46.png"
+        },
+        {
+          "img": "images/60.png"
+        }
+      ]
+    },
+    {
+      "image_id": 34,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/34.png",
+        "caption": "Precarious ambition"
+      },
+      "distractors": [
+        {
+          "img": "images/40.png"
+        },
+        {
+          "img": "images/42.png"
+        },
+        {
+          "img": "images/44.png"
+        },
+        {
+          "img": "images/17.png"
+        },
+        {
+          "img": "images/31.png"
+        }
+      ]
+    },
+    {
+      "image_id": 35,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/35.png",
+        "caption": "Ephemeral grace"
+      },
+      "distractors": [
+        {
+          "img": "images/64.png"
+        },
+        {
+          "img": "images/71.png"
+        },
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/41.png"
+        },
+        {
+          "img": "images/44.png"
+        }
+      ]
+    },
+    {
+      "image_id": 35,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/35.png",
+        "caption": "Ephemeral grace"
+      },
+      "distractors": [
+        {
+          "img": "images/46.png"
+        },
+        {
+          "img": "images/24.png"
+        },
+        {
+          "img": "images/25.png"
+        },
+        {
+          "img": "images/13.png"
+        },
+        {
+          "img": "images/72.png"
+        }
+      ]
+    },
+    {
+      "image_id": 35,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/35.png",
+        "caption": "Ephemeral grace"
+      },
+      "distractors": [
+        {
+          "img": "images/10.png"
+        },
+        {
+          "img": "images/40.png"
+        },
+        {
+          "img": "images/18.png"
+        },
+        {
+          "img": "images/73.png"
+        },
+        {
+          "img": "images/5.png"
+        }
+      ]
+    },
+    {
+      "image_id": 36,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/36.png",
+        "caption": "Silent confrontation"
+      },
+      "distractors": [
+        {
+          "img": "images/25.png"
+        },
+        {
+          "img": "images/68.png"
+        },
+        {
+          "img": "images/33.png"
+        },
+        {
+          "img": "images/13.png"
+        },
+        {
+          "img": "images/6.png"
+        }
+      ]
+    },
+    {
+      "image_id": 36,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/36.png",
+        "caption": "Silent confrontation"
+      },
+      "distractors": [
+        {
+          "img": "images/16.png"
+        },
+        {
+          "img": "images/83.png"
+        },
+        {
+          "img": "images/46.png"
+        },
+        {
+          "img": "images/60.png"
+        },
+        {
+          "img": "images/32.png"
+        }
+      ]
+    },
+    {
+      "image_id": 36,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/36.png",
+        "caption": "Silent confrontation"
+      },
+      "distractors": [
+        {
+          "img": "images/67.png"
+        },
+        {
+          "img": "images/14.png"
+        },
+        {
+          "img": "images/35.png"
+        },
+        {
+          "img": "images/3.png"
+        },
+        {
+          "img": "images/7.png"
+        }
+      ]
+    },
+    {
+      "image_id": 37,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/37.png",
+        "caption": "Quiet valor"
+      },
+      "distractors": [
+        {
+          "img": "images/10.png"
+        },
+        {
+          "img": "images/49.png"
+        },
+        {
+          "img": "images/13.png"
+        },
+        {
+          "img": "images/48.png"
+        },
+        {
+          "img": "images/60.png"
+        }
+      ]
+    },
+    {
+      "image_id": 37,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/37.png",
+        "caption": "Quiet valor"
+      },
+      "distractors": [
+        {
+          "img": "images/53.png"
+        },
+        {
+          "img": "images/9.png"
+        },
+        {
+          "img": "images/80.png"
+        },
+        {
+          "img": "images/57.png"
+        },
+        {
+          "img": "images/61.png"
+        }
+      ]
+    },
+    {
+      "image_id": 37,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/37.png",
+        "caption": "Quiet valor"
+      },
+      "distractors": [
+        {
+          "img": "images/63.png"
+        },
+        {
+          "img": "images/35.png"
+        },
+        {
+          "img": "images/81.png"
+        },
+        {
+          "img": "images/52.png"
+        },
+        {
+          "img": "images/17.png"
+        }
+      ]
+    },
+    {
+      "image_id": 38,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/38.png",
+        "caption": "Golden solitude"
+      },
+      "distractors": [
+        {
+          "img": "images/39.png"
+        },
+        {
+          "img": "images/24.png"
+        },
+        {
+          "img": "images/16.png"
+        },
+        {
+          "img": "images/84.png"
+        },
+        {
+          "img": "images/69.png"
+        }
+      ]
+    },
+    {
+      "image_id": 38,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/38.png",
+        "caption": "Golden solitude"
+      },
+      "distractors": [
+        {
+          "img": "images/30.png"
+        },
+        {
+          "img": "images/17.png"
+        },
+        {
+          "img": "images/18.png"
+        },
+        {
+          "img": "images/41.png"
+        },
+        {
+          "img": "images/46.png"
+        }
+      ]
+    },
+    {
+      "image_id": 38,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/38.png",
+        "caption": "Golden solitude"
+      },
+      "distractors": [
+        {
+          "img": "images/83.png"
+        },
+        {
+          "img": "images/47.png"
+        },
+        {
+          "img": "images/52.png"
+        },
+        {
+          "img": "images/12.png"
+        },
+        {
+          "img": "images/51.png"
+        }
+      ]
+    },
+    {
+      "image_id": 39,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/39.png",
+        "caption": "Pale remembrance"
+      },
+      "distractors": [
+        {
+          "img": "images/38.png"
+        },
+        {
+          "img": "images/16.png"
+        },
+        {
+          "img": "images/41.png"
+        },
+        {
+          "img": "images/74.png"
+        },
+        {
+          "img": "images/84.png"
+        }
+      ]
+    },
+    {
+      "image_id": 39,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/39.png",
+        "caption": "Pale remembrance"
+      },
+      "distractors": [
+        {
+          "img": "images/53.png"
+        },
+        {
+          "img": "images/13.png"
+        },
+        {
+          "img": "images/62.png"
+        },
+        {
+          "img": "images/26.png"
+        },
+        {
+          "img": "images/69.png"
+        }
+      ]
+    },
+    {
+      "image_id": 39,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/39.png",
+        "caption": "Pale remembrance"
+      },
+      "distractors": [
+        {
+          "img": "images/36.png"
+        },
+        {
+          "img": "images/63.png"
+        },
+        {
+          "img": "images/77.png"
+        },
+        {
+          "img": "images/5.png"
+        },
+        {
+          "img": "images/50.png"
+        }
+      ]
+    },
+    {
+      "image_id": 40,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/40.png",
+        "caption": "Silent observation"
+      },
+      "distractors": [
+        {
+          "img": "images/79.png"
+        },
+        {
+          "img": "images/53.png"
+        },
+        {
+          "img": "images/62.png"
+        },
+        {
+          "img": "images/44.png"
+        },
+        {
+          "img": "images/60.png"
+        }
+      ]
+    },
+    {
+      "image_id": 40,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/40.png",
+        "caption": "Silent observation"
+      },
+      "distractors": [
+        {
+          "img": "images/76.png"
+        },
+        {
+          "img": "images/81.png"
+        },
+        {
+          "img": "images/51.png"
+        },
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/13.png"
+        }
+      ]
+    },
+    {
+      "image_id": 40,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/40.png",
+        "caption": "Silent observation"
+      },
+      "distractors": [
+        {
+          "img": "images/28.png"
+        },
+        {
+          "img": "images/57.png"
+        },
+        {
+          "img": "images/24.png"
+        },
+        {
+          "img": "images/46.png"
+        },
+        {
+          "img": "images/80.png"
+        }
+      ]
+    },
+    {
+      "image_id": 41,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/41.png",
+        "caption": "Ephemeral worlds"
+      },
+      "distractors": [
+        {
+          "img": "images/80.png"
+        },
+        {
+          "img": "images/6.png"
+        },
+        {
+          "img": "images/32.png"
+        },
+        {
+          "img": "images/71.png"
+        },
+        {
+          "img": "images/20.png"
+        }
+      ]
+    },
+    {
+      "image_id": 41,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/41.png",
+        "caption": "Ephemeral worlds"
+      },
+      "distractors": [
+        {
+          "img": "images/73.png"
+        },
+        {
+          "img": "images/24.png"
+        },
+        {
+          "img": "images/15.png"
+        },
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/78.png"
+        }
+      ]
+    },
+    {
+      "image_id": 41,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/41.png",
+        "caption": "Ephemeral worlds"
+      },
+      "distractors": [
+        {
+          "img": "images/45.png"
+        },
+        {
+          "img": "images/30.png"
+        },
+        {
+          "img": "images/48.png"
+        },
+        {
+          "img": "images/68.png"
+        },
+        {
+          "img": "images/21.png"
+        }
+      ]
+    },
+    {
+      "image_id": 42,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/42.png",
+        "caption": "Growing shadows"
+      },
+      "distractors": [
+        {
+          "img": "images/32.png"
+        },
+        {
+          "img": "images/72.png"
+        },
+        {
+          "img": "images/80.png"
+        },
+        {
+          "img": "images/49.png"
+        },
+        {
+          "img": "images/26.png"
+        }
+      ]
+    },
+    {
+      "image_id": 42,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/42.png",
+        "caption": "Growing shadows"
+      },
+      "distractors": [
+        {
+          "img": "images/60.png"
+        },
+        {
+          "img": "images/28.png"
+        },
+        {
+          "img": "images/2.png"
+        },
+        {
+          "img": "images/78.png"
+        },
+        {
+          "img": "images/19.png"
+        }
+      ]
+    },
+    {
+      "image_id": 42,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/42.png",
+        "caption": "Growing shadows"
+      },
+      "distractors": [
+        {
+          "img": "images/11.png"
+        },
+        {
+          "img": "images/3.png"
+        },
+        {
+          "img": "images/76.png"
+        },
+        {
+          "img": "images/35.png"
+        },
+        {
+          "img": "images/38.png"
+        }
+      ]
+    },
+    {
+      "image_id": 43,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/43.png",
+        "caption": "Yearning ascent"
+      },
+      "distractors": [
+        {
+          "img": "images/28.png"
+        },
+        {
+          "img": "images/10.png"
+        },
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/60.png"
+        },
+        {
+          "img": "images/50.png"
+        }
+      ]
+    },
+    {
+      "image_id": 43,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/43.png",
+        "caption": "Yearning ascent"
+      },
+      "distractors": [
+        {
+          "img": "images/13.png"
+        },
+        {
+          "img": "images/7.png"
+        },
+        {
+          "img": "images/78.png"
+        },
+        {
+          "img": "images/44.png"
+        },
+        {
+          "img": "images/72.png"
+        }
+      ]
+    },
+    {
+      "image_id": 43,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/43.png",
+        "caption": "Yearning ascent"
+      },
+      "distractors": [
+        {
+          "img": "images/34.png"
+        },
+        {
+          "img": "images/27.png"
+        },
+        {
+          "img": "images/68.png"
+        },
+        {
+          "img": "images/36.png"
+        },
+        {
+          "img": "images/24.png"
+        }
+      ]
+    },
+    {
+      "image_id": 44,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/44.png",
+        "caption": "Wistful observation"
+      },
+      "distractors": [
+        {
+          "img": "images/72.png"
+        },
+        {
+          "img": "images/4.png"
+        },
+        {
+          "img": "images/83.png"
+        },
+        {
+          "img": "images/46.png"
+        },
+        {
+          "img": "images/8.png"
+        }
+      ]
+    },
+    {
+      "image_id": 44,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/44.png",
+        "caption": "Wistful observation"
+      },
+      "distractors": [
+        {
+          "img": "images/22.png"
+        },
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/82.png"
+        },
+        {
+          "img": "images/36.png"
+        },
+        {
+          "img": "images/31.png"
+        }
+      ]
+    },
+    {
+      "image_id": 44,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/44.png",
+        "caption": "Wistful observation"
+      },
+      "distractors": [
+        {
+          "img": "images/76.png"
+        },
+        {
+          "img": "images/12.png"
+        },
+        {
+          "img": "images/14.png"
+        },
+        {
+          "img": "images/1.png"
+        },
+        {
+          "img": "images/74.png"
+        }
+      ]
+    },
+    {
+      "image_id": 45,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/45.png",
+        "caption": "Open sky dream"
+      },
+      "distractors": [
+        {
+          "img": "images/2.png"
+        },
+        {
+          "img": "images/69.png"
+        },
+        {
+          "img": "images/20.png"
+        },
+        {
+          "img": "images/13.png"
+        },
+        {
+          "img": "images/26.png"
+        }
+      ]
+    },
+    {
+      "image_id": 45,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/45.png",
+        "caption": "Open sky dream"
+      },
+      "distractors": [
+        {
+          "img": "images/57.png"
+        },
+        {
+          "img": "images/16.png"
+        },
+        {
+          "img": "images/58.png"
+        },
+        {
+          "img": "images/30.png"
+        },
+        {
+          "img": "images/74.png"
+        }
+      ]
+    },
+    {
+      "image_id": 45,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/45.png",
+        "caption": "Open sky dream"
+      },
+      "distractors": [
+        {
+          "img": "images/70.png"
+        },
+        {
+          "img": "images/82.png"
+        },
+        {
+          "img": "images/53.png"
+        },
+        {
+          "img": "images/76.png"
+        },
+        {
+          "img": "images/9.png"
+        }
+      ]
+    },
+    {
+      "image_id": 46,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/46.png",
+        "caption": "Fading golden hours"
+      },
+      "distractors": [
+        {
+          "img": "images/17.png"
+        },
+        {
+          "img": "images/3.png"
+        },
+        {
+          "img": "images/44.png"
+        },
+        {
+          "img": "images/2.png"
+        },
+        {
+          "img": "images/38.png"
+        }
+      ]
+    },
+    {
+      "image_id": 46,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/46.png",
+        "caption": "Fading golden hours"
+      },
+      "distractors": [
+        {
+          "img": "images/55.png"
+        },
+        {
+          "img": "images/8.png"
+        },
+        {
+          "img": "images/43.png"
+        },
+        {
+          "img": "images/28.png"
+        },
+        {
+          "img": "images/33.png"
+        }
+      ]
+    },
+    {
+      "image_id": 46,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/46.png",
+        "caption": "Fading golden hours"
+      },
+      "distractors": [
+        {
+          "img": "images/7.png"
+        },
+        {
+          "img": "images/40.png"
+        },
+        {
+          "img": "images/25.png"
+        },
+        {
+          "img": "images/11.png"
+        },
+        {
+          "img": "images/65.png"
+        }
+      ]
+    },
+    {
+      "image_id": 47,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/47.png",
+        "caption": "Fleeting existence"
+      },
+      "distractors": [
+        {
+          "img": "images/32.png"
+        },
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/71.png"
+        },
+        {
+          "img": "images/40.png"
+        },
+        {
+          "img": "images/23.png"
+        }
+      ]
+    },
+    {
+      "image_id": 47,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/47.png",
+        "caption": "Fleeting existence"
+      },
+      "distractors": [
+        {
+          "img": "images/67.png"
+        },
+        {
+          "img": "images/81.png"
+        },
+        {
+          "img": "images/9.png"
+        },
+        {
+          "img": "images/76.png"
+        },
+        {
+          "img": "images/8.png"
+        }
+      ]
+    },
+    {
+      "image_id": 47,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/47.png",
+        "caption": "Fleeting existence"
+      },
+      "distractors": [
+        {
+          "img": "images/30.png"
+        },
+        {
+          "img": "images/63.png"
+        },
+        {
+          "img": "images/37.png"
+        },
+        {
+          "img": "images/21.png"
+        },
+        {
+          "img": "images/60.png"
+        }
+      ]
+    },
+    {
+      "image_id": 48,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/48.png",
+        "caption": "Silent labyrinth"
+      },
+      "distractors": [
+        {
+          "img": "images/13.png"
+        },
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/80.png"
+        },
+        {
+          "img": "images/69.png"
+        },
+        {
+          "img": "images/37.png"
+        }
+      ]
+    },
+    {
+      "image_id": 48,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/48.png",
+        "caption": "Silent labyrinth"
+      },
+      "distractors": [
+        {
+          "img": "images/28.png"
+        },
+        {
+          "img": "images/50.png"
+        },
+        {
+          "img": "images/61.png"
+        },
+        {
+          "img": "images/67.png"
+        },
+        {
+          "img": "images/68.png"
+        }
+      ]
+    },
+    {
+      "image_id": 48,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/48.png",
+        "caption": "Silent labyrinth"
+      },
+      "distractors": [
+        {
+          "img": "images/21.png"
+        },
+        {
+          "img": "images/59.png"
+        },
+        {
+          "img": "images/62.png"
+        },
+        {
+          "img": "images/54.png"
+        },
+        {
+          "img": "images/65.png"
+        }
+      ]
+    },
+    {
+      "image_id": 49,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/49.png",
+        "caption": "Forgotten sanctuary"
+      },
+      "distractors": [
+        {
+          "img": "images/78.png"
+        },
+        {
+          "img": "images/60.png"
+        },
+        {
+          "img": "images/13.png"
+        },
+        {
+          "img": "images/26.png"
+        },
+        {
+          "img": "images/61.png"
+        }
+      ]
+    },
+    {
+      "image_id": 49,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/49.png",
+        "caption": "Forgotten sanctuary"
+      },
+      "distractors": [
+        {
+          "img": "images/80.png"
+        },
+        {
+          "img": "images/4.png"
+        },
+        {
+          "img": "images/74.png"
+        },
+        {
+          "img": "images/31.png"
+        },
+        {
+          "img": "images/70.png"
+        }
+      ]
+    },
+    {
+      "image_id": 49,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/49.png",
+        "caption": "Forgotten sanctuary"
+      },
+      "distractors": [
+        {
+          "img": "images/7.png"
+        },
+        {
+          "img": "images/5.png"
+        },
+        {
+          "img": "images/12.png"
+        },
+        {
+          "img": "images/54.png"
+        },
+        {
+          "img": "images/24.png"
+        }
+      ]
+    },
+    {
+      "image_id": 50,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/50.png",
+        "caption": "Hidden melody"
+      },
+      "distractors": [
+        {
+          "img": "images/71.png"
+        },
+        {
+          "img": "images/43.png"
+        },
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/78.png"
+        },
+        {
+          "img": "images/52.png"
+        }
+      ]
+    },
+    {
+      "image_id": 50,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/50.png",
+        "caption": "Hidden melody"
+      },
+      "distractors": [
+        {
+          "img": "images/64.png"
+        },
+        {
+          "img": "images/2.png"
+        },
+        {
+          "img": "images/59.png"
+        },
+        {
+          "img": "images/80.png"
+        },
+        {
+          "img": "images/68.png"
+        }
+      ]
+    },
+    {
+      "image_id": 50,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/50.png",
+        "caption": "Hidden melody"
+      },
+      "distractors": [
+        {
+          "img": "images/3.png"
+        },
+        {
+          "img": "images/32.png"
+        },
+        {
+          "img": "images/16.png"
+        },
+        {
+          "img": "images/38.png"
+        },
+        {
+          "img": "images/72.png"
+        }
+      ]
+    },
+    {
+      "image_id": 51,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/51.png",
+        "caption": "Lunar devotion"
+      },
+      "distractors": [
+        {
+          "img": "images/55.png"
+        },
+        {
+          "img": "images/56.png"
+        },
+        {
+          "img": "images/24.png"
+        },
+        {
+          "img": "images/7.png"
+        },
+        {
+          "img": "images/32.png"
+        }
+      ]
+    },
+    {
+      "image_id": 51,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/51.png",
+        "caption": "Lunar devotion"
+      },
+      "distractors": [
+        {
+          "img": "images/38.png"
+        },
+        {
+          "img": "images/40.png"
+        },
+        {
+          "img": "images/61.png"
+        },
+        {
+          "img": "images/13.png"
+        },
+        {
+          "img": "images/48.png"
+        }
+      ]
+    },
+    {
+      "image_id": 51,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/51.png",
+        "caption": "Lunar devotion"
+      },
+      "distractors": [
+        {
+          "img": "images/39.png"
+        },
+        {
+          "img": "images/75.png"
+        },
+        {
+          "img": "images/14.png"
+        },
+        {
+          "img": "images/70.png"
+        },
+        {
+          "img": "images/72.png"
+        }
+      ]
+    },
+    {
+      "image_id": 52,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/52.png",
+        "caption": "Gentle giant"
+      },
+      "distractors": [
+        {
+          "img": "images/28.png"
+        },
+        {
+          "img": "images/10.png"
+        },
+        {
+          "img": "images/50.png"
+        },
+        {
+          "img": "images/44.png"
+        },
+        {
+          "img": "images/8.png"
+        }
+      ]
+    },
+    {
+      "image_id": 52,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/52.png",
+        "caption": "Gentle giant"
+      },
+      "distractors": [
+        {
+          "img": "images/36.png"
+        },
+        {
+          "img": "images/17.png"
+        },
+        {
+          "img": "images/3.png"
+        },
+        {
+          "img": "images/78.png"
+        },
+        {
+          "img": "images/21.png"
+        }
+      ]
+    },
+    {
+      "image_id": 52,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/52.png",
+        "caption": "Gentle giant"
+      },
+      "distractors": [
+        {
+          "img": "images/79.png"
+        },
+        {
+          "img": "images/45.png"
+        },
+        {
+          "img": "images/13.png"
+        },
+        {
+          "img": "images/76.png"
+        },
+        {
+          "img": "images/11.png"
+        }
+      ]
+    },
+    {
+      "image_id": 53,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/53.png",
+        "caption": "Unlocking the self"
+      },
+      "distractors": [
+        {
+          "img": "images/26.png"
+        },
+        {
+          "img": "images/25.png"
+        },
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/62.png"
+        },
+        {
+          "img": "images/9.png"
+        }
+      ]
+    },
+    {
+      "image_id": 53,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/53.png",
+        "caption": "Unlocking the self"
+      },
+      "distractors": [
+        {
+          "img": "images/43.png"
+        },
+        {
+          "img": "images/5.png"
+        },
+        {
+          "img": "images/69.png"
+        },
+        {
+          "img": "images/60.png"
+        },
+        {
+          "img": "images/54.png"
+        }
+      ]
+    },
+    {
+      "image_id": 53,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/53.png",
+        "caption": "Unlocking the self"
+      },
+      "distractors": [
+        {
+          "img": "images/23.png"
+        },
+        {
+          "img": "images/49.png"
+        },
+        {
+          "img": "images/76.png"
+        },
+        {
+          "img": "images/18.png"
+        },
+        {
+          "img": "images/74.png"
+        }
+      ]
+    },
+    {
+      "image_id": 54,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/54.png",
+        "caption": "Forgotten narratives"
+      },
+      "distractors": [
+        {
+          "img": "images/20.png"
+        },
+        {
+          "img": "images/12.png"
+        },
+        {
+          "img": "images/23.png"
+        },
+        {
+          "img": "images/58.png"
+        },
+        {
+          "img": "images/53.png"
+        }
+      ]
+    },
+    {
+      "image_id": 54,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/54.png",
+        "caption": "Forgotten narratives"
+      },
+      "distractors": [
+        {
+          "img": "images/9.png"
+        },
+        {
+          "img": "images/24.png"
+        },
+        {
+          "img": "images/2.png"
+        },
+        {
+          "img": "images/1.png"
+        },
+        {
+          "img": "images/55.png"
+        }
+      ]
+    },
+    {
+      "image_id": 54,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/54.png",
+        "caption": "Forgotten narratives"
+      },
+      "distractors": [
+        {
+          "img": "images/11.png"
+        },
+        {
+          "img": "images/68.png"
+        },
+        {
+          "img": "images/38.png"
+        },
+        {
+          "img": "images/49.png"
+        },
+        {
+          "img": "images/59.png"
+        }
+      ]
+    },
+    {
+      "image_id": 55,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/55.png",
+        "caption": "Glassed solitude"
+      },
+      "distractors": [
+        {
+          "img": "images/51.png"
+        },
+        {
+          "img": "images/59.png"
+        },
+        {
+          "img": "images/56.png"
+        },
+        {
+          "img": "images/13.png"
+        },
+        {
+          "img": "images/74.png"
+        }
+      ]
+    },
+    {
+      "image_id": 55,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/55.png",
+        "caption": "Glassed solitude"
+      },
+      "distractors": [
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/1.png"
+        },
+        {
+          "img": "images/84.png"
+        },
+        {
+          "img": "images/2.png"
+        },
+        {
+          "img": "images/61.png"
+        }
+      ]
+    },
+    {
+      "image_id": 55,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/55.png",
+        "caption": "Glassed solitude"
+      },
+      "distractors": [
+        {
+          "img": "images/75.png"
+        },
+        {
+          "img": "images/18.png"
+        },
+        {
+          "img": "images/12.png"
+        },
+        {
+          "img": "images/52.png"
+        },
+        {
+          "img": "images/35.png"
+        }
+      ]
+    },
+    {
+      "image_id": 56,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/56.png",
+        "caption": "Silent trophy"
+      },
+      "distractors": [
+        {
+          "img": "images/51.png"
+        },
+        {
+          "img": "images/55.png"
+        },
+        {
+          "img": "images/61.png"
+        },
+        {
+          "img": "images/7.png"
+        },
+        {
+          "img": "images/59.png"
+        }
+      ]
+    },
+    {
+      "image_id": 56,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/56.png",
+        "caption": "Silent trophy"
+      },
+      "distractors": [
+        {
+          "img": "images/32.png"
+        },
+        {
+          "img": "images/21.png"
+        },
+        {
+          "img": "images/1.png"
+        },
+        {
+          "img": "images/2.png"
+        },
+        {
+          "img": "images/67.png"
+        }
+      ]
+    },
+    {
+      "image_id": 56,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/56.png",
+        "caption": "Silent trophy"
+      },
+      "distractors": [
+        {
+          "img": "images/84.png"
+        },
+        {
+          "img": "images/20.png"
+        },
+        {
+          "img": "images/64.png"
+        },
+        {
+          "img": "images/83.png"
+        },
+        {
+          "img": "images/79.png"
+        }
+      ]
+    },
+    {
+      "image_id": 57,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/57.png",
+        "caption": "Caged embers"
+      },
+      "distractors": [
+        {
+          "img": "images/66.png"
+        },
+        {
+          "img": "images/62.png"
+        },
+        {
+          "img": "images/45.png"
+        },
+        {
+          "img": "images/53.png"
+        },
+        {
+          "img": "images/47.png"
+        }
+      ]
+    },
+    {
+      "image_id": 57,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/57.png",
+        "caption": "Caged embers"
+      },
+      "distractors": [
+        {
+          "img": "images/49.png"
+        },
+        {
+          "img": "images/17.png"
+        },
+        {
+          "img": "images/14.png"
+        },
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/25.png"
+        }
+      ]
+    },
+    {
+      "image_id": 57,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/57.png",
+        "caption": "Caged embers"
+      },
+      "distractors": [
+        {
+          "img": "images/20.png"
+        },
+        {
+          "img": "images/28.png"
+        },
+        {
+          "img": "images/8.png"
+        },
+        {
+          "img": "images/44.png"
+        },
+        {
+          "img": "images/5.png"
+        }
+      ]
+    },
+    {
+      "image_id": 58,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/58.png",
+        "caption": "Celestial counting"
+      },
+      "distractors": [
+        {
+          "img": "images/23.png"
+        },
+        {
+          "img": "images/54.png"
+        },
+        {
+          "img": "images/20.png"
+        },
+        {
+          "img": "images/24.png"
+        },
+        {
+          "img": "images/2.png"
+        }
+      ]
+    },
+    {
+      "image_id": 58,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/58.png",
+        "caption": "Celestial counting"
+      },
+      "distractors": [
+        {
+          "img": "images/45.png"
+        },
+        {
+          "img": "images/70.png"
+        },
+        {
+          "img": "images/74.png"
+        },
+        {
+          "img": "images/62.png"
+        },
+        {
+          "img": "images/53.png"
+        }
+      ]
+    },
+    {
+      "image_id": 58,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/58.png",
+        "caption": "Celestial counting"
+      },
+      "distractors": [
+        {
+          "img": "images/78.png"
+        },
+        {
+          "img": "images/82.png"
+        },
+        {
+          "img": "images/57.png"
+        },
+        {
+          "img": "images/28.png"
+        },
+        {
+          "img": "images/44.png"
+        }
+      ]
+    },
+    {
+      "image_id": 59,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/59.png",
+        "caption": "Fleeting capture"
+      },
+      "distractors": [
+        {
+          "img": "images/55.png"
+        },
+        {
+          "img": "images/1.png"
+        },
+        {
+          "img": "images/67.png"
+        },
+        {
+          "img": "images/51.png"
+        },
+        {
+          "img": "images/56.png"
+        }
+      ]
+    },
+    {
+      "image_id": 59,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/59.png",
+        "caption": "Fleeting capture"
+      },
+      "distractors": [
+        {
+          "img": "images/42.png"
+        },
+        {
+          "img": "images/16.png"
+        },
+        {
+          "img": "images/31.png"
+        },
+        {
+          "img": "images/80.png"
+        },
+        {
+          "img": "images/48.png"
+        }
+      ]
+    },
+    {
+      "image_id": 59,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/59.png",
+        "caption": "Fleeting capture"
+      },
+      "distractors": [
+        {
+          "img": "images/49.png"
+        },
+        {
+          "img": "images/47.png"
+        },
+        {
+          "img": "images/32.png"
+        },
+        {
+          "img": "images/26.png"
+        },
+        {
+          "img": "images/44.png"
+        }
+      ]
+    },
+    {
+      "image_id": 60,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/60.png",
+        "caption": "Secret garden"
+      },
+      "distractors": [
+        {
+          "img": "images/26.png"
+        },
+        {
+          "img": "images/49.png"
+        },
+        {
+          "img": "images/70.png"
+        },
+        {
+          "img": "images/13.png"
+        },
+        {
+          "img": "images/78.png"
+        }
+      ]
+    },
+    {
+      "image_id": 60,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/60.png",
+        "caption": "Secret garden"
+      },
+      "distractors": [
+        {
+          "img": "images/16.png"
+        },
+        {
+          "img": "images/44.png"
+        },
+        {
+          "img": "images/37.png"
+        },
+        {
+          "img": "images/31.png"
+        },
+        {
+          "img": "images/21.png"
+        }
+      ]
+    },
+    {
+      "image_id": 60,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/60.png",
+        "caption": "Secret garden"
+      },
+      "distractors": [
+        {
+          "img": "images/57.png"
+        },
+        {
+          "img": "images/51.png"
+        },
+        {
+          "img": "images/9.png"
+        },
+        {
+          "img": "images/5.png"
+        },
+        {
+          "img": "images/15.png"
+        }
+      ]
+    },
+    {
+      "image_id": 61,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/61.png",
+        "caption": "Unreachable aspirations"
+      },
+      "distractors": [
+        {
+          "img": "images/78.png"
+        },
+        {
+          "img": "images/49.png"
+        },
+        {
+          "img": "images/26.png"
+        },
+        {
+          "img": "images/60.png"
+        },
+        {
+          "img": "images/16.png"
+        }
+      ]
+    },
+    {
+      "image_id": 61,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/61.png",
+        "caption": "Unreachable aspirations"
+      },
+      "distractors": [
+        {
+          "img": "images/42.png"
+        },
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/30.png"
+        },
+        {
+          "img": "images/58.png"
+        },
+        {
+          "img": "images/41.png"
+        }
+      ]
+    },
+    {
+      "image_id": 61,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/61.png",
+        "caption": "Unreachable aspirations"
+      },
+      "distractors": [
+        {
+          "img": "images/44.png"
+        },
+        {
+          "img": "images/67.png"
+        },
+        {
+          "img": "images/3.png"
+        },
+        {
+          "img": "images/11.png"
+        },
+        {
+          "img": "images/82.png"
+        }
+      ]
+    },
+    {
+      "image_id": 62,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/62.png",
+        "caption": "Bottled illumination"
+      },
+      "distractors": [
+        {
+          "img": "images/29.png"
+        },
+        {
+          "img": "images/53.png"
+        },
+        {
+          "img": "images/15.png"
+        },
+        {
+          "img": "images/40.png"
+        },
+        {
+          "img": "images/69.png"
+        }
+      ]
+    },
+    {
+      "image_id": 62,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/62.png",
+        "caption": "Bottled illumination"
+      },
+      "distractors": [
+        {
+          "img": "images/16.png"
+        },
+        {
+          "img": "images/2.png"
+        },
+        {
+          "img": "images/63.png"
+        },
+        {
+          "img": "images/66.png"
+        },
+        {
+          "img": "images/57.png"
+        }
+      ]
+    },
+    {
+      "image_id": 62,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/62.png",
+        "caption": "Bottled illumination"
+      },
+      "distractors": [
+        {
+          "img": "images/61.png"
+        },
+        {
+          "img": "images/41.png"
+        },
+        {
+          "img": "images/64.png"
+        },
+        {
+          "img": "images/45.png"
+        },
+        {
+          "img": "images/20.png"
+        }
+      ]
+    },
+    {
+      "image_id": 63,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/63.png",
+        "caption": "Crimson pursuit"
+      },
+      "distractors": [
+        {
+          "img": "images/4.png"
+        },
+        {
+          "img": "images/78.png"
+        },
+        {
+          "img": "images/43.png"
+        },
+        {
+          "img": "images/62.png"
+        },
+        {
+          "img": "images/50.png"
+        }
+      ]
+    },
+    {
+      "image_id": 63,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/63.png",
+        "caption": "Crimson pursuit"
+      },
+      "distractors": [
+        {
+          "img": "images/6.png"
+        },
+        {
+          "img": "images/48.png"
+        },
+        {
+          "img": "images/41.png"
+        },
+        {
+          "img": "images/69.png"
+        },
+        {
+          "img": "images/19.png"
+        }
+      ]
+    },
+    {
+      "image_id": 63,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/63.png",
+        "caption": "Crimson pursuit"
+      },
+      "distractors": [
+        {
+          "img": "images/56.png"
+        },
+        {
+          "img": "images/71.png"
+        },
+        {
+          "img": "images/58.png"
+        },
+        {
+          "img": "images/32.png"
+        },
+        {
+          "img": "images/37.png"
+        }
+      ]
+    },
+    {
+      "image_id": 64,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/64.png",
+        "caption": "Golden embrace"
+      },
+      "distractors": [
+        {
+          "img": "images/71.png"
+        },
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/35.png"
+        },
+        {
+          "img": "images/78.png"
+        },
+        {
+          "img": "images/41.png"
+        }
+      ]
+    },
+    {
+      "image_id": 64,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/64.png",
+        "caption": "Golden embrace"
+      },
+      "distractors": [
+        {
+          "img": "images/20.png"
+        },
+        {
+          "img": "images/40.png"
+        },
+        {
+          "img": "images/50.png"
+        },
+        {
+          "img": "images/18.png"
+        },
+        {
+          "img": "images/23.png"
+        }
+      ]
+    },
+    {
+      "image_id": 64,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/64.png",
+        "caption": "Golden embrace"
+      },
+      "distractors": [
+        {
+          "img": "images/13.png"
+        },
+        {
+          "img": "images/38.png"
+        },
+        {
+          "img": "images/74.png"
+        },
+        {
+          "img": "images/15.png"
+        },
+        {
+          "img": "images/77.png"
+        }
+      ]
+    },
+    {
+      "image_id": 65,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/65.png",
+        "caption": "Golden restraint"
+      },
+      "distractors": [
+        {
+          "img": "images/24.png"
+        },
+        {
+          "img": "images/84.png"
+        },
+        {
+          "img": "images/20.png"
+        },
+        {
+          "img": "images/73.png"
+        },
+        {
+          "img": "images/12.png"
+        }
+      ]
+    },
+    {
+      "image_id": 65,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/65.png",
+        "caption": "Golden restraint"
+      },
+      "distractors": [
+        {
+          "img": "images/7.png"
+        },
+        {
+          "img": "images/3.png"
+        },
+        {
+          "img": "images/41.png"
+        },
+        {
+          "img": "images/70.png"
+        },
+        {
+          "img": "images/17.png"
+        }
+      ]
+    },
+    {
+      "image_id": 65,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/65.png",
+        "caption": "Golden restraint"
+      },
+      "distractors": [
+        {
+          "img": "images/37.png"
+        },
+        {
+          "img": "images/22.png"
+        },
+        {
+          "img": "images/75.png"
+        },
+        {
+          "img": "images/16.png"
+        },
+        {
+          "img": "images/74.png"
+        }
+      ]
+    },
+    {
+      "image_id": 66,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/66.png",
+        "caption": "Fragile ascension"
+      },
+      "distractors": [
+        {
+          "img": "images/53.png"
+        },
+        {
+          "img": "images/76.png"
+        },
+        {
+          "img": "images/57.png"
+        },
+        {
+          "img": "images/15.png"
+        },
+        {
+          "img": "images/41.png"
+        }
+      ]
+    },
+    {
+      "image_id": 66,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/66.png",
+        "caption": "Fragile ascension"
+      },
+      "distractors": [
+        {
+          "img": "images/43.png"
+        },
+        {
+          "img": "images/62.png"
+        },
+        {
+          "img": "images/6.png"
+        },
+        {
+          "img": "images/9.png"
+        },
+        {
+          "img": "images/14.png"
+        }
+      ]
+    },
+    {
+      "image_id": 66,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/66.png",
+        "caption": "Fragile ascension"
+      },
+      "distractors": [
+        {
+          "img": "images/42.png"
+        },
+        {
+          "img": "images/18.png"
+        },
+        {
+          "img": "images/70.png"
+        },
+        {
+          "img": "images/17.png"
+        },
+        {
+          "img": "images/24.png"
+        }
+      ]
+    },
+    {
+      "image_id": 67,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/67.png",
+        "caption": "Caged longing"
+      },
+      "distractors": [
+        {
+          "img": "images/59.png"
+        },
+        {
+          "img": "images/55.png"
+        },
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/81.png"
+        },
+        {
+          "img": "images/80.png"
+        }
+      ]
+    },
+    {
+      "image_id": 67,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/67.png",
+        "caption": "Caged longing"
+      },
+      "distractors": [
+        {
+          "img": "images/69.png"
+        },
+        {
+          "img": "images/79.png"
+        },
+        {
+          "img": "images/31.png"
+        },
+        {
+          "img": "images/1.png"
+        },
+        {
+          "img": "images/33.png"
+        }
+      ]
+    },
+    {
+      "image_id": 67,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/67.png",
+        "caption": "Caged longing"
+      },
+      "distractors": [
+        {
+          "img": "images/70.png"
+        },
+        {
+          "img": "images/38.png"
+        },
+        {
+          "img": "images/42.png"
+        },
+        {
+          "img": "images/52.png"
+        },
+        {
+          "img": "images/20.png"
+        }
+      ]
+    },
+    {
+      "image_id": 68,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/68.png",
+        "caption": "Golden uncertainty"
+      },
+      "distractors": [
+        {
+          "img": "images/36.png"
+        },
+        {
+          "img": "images/51.png"
+        },
+        {
+          "img": "images/33.png"
+        },
+        {
+          "img": "images/48.png"
+        },
+        {
+          "img": "images/50.png"
+        }
+      ]
+    },
+    {
+      "image_id": 68,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/68.png",
+        "caption": "Golden uncertainty"
+      },
+      "distractors": [
+        {
+          "img": "images/71.png"
+        },
+        {
+          "img": "images/40.png"
+        },
+        {
+          "img": "images/25.png"
+        },
+        {
+          "img": "images/62.png"
+        },
+        {
+          "img": "images/6.png"
+        }
+      ]
+    },
+    {
+      "image_id": 68,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/68.png",
+        "caption": "Golden uncertainty"
+      },
+      "distractors": [
+        {
+          "img": "images/23.png"
+        },
+        {
+          "img": "images/77.png"
+        },
+        {
+          "img": "images/81.png"
+        },
+        {
+          "img": "images/18.png"
+        },
+        {
+          "img": "images/83.png"
+        }
+      ]
+    },
+    {
+      "image_id": 69,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/69.png",
+        "caption": "Silent beginnings"
+      },
+      "distractors": [
+        {
+          "img": "images/45.png"
+        },
+        {
+          "img": "images/17.png"
+        },
+        {
+          "img": "images/84.png"
+        },
+        {
+          "img": "images/38.png"
+        },
+        {
+          "img": "images/26.png"
+        }
+      ]
+    },
+    {
+      "image_id": 69,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/69.png",
+        "caption": "Silent beginnings"
+      },
+      "distractors": [
+        {
+          "img": "images/48.png"
+        },
+        {
+          "img": "images/73.png"
+        },
+        {
+          "img": "images/16.png"
+        },
+        {
+          "img": "images/2.png"
+        },
+        {
+          "img": "images/41.png"
+        }
+      ]
+    },
+    {
+      "image_id": 69,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/69.png",
+        "caption": "Silent beginnings"
+      },
+      "distractors": [
+        {
+          "img": "images/39.png"
+        },
+        {
+          "img": "images/61.png"
+        },
+        {
+          "img": "images/9.png"
+        },
+        {
+          "img": "images/52.png"
+        },
+        {
+          "img": "images/40.png"
+        }
+      ]
+    },
+    {
+      "image_id": 70,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/70.png",
+        "caption": "Whispers of giants"
+      },
+      "distractors": [
+        {
+          "img": "images/60.png"
+        },
+        {
+          "img": "images/28.png"
+        },
+        {
+          "img": "images/81.png"
+        },
+        {
+          "img": "images/49.png"
+        },
+        {
+          "img": "images/3.png"
+        }
+      ]
+    },
+    {
+      "image_id": 70,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/70.png",
+        "caption": "Whispers of giants"
+      },
+      "distractors": [
+        {
+          "img": "images/7.png"
+        },
+        {
+          "img": "images/59.png"
+        },
+        {
+          "img": "images/73.png"
+        },
+        {
+          "img": "images/20.png"
+        },
+        {
+          "img": "images/58.png"
+        }
+      ]
+    },
+    {
+      "image_id": 70,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/70.png",
+        "caption": "Whispers of giants"
+      },
+      "distractors": [
+        {
+          "img": "images/6.png"
+        },
+        {
+          "img": "images/23.png"
+        },
+        {
+          "img": "images/38.png"
+        },
+        {
+          "img": "images/56.png"
+        },
+        {
+          "img": "images/62.png"
+        }
+      ]
+    },
+    {
+      "image_id": 71,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/71.png",
+        "caption": "Fleeting control"
+      },
+      "distractors": [
+        {
+          "img": "images/64.png"
+        },
+        {
+          "img": "images/41.png"
+        },
+        {
+          "img": "images/76.png"
+        },
+        {
+          "img": "images/50.png"
+        },
+        {
+          "img": "images/23.png"
+        }
+      ]
+    },
+    {
+      "image_id": 71,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/71.png",
+        "caption": "Fleeting control"
+      },
+      "distractors": [
+        {
+          "img": "images/84.png"
+        },
+        {
+          "img": "images/1.png"
+        },
+        {
+          "img": "images/53.png"
+        },
+        {
+          "img": "images/14.png"
+        },
+        {
+          "img": "images/65.png"
+        }
+      ]
+    },
+    {
+      "image_id": 71,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/71.png",
+        "caption": "Fleeting control"
+      },
+      "distractors": [
+        {
+          "img": "images/43.png"
+        },
+        {
+          "img": "images/15.png"
+        },
+        {
+          "img": "images/9.png"
+        },
+        {
+          "img": "images/38.png"
+        },
+        {
+          "img": "images/21.png"
+        }
+      ]
+    },
+    {
+      "image_id": 72,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/72.png",
+        "caption": "Tiny universes"
+      },
+      "distractors": [
+        {
+          "img": "images/44.png"
+        },
+        {
+          "img": "images/42.png"
+        },
+        {
+          "img": "images/80.png"
+        },
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/48.png"
+        }
+      ]
+    },
+    {
+      "image_id": 72,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/72.png",
+        "caption": "Tiny universes"
+      },
+      "distractors": [
+        {
+          "img": "images/21.png"
+        },
+        {
+          "img": "images/27.png"
+        },
+        {
+          "img": "images/16.png"
+        },
+        {
+          "img": "images/13.png"
+        },
+        {
+          "img": "images/53.png"
+        }
+      ]
+    },
+    {
+      "image_id": 72,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/72.png",
+        "caption": "Tiny universes"
+      },
+      "distractors": [
+        {
+          "img": "images/61.png"
+        },
+        {
+          "img": "images/78.png"
+        },
+        {
+          "img": "images/54.png"
+        },
+        {
+          "img": "images/11.png"
+        },
+        {
+          "img": "images/3.png"
+        }
+      ]
+    },
+    {
+      "image_id": 73,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/73.png",
+        "caption": "Skybound reverie"
+      },
+      "distractors": [
+        {
+          "img": "images/17.png"
+        },
+        {
+          "img": "images/6.png"
+        },
+        {
+          "img": "images/13.png"
+        },
+        {
+          "img": "images/41.png"
+        },
+        {
+          "img": "images/45.png"
+        }
+      ]
+    },
+    {
+      "image_id": 73,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/73.png",
+        "caption": "Skybound reverie"
+      },
+      "distractors": [
+        {
+          "img": "images/71.png"
+        },
+        {
+          "img": "images/20.png"
+        },
+        {
+          "img": "images/65.png"
+        },
+        {
+          "img": "images/32.png"
+        },
+        {
+          "img": "images/2.png"
+        }
+      ]
+    },
+    {
+      "image_id": 73,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/73.png",
+        "caption": "Skybound reverie"
+      },
+      "distractors": [
+        {
+          "img": "images/52.png"
+        },
+        {
+          "img": "images/4.png"
+        },
+        {
+          "img": "images/30.png"
+        },
+        {
+          "img": "images/7.png"
+        },
+        {
+          "img": "images/77.png"
+        }
+      ]
+    },
+    {
+      "image_id": 74,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/74.png",
+        "caption": "Fragile emergence"
+      },
+      "distractors": [
+        {
+          "img": "images/1.png"
+        },
+        {
+          "img": "images/55.png"
+        },
+        {
+          "img": "images/16.png"
+        },
+        {
+          "img": "images/38.png"
+        },
+        {
+          "img": "images/30.png"
+        }
+      ]
+    },
+    {
+      "image_id": 74,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/74.png",
+        "caption": "Fragile emergence"
+      },
+      "distractors": [
+        {
+          "img": "images/2.png"
+        },
+        {
+          "img": "images/45.png"
+        },
+        {
+          "img": "images/17.png"
+        },
+        {
+          "img": "images/81.png"
+        },
+        {
+          "img": "images/20.png"
+        }
+      ]
+    },
+    {
+      "image_id": 74,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/74.png",
+        "caption": "Fragile emergence"
+      },
+      "distractors": [
+        {
+          "img": "images/68.png"
+        },
+        {
+          "img": "images/64.png"
+        },
+        {
+          "img": "images/78.png"
+        },
+        {
+          "img": "images/75.png"
+        },
+        {
+          "img": "images/37.png"
+        }
+      ]
+    },
+    {
+      "image_id": 75,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/75.png",
+        "caption": "Golden decadence"
+      },
+      "distractors": [
+        {
+          "img": "images/4.png"
+        },
+        {
+          "img": "images/63.png"
+        },
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/72.png"
+        },
+        {
+          "img": "images/78.png"
+        }
+      ]
+    },
+    {
+      "image_id": 75,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/75.png",
+        "caption": "Golden decadence"
+      },
+      "distractors": [
+        {
+          "img": "images/82.png"
+        },
+        {
+          "img": "images/80.png"
+        },
+        {
+          "img": "images/48.png"
+        },
+        {
+          "img": "images/38.png"
+        },
+        {
+          "img": "images/47.png"
+        }
+      ]
+    },
+    {
+      "image_id": 75,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/75.png",
+        "caption": "Golden decadence"
+      },
+      "distractors": [
+        {
+          "img": "images/74.png"
+        },
+        {
+          "img": "images/73.png"
+        },
+        {
+          "img": "images/23.png"
+        },
+        {
+          "img": "images/40.png"
+        },
+        {
+          "img": "images/5.png"
+        }
+      ]
+    },
+    {
+      "image_id": 76,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/76.png",
+        "caption": "Revealed destiny"
+      },
+      "distractors": [
+        {
+          "img": "images/71.png"
+        },
+        {
+          "img": "images/66.png"
+        },
+        {
+          "img": "images/23.png"
+        },
+        {
+          "img": "images/78.png"
+        },
+        {
+          "img": "images/54.png"
+        }
+      ]
+    },
+    {
+      "image_id": 76,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/76.png",
+        "caption": "Revealed destiny"
+      },
+      "distractors": [
+        {
+          "img": "images/1.png"
+        },
+        {
+          "img": "images/53.png"
+        },
+        {
+          "img": "images/26.png"
+        },
+        {
+          "img": "images/50.png"
+        },
+        {
+          "img": "images/61.png"
+        }
+      ]
+    },
+    {
+      "image_id": 76,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/76.png",
+        "caption": "Revealed destiny"
+      },
+      "distractors": [
+        {
+          "img": "images/28.png"
+        },
+        {
+          "img": "images/83.png"
+        },
+        {
+          "img": "images/75.png"
+        },
+        {
+          "img": "images/42.png"
+        },
+        {
+          "img": "images/18.png"
+        }
+      ]
+    },
+    {
+      "image_id": 77,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/77.png",
+        "caption": "Quiet beginnings"
+      },
+      "distractors": [
+        {
+          "img": "images/33.png"
+        },
+        {
+          "img": "images/48.png"
+        },
+        {
+          "img": "images/51.png"
+        },
+        {
+          "img": "images/69.png"
+        },
+        {
+          "img": "images/55.png"
+        }
+      ]
+    },
+    {
+      "image_id": 77,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/77.png",
+        "caption": "Quiet beginnings"
+      },
+      "distractors": [
+        {
+          "img": "images/36.png"
+        },
+        {
+          "img": "images/6.png"
+        },
+        {
+          "img": "images/28.png"
+        },
+        {
+          "img": "images/18.png"
+        },
+        {
+          "img": "images/38.png"
+        }
+      ]
+    },
+    {
+      "image_id": 77,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/77.png",
+        "caption": "Quiet beginnings"
+      },
+      "distractors": [
+        {
+          "img": "images/61.png"
+        },
+        {
+          "img": "images/81.png"
+        },
+        {
+          "img": "images/9.png"
+        },
+        {
+          "img": "images/40.png"
+        },
+        {
+          "img": "images/17.png"
+        }
+      ]
+    },
+    {
+      "image_id": 78,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/78.png",
+        "caption": "Emerald labyrinth"
+      },
+      "distractors": [
+        {
+          "img": "images/49.png"
+        },
+        {
+          "img": "images/61.png"
+        },
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/10.png"
+        },
+        {
+          "img": "images/6.png"
+        }
+      ]
+    },
+    {
+      "image_id": 78,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/78.png",
+        "caption": "Emerald labyrinth"
+      },
+      "distractors": [
+        {
+          "img": "images/71.png"
+        },
+        {
+          "img": "images/4.png"
+        },
+        {
+          "img": "images/23.png"
+        },
+        {
+          "img": "images/63.png"
+        },
+        {
+          "img": "images/50.png"
+        }
+      ]
+    },
+    {
+      "image_id": 78,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/78.png",
+        "caption": "Emerald labyrinth"
+      },
+      "distractors": [
+        {
+          "img": "images/38.png"
+        },
+        {
+          "img": "images/51.png"
+        },
+        {
+          "img": "images/9.png"
+        },
+        {
+          "img": "images/31.png"
+        },
+        {
+          "img": "images/55.png"
+        }
+      ]
+    },
+    {
+      "image_id": 79,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/79.png",
+        "caption": "Golden longing"
+      },
+      "distractors": [
+        {
+          "img": "images/40.png"
+        },
+        {
+          "img": "images/25.png"
+        },
+        {
+          "img": "images/24.png"
+        },
+        {
+          "img": "images/84.png"
+        },
+        {
+          "img": "images/16.png"
+        }
+      ]
+    },
+    {
+      "image_id": 79,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/79.png",
+        "caption": "Golden longing"
+      },
+      "distractors": [
+        {
+          "img": "images/44.png"
+        },
+        {
+          "img": "images/33.png"
+        },
+        {
+          "img": "images/35.png"
+        },
+        {
+          "img": "images/38.png"
+        },
+        {
+          "img": "images/83.png"
+        }
+      ]
+    },
+    {
+      "image_id": 79,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/79.png",
+        "caption": "Golden longing"
+      },
+      "distractors": [
+        {
+          "img": "images/21.png"
+        },
+        {
+          "img": "images/58.png"
+        },
+        {
+          "img": "images/74.png"
+        },
+        {
+          "img": "images/27.png"
+        },
+        {
+          "img": "images/23.png"
+        }
+      ]
+    },
+    {
+      "image_id": 80,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/80.png",
+        "caption": "Ephemeral Eden"
+      },
+      "distractors": [
+        {
+          "img": "images/41.png"
+        },
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/6.png"
+        },
+        {
+          "img": "images/32.png"
+        },
+        {
+          "img": "images/26.png"
+        }
+      ]
+    },
+    {
+      "image_id": 80,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/80.png",
+        "caption": "Ephemeral Eden"
+      },
+      "distractors": [
+        {
+          "img": "images/43.png"
+        },
+        {
+          "img": "images/12.png"
+        },
+        {
+          "img": "images/1.png"
+        },
+        {
+          "img": "images/81.png"
+        },
+        {
+          "img": "images/20.png"
+        }
+      ]
+    },
+    {
+      "image_id": 80,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/80.png",
+        "caption": "Ephemeral Eden"
+      },
+      "distractors": [
+        {
+          "img": "images/35.png"
+        },
+        {
+          "img": "images/11.png"
+        },
+        {
+          "img": "images/70.png"
+        },
+        {
+          "img": "images/75.png"
+        },
+        {
+          "img": "images/55.png"
+        }
+      ]
+    },
+    {
+      "image_id": 81,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/81.png",
+        "caption": "Sunken reverie"
+      },
+      "distractors": [
+        {
+          "img": "images/80.png"
+        },
+        {
+          "img": "images/30.png"
+        },
+        {
+          "img": "images/53.png"
+        },
+        {
+          "img": "images/12.png"
+        },
+        {
+          "img": "images/62.png"
+        }
+      ]
+    },
+    {
+      "image_id": 81,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/81.png",
+        "caption": "Sunken reverie"
+      },
+      "distractors": [
+        {
+          "img": "images/74.png"
+        },
+        {
+          "img": "images/38.png"
+        },
+        {
+          "img": "images/67.png"
+        },
+        {
+          "img": "images/2.png"
+        },
+        {
+          "img": "images/69.png"
+        }
+      ]
+    },
+    {
+      "image_id": 81,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/81.png",
+        "caption": "Sunken reverie"
+      },
+      "distractors": [
+        {
+          "img": "images/41.png"
+        },
+        {
+          "img": "images/49.png"
+        },
+        {
+          "img": "images/58.png"
+        },
+        {
+          "img": "images/21.png"
+        },
+        {
+          "img": "images/27.png"
+        }
+      ]
+    },
+    {
+      "image_id": 82,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/82.png",
+        "caption": "Melancholy resonance"
+      },
+      "distractors": [
+        {
+          "img": "images/19.png"
+        },
+        {
+          "img": "images/50.png"
+        },
+        {
+          "img": "images/44.png"
+        },
+        {
+          "img": "images/83.png"
+        },
+        {
+          "img": "images/72.png"
+        }
+      ]
+    },
+    {
+      "image_id": 82,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/82.png",
+        "caption": "Melancholy resonance"
+      },
+      "distractors": [
+        {
+          "img": "images/18.png"
+        },
+        {
+          "img": "images/13.png"
+        },
+        {
+          "img": "images/48.png"
+        },
+        {
+          "img": "images/53.png"
+        },
+        {
+          "img": "images/80.png"
+        }
+      ]
+    },
+    {
+      "image_id": 82,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/82.png",
+        "caption": "Melancholy resonance"
+      },
+      "distractors": [
+        {
+          "img": "images/64.png"
+        },
+        {
+          "img": "images/12.png"
+        },
+        {
+          "img": "images/7.png"
+        },
+        {
+          "img": "images/57.png"
+        },
+        {
+          "img": "images/79.png"
+        }
+      ]
+    },
+    {
+      "image_id": 83,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/83.png",
+        "caption": "Puppet master's gaze"
+      },
+      "distractors": [
+        {
+          "img": "images/44.png"
+        },
+        {
+          "img": "images/21.png"
+        },
+        {
+          "img": "images/72.png"
+        },
+        {
+          "img": "images/82.png"
+        },
+        {
+          "img": "images/47.png"
+        }
+      ]
+    },
+    {
+      "image_id": 83,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/83.png",
+        "caption": "Puppet master's gaze"
+      },
+      "distractors": [
+        {
+          "img": "images/43.png"
+        },
+        {
+          "img": "images/28.png"
+        },
+        {
+          "img": "images/68.png"
+        },
+        {
+          "img": "images/29.png"
+        },
+        {
+          "img": "images/75.png"
+        }
+      ]
+    },
+    {
+      "image_id": 83,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/83.png",
+        "caption": "Puppet master's gaze"
+      },
+      "distractors": [
+        {
+          "img": "images/16.png"
+        },
+        {
+          "img": "images/17.png"
+        },
+        {
+          "img": "images/57.png"
+        },
+        {
+          "img": "images/56.png"
+        },
+        {
+          "img": "images/41.png"
+        }
+      ]
+    },
+    {
+      "image_id": 84,
+      "caption_type": "phrase",
+      "difficulty": "hard",
+      "target": {
+        "img": "images/84.png",
+        "caption": "Golden anticipation"
+      },
+      "distractors": [
+        {
+          "img": "images/20.png"
+        },
+        {
+          "img": "images/1.png"
+        },
+        {
+          "img": "images/38.png"
+        },
+        {
+          "img": "images/41.png"
+        },
+        {
+          "img": "images/69.png"
+        }
+      ]
+    },
+    {
+      "image_id": 84,
+      "caption_type": "phrase",
+      "difficulty": "medium",
+      "target": {
+        "img": "images/84.png",
+        "caption": "Golden anticipation"
+      },
+      "distractors": [
+        {
+          "img": "images/54.png"
+        },
+        {
+          "img": "images/65.png"
+        },
+        {
+          "img": "images/39.png"
+        },
+        {
+          "img": "images/2.png"
+        },
+        {
+          "img": "images/12.png"
+        }
+      ]
+    },
+    {
+      "image_id": 84,
+      "caption_type": "phrase",
+      "difficulty": "easy",
+      "target": {
+        "img": "images/84.png",
+        "caption": "Golden anticipation"
+      },
+      "distractors": [
+        {
+          "img": "images/33.png"
+        },
+        {
+          "img": "images/53.png"
+        },
+        {
+          "img": "images/50.png"
+        },
+        {
+          "img": "images/49.png"
+        },
+        {
+          "img": "images/57.png"
+        }
+      ]
+    }
+  ]
+}

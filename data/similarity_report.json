@@ -1,0 +1,2529 @@
+{
+  "summary": {
+    "total_images": 84,
+    "embedding_model": "SentenceTransformer(\n  (0): Transformer({'max_seq_length': 256, 'do_lower_case': False, 'architecture': 'BertModel'})\n  (1): Pooling({'word_embedding_dimension': 384, 'pooling_mode_cls_token': False, 'pooling_mode_mean_tokens': True, 'pooling_mode_max_tokens': False, 'pooling_mode_mean_sqrt_len_tokens': False, 'pooling_mode_weightedmean_tokens': False, 'pooling_mode_lasttoken': False, 'include_prompt': True})\n  (2): Normalize()\n)",
+    "embedding_dimension": 384
+  },
+  "images": {
+    "1": {
+      "caption": "Fragile ascension",
+      "most_similar": [
+        {
+          "image_id": "59",
+          "similarity": 0.4942883551120758,
+          "caption": "Cat artist paints vibrant underwater scene with fish and seaweed, blending creativity and whimsy."
+        },
+        {
+          "image_id": "20",
+          "similarity": 0.4913942217826843,
+          "caption": "A figure of paper strides through a windy, surreal landscape under a stormy sky."
+        },
+        {
+          "image_id": "84",
+          "similarity": 0.47915834188461304,
+          "caption": "Person sowing seeds in a colorful, surreal landscape under a bright yellow sky."
+        },
+        {
+          "image_id": "74",
+          "similarity": 0.4507519602775574,
+          "caption": "Daisy blooms defiantly from cracked earth under a swirling, dark sky."
+        },
+        {
+          "image_id": "41",
+          "similarity": 0.43907880783081055,
+          "caption": "Surreal droplets encapsulate life and nature against a vibrant red backdrop."
+        }
+      ]
+    },
+    "2": {
+      "caption": "Empty command",
+      "most_similar": [
+        {
+          "image_id": "45",
+          "similarity": 0.49064791202545166,
+          "caption": "Stone archway opens to a serene, painted sky with fluffy clouds."
+        },
+        {
+          "image_id": "20",
+          "similarity": 0.48220252990722656,
+          "caption": "A figure of paper strides through a windy, surreal landscape under a stormy sky."
+        },
+        {
+          "image_id": "41",
+          "similarity": 0.4394815266132355,
+          "caption": "Surreal droplets encapsulate life and nature against a vibrant red backdrop."
+        },
+        {
+          "image_id": "38",
+          "similarity": 0.42064937949180603,
+          "caption": "Cheerful scarecrow stands amidst vibrant sunflowers under a bright blue sky."
+        },
+        {
+          "image_id": "16",
+          "similarity": 0.41868504881858826,
+          "caption": "Whimsical tree with a face holds vibrant flowers, set in a peaceful landscape."
+        }
+      ]
+    },
+    "3": {
+      "caption": "Golden passage",
+      "most_similar": [
+        {
+          "image_id": "17",
+          "similarity": 0.4309725761413574,
+          "caption": "Child blows bubbles under a magical sunset sky, surrounded by lush green hills."
+        },
+        {
+          "image_id": "46",
+          "similarity": 0.41947346925735474,
+          "caption": "Whimsical carousel ride at sunset, children joyfully riding animals under a starry canopy."
+        },
+        {
+          "image_id": "28",
+          "similarity": 0.3514273464679718,
+          "caption": "Fairy rescues child from giant creature's jaws in a whimsical, adventurous scene."
+        },
+        {
+          "image_id": "70",
+          "similarity": 0.33927997946739197,
+          "caption": "Child explores a giant seashell on the beach, evoking wonder and curiosity."
+        },
+        {
+          "image_id": "39",
+          "similarity": 0.3301693797111511,
+          "caption": "White poppy stands out among vibrant red blooms on a lush green backdrop."
+        }
+      ]
+    },
+    "4": {
+      "caption": "Hidden anxieties",
+      "most_similar": [
+        {
+          "image_id": "44",
+          "similarity": 0.4687102437019348,
+          "caption": "Colorful toy display featuring dolls, clothes, and playful vehicles in a vibrant setting."
+        },
+        {
+          "image_id": "75",
+          "similarity": 0.4395928382873535,
+          "caption": "A chaotic feast with diverse dishes and drinks on a crowded table."
+        },
+        {
+          "image_id": "60",
+          "similarity": 0.41241729259490967,
+          "caption": "Curious figure peeks through a leaf, discovering hidden treasures within its folds."
+        },
+        {
+          "image_id": "63",
+          "similarity": 0.4017717242240906,
+          "caption": "Whimsical scientist concocts potions in a colorful, cluttered laboratory filled with mysterious bottles."
+        },
+        {
+          "image_id": "78",
+          "similarity": 0.36944764852523804,
+          "caption": "Knife entangled in twisting green vines, evoking a surreal and mysterious ambiance."
+        }
+      ]
+    },
+    "5": {
+      "caption": "Weightless surrender",
+      "most_similar": [
+        {
+          "image_id": "53",
+          "similarity": 0.36452776193618774,
+          "caption": "Contemplative figure with open mind, glowing thoughts, and symbolic keys against a red backdrop."
+        },
+        {
+          "image_id": "7",
+          "similarity": 0.33225536346435547,
+          "caption": "Person gazes from a quirky blue house amidst a snowy, whimsical landscape."
+        },
+        {
+          "image_id": "12",
+          "similarity": 0.3317682147026062,
+          "caption": "Man in top hat ascends sky stairs, reflecting surreal dreamscape."
+        },
+        {
+          "image_id": "19",
+          "similarity": 0.32362598180770874,
+          "caption": "Whimsical spiral with flowing ribbon and ladder, evoking a surreal, dreamlike mood."
+        },
+        {
+          "image_id": "30",
+          "similarity": 0.31746506690979004,
+          "caption": "Person in a snow globe with house and trees under a starry sky."
+        }
+      ]
+    },
+    "6": {
+      "caption": "Entwined destiny",
+      "most_similar": [
+        {
+          "image_id": "41",
+          "similarity": 0.6009694933891296,
+          "caption": "Surreal droplets encapsulate life and nature against a vibrant red backdrop."
+        },
+        {
+          "image_id": "80",
+          "similarity": 0.46249812841415405,
+          "caption": "Island within a droplet, encapsulating nature's tranquility in a surreal, dreamlike scene."
+        },
+        {
+          "image_id": "78",
+          "similarity": 0.4583936333656311,
+          "caption": "Knife entangled in twisting green vines, evoking a surreal and mysterious ambiance."
+        },
+        {
+          "image_id": "19",
+          "similarity": 0.44871532917022705,
+          "caption": "Whimsical spiral with flowing ribbon and ladder, evoking a surreal, dreamlike mood."
+        },
+        {
+          "image_id": "73",
+          "similarity": 0.41129636764526367,
+          "caption": "Floating castle tethered to a blue balloon drifts through a serene, cloud-dotted sky."
+        }
+      ]
+    },
+    "7": {
+      "caption": "Wound, waiting stillness",
+      "most_similar": [
+        {
+          "image_id": "30",
+          "similarity": 0.6190823316574097,
+          "caption": "Person in a snow globe with house and trees under a starry sky."
+        },
+        {
+          "image_id": "31",
+          "similarity": 0.46631115674972534,
+          "caption": "Animated figure strolls through a tranquil snowy landscape, hair and coat flowing in the breeze."
+        },
+        {
+          "image_id": "24",
+          "similarity": 0.4321269392967224,
+          "caption": "Surprised sun gazes at vibrant umbrellas under a clear blue sky."
+        },
+        {
+          "image_id": "84",
+          "similarity": 0.411587119102478,
+          "caption": "Person sowing seeds in a colorful, surreal landscape under a bright yellow sky."
+        },
+        {
+          "image_id": "2",
+          "similarity": 0.39052432775497437,
+          "caption": "Majestic king gestures grandly amidst a backdrop of clouds and greenery."
+        }
+      ]
+    },
+    "8": {
+      "caption": "Silent guardian",
+      "most_similar": [
+        {
+          "image_id": "44",
+          "similarity": 0.37817105650901794,
+          "caption": "Colorful toy display featuring dolls, clothes, and playful vehicles in a vibrant setting."
+        },
+        {
+          "image_id": "52",
+          "similarity": 0.3583832383155823,
+          "caption": "Child faces friendly blue dragon with a toy sword in a whimsical encounter."
+        },
+        {
+          "image_id": "28",
+          "similarity": 0.33171382546424866,
+          "caption": "Fairy rescues child from giant creature's jaws in a whimsical, adventurous scene."
+        },
+        {
+          "image_id": "46",
+          "similarity": 0.3246237337589264,
+          "caption": "Whimsical carousel ride at sunset, children joyfully riding animals under a starry canopy."
+        },
+        {
+          "image_id": "72",
+          "similarity": 0.32303929328918457,
+          "caption": "Dollhouse with a doll, vibrant rooms, and charming details create a whimsical scene."
+        }
+      ]
+    },
+    "9": {
+      "caption": "Uncharted memories",
+      "most_similar": [
+        {
+          "image_id": "53",
+          "similarity": 0.44978660345077515,
+          "caption": "Contemplative figure with open mind, glowing thoughts, and symbolic keys against a red backdrop."
+        },
+        {
+          "image_id": "19",
+          "similarity": 0.38847625255584717,
+          "caption": "Whimsical spiral with flowing ribbon and ladder, evoking a surreal, dreamlike mood."
+        },
+        {
+          "image_id": "26",
+          "similarity": 0.37555938959121704,
+          "caption": "Leaf-covered figure with staff under crescent moons and red sky, evoking mystery and solitude."
+        },
+        {
+          "image_id": "20",
+          "similarity": 0.3378061056137085,
+          "caption": "A figure of paper strides through a windy, surreal landscape under a stormy sky."
+        },
+        {
+          "image_id": "66",
+          "similarity": 0.3324498236179352,
+          "caption": "Hand with torch rises from waves, symbolizing hope and resilience."
+        }
+      ]
+    },
+    "10": {
+      "caption": "Unwritten fate",
+      "most_similar": [
+        {
+          "image_id": "78",
+          "similarity": 0.4882347583770752,
+          "caption": "Knife entangled in twisting green vines, evoking a surreal and mysterious ambiance."
+        },
+        {
+          "image_id": "43",
+          "similarity": 0.45252060890197754,
+          "caption": "Fairy enchants towering stack of colorful books, sparking magic and wonder."
+        },
+        {
+          "image_id": "80",
+          "similarity": 0.4287066161632538,
+          "caption": "Island within a droplet, encapsulating nature's tranquility in a surreal, dreamlike scene."
+        },
+        {
+          "image_id": "37",
+          "similarity": 0.42867743968963623,
+          "caption": "Rabbit knight faces three mysterious doors, ready for an adventurous quest."
+        },
+        {
+          "image_id": "6",
+          "similarity": 0.40776628255844116,
+          "caption": "Surreal tentacles emerge from dice against a vibrant, fiery backdrop."
+        }
+      ]
+    },
+    "11": {
+      "caption": "Quiet reckoning",
+      "most_similar": [
+        {
+          "image_id": "41",
+          "similarity": 0.3119162321090698,
+          "caption": "Surreal droplets encapsulate life and nature against a vibrant red backdrop."
+        },
+        {
+          "image_id": "15",
+          "similarity": 0.29271095991134644,
+          "caption": "Surreal thermometer melting under moonlight, symbolizing extreme heat and climate change."
+        },
+        {
+          "image_id": "26",
+          "similarity": 0.2793009877204895,
+          "caption": "Leaf-covered figure with staff under crescent moons and red sky, evoking mystery and solitude."
+        },
+        {
+          "image_id": "43",
+          "similarity": 0.27754515409469604,
+          "caption": "Fairy enchants towering stack of colorful books, sparking magic and wonder."
+        },
+        {
+          "image_id": "25",
+          "similarity": 0.2746434807777405,
+          "caption": "Yellow masks express diverse emotions on a rich red backdrop."
+        }
+      ]
+    },
+    "12": {
+      "caption": "Fragile ascent",
+      "most_similar": [
+        {
+          "image_id": "19",
+          "similarity": 0.5325701236724854,
+          "caption": "Whimsical spiral with flowing ribbon and ladder, evoking a surreal, dreamlike mood."
+        },
+        {
+          "image_id": "13",
+          "similarity": 0.4962133765220642,
+          "caption": "Spiral staircase ascends to the sky, amidst serene hills and a curious snail."
+        },
+        {
+          "image_id": "54",
+          "similarity": 0.4650738537311554,
+          "caption": "Man reads under a starry sky of letters, blending reality with imagination."
+        },
+        {
+          "image_id": "20",
+          "similarity": 0.4218558669090271,
+          "caption": "A figure of paper strides through a windy, surreal landscape under a stormy sky."
+        },
+        {
+          "image_id": "53",
+          "similarity": 0.41823670268058777,
+          "caption": "Contemplative figure with open mind, glowing thoughts, and symbolic keys against a red backdrop."
+        }
+      ]
+    },
+    "13": {
+      "caption": "Golden, slow climb",
+      "most_similar": [
+        {
+          "image_id": "19",
+          "similarity": 0.5005850195884705,
+          "caption": "Whimsical spiral with flowing ribbon and ladder, evoking a surreal, dreamlike mood."
+        },
+        {
+          "image_id": "49",
+          "similarity": 0.4978013038635254,
+          "caption": "Mysterious shell nestled in a dark, twisted forest path."
+        },
+        {
+          "image_id": "12",
+          "similarity": 0.4962133765220642,
+          "caption": "Man in top hat ascends sky stairs, reflecting surreal dreamscape."
+        },
+        {
+          "image_id": "48",
+          "similarity": 0.4417785108089447,
+          "caption": "Bird navigates a 3D maze, surrounded by insects and a butterfly, in a whimsical scene."
+        },
+        {
+          "image_id": "60",
+          "similarity": 0.43932175636291504,
+          "caption": "Curious figure peeks through a leaf, discovering hidden treasures within its folds."
+        }
+      ]
+    },
+    "14": {
+      "caption": "Devouring giants",
+      "most_similar": [
+        {
+          "image_id": "2",
+          "similarity": 0.3761390447616577,
+          "caption": "Majestic king gestures grandly amidst a backdrop of clouds and greenery."
+        },
+        {
+          "image_id": "20",
+          "similarity": 0.37108755111694336,
+          "caption": "A figure of paper strides through a windy, surreal landscape under a stormy sky."
+        },
+        {
+          "image_id": "80",
+          "similarity": 0.34962183237075806,
+          "caption": "Island within a droplet, encapsulating nature's tranquility in a surreal, dreamlike scene."
+        },
+        {
+          "image_id": "71",
+          "similarity": 0.3490936756134033,
+          "caption": "Hand cradles swirling blue vortex, contrasting vibrant orange backdrop."
+        },
+        {
+          "image_id": "41",
+          "similarity": 0.3487052321434021,
+          "caption": "Surreal droplets encapsulate life and nature against a vibrant red backdrop."
+        }
+      ]
+    },
+    "15": {
+      "caption": "Rising unease",
+      "most_similar": [
+        {
+          "image_id": "80",
+          "similarity": 0.43544286489486694,
+          "caption": "Island within a droplet, encapsulating nature's tranquility in a surreal, dreamlike scene."
+        },
+        {
+          "image_id": "62",
+          "similarity": 0.4344007968902588,
+          "caption": "Whimsical figure in starry robe illuminates light bulb with a candle's gentle glow."
+        },
+        {
+          "image_id": "19",
+          "similarity": 0.4343132972717285,
+          "caption": "Whimsical spiral with flowing ribbon and ladder, evoking a surreal, dreamlike mood."
+        },
+        {
+          "image_id": "41",
+          "similarity": 0.43229222297668457,
+          "caption": "Surreal droplets encapsulate life and nature against a vibrant red backdrop."
+        },
+        {
+          "image_id": "66",
+          "similarity": 0.4262099266052246,
+          "caption": "Hand with torch rises from waves, symbolizing hope and resilience."
+        }
+      ]
+    },
+    "16": {
+      "caption": "Guarded bloom",
+      "most_similar": [
+        {
+          "image_id": "38",
+          "similarity": 0.4780460000038147,
+          "caption": "Cheerful scarecrow stands amidst vibrant sunflowers under a bright blue sky."
+        },
+        {
+          "image_id": "33",
+          "similarity": 0.440496027469635,
+          "caption": "Whimsical ladybug with playful creatures peeking from its spots on a vibrant green leaf."
+        },
+        {
+          "image_id": "74",
+          "similarity": 0.420066237449646,
+          "caption": "Daisy blooms defiantly from cracked earth under a swirling, dark sky."
+        },
+        {
+          "image_id": "2",
+          "similarity": 0.41868504881858826,
+          "caption": "Majestic king gestures grandly amidst a backdrop of clouds and greenery."
+        },
+        {
+          "image_id": "61",
+          "similarity": 0.4178439676761627,
+          "caption": "Surreal tree with planets and deer, as a person with an axe approaches."
+        }
+      ]
+    },
+    "17": {
+      "caption": "Ephemeral yearning",
+      "most_similar": [
+        {
+          "image_id": "69",
+          "similarity": 0.47740960121154785,
+          "caption": "Whimsical egg-shaped village with glowing windows under a dark sky."
+        },
+        {
+          "image_id": "73",
+          "similarity": 0.4457823634147644,
+          "caption": "Floating castle tethered to a blue balloon drifts through a serene, cloud-dotted sky."
+        },
+        {
+          "image_id": "46",
+          "similarity": 0.4373129606246948,
+          "caption": "Whimsical carousel ride at sunset, children joyfully riding animals under a starry canopy."
+        },
+        {
+          "image_id": "3",
+          "similarity": 0.4309725761413574,
+          "caption": "Child on white horse near cliff, vibrant rainbow, lush green hills in background."
+        },
+        {
+          "image_id": "84",
+          "similarity": 0.4042527675628662,
+          "caption": "Person sowing seeds in a colorful, surreal landscape under a bright yellow sky."
+        }
+      ]
+    },
+    "18": {
+      "caption": "Orchestrated ascent",
+      "most_similar": [
+        {
+          "image_id": "1",
+          "similarity": 0.38720935583114624,
+          "caption": "Artist paints a dove in the sky, blending creativity with nature's canvas."
+        },
+        {
+          "image_id": "24",
+          "similarity": 0.37592899799346924,
+          "caption": "Surprised sun gazes at vibrant umbrellas under a clear blue sky."
+        },
+        {
+          "image_id": "61",
+          "similarity": 0.37255406379699707,
+          "caption": "Surreal tree with planets and deer, as a person with an axe approaches."
+        },
+        {
+          "image_id": "48",
+          "similarity": 0.3576924800872803,
+          "caption": "Bird navigates a 3D maze, surrounded by insects and a butterfly, in a whimsical scene."
+        },
+        {
+          "image_id": "84",
+          "similarity": 0.3452422618865967,
+          "caption": "Person sowing seeds in a colorful, surreal landscape under a bright yellow sky."
+        }
+      ]
+    },
+    "19": {
+      "caption": "Rewinding memories",
+      "most_similar": [
+        {
+          "image_id": "12",
+          "similarity": 0.5325701236724854,
+          "caption": "Man in top hat ascends sky stairs, reflecting surreal dreamscape."
+        },
+        {
+          "image_id": "13",
+          "similarity": 0.5005850195884705,
+          "caption": "Spiral staircase ascends to the sky, amidst serene hills and a curious snail."
+        },
+        {
+          "image_id": "20",
+          "similarity": 0.49520543217658997,
+          "caption": "A figure of paper strides through a windy, surreal landscape under a stormy sky."
+        },
+        {
+          "image_id": "80",
+          "similarity": 0.493896484375,
+          "caption": "Island within a droplet, encapsulating nature's tranquility in a surreal, dreamlike scene."
+        },
+        {
+          "image_id": "78",
+          "similarity": 0.49016308784484863,
+          "caption": "Knife entangled in twisting green vines, evoking a surreal and mysterious ambiance."
+        }
+      ]
+    },
+    "20": {
+      "caption": "Ephemeral echoes",
+      "most_similar": [
+        {
+          "image_id": "31",
+          "similarity": 0.5242007970809937,
+          "caption": "Animated figure strolls through a tranquil snowy landscape, hair and coat flowing in the breeze."
+        },
+        {
+          "image_id": "84",
+          "similarity": 0.5200916528701782,
+          "caption": "Person sowing seeds in a colorful, surreal landscape under a bright yellow sky."
+        },
+        {
+          "image_id": "19",
+          "similarity": 0.49520543217658997,
+          "caption": "Whimsical spiral with flowing ribbon and ladder, evoking a surreal, dreamlike mood."
+        },
+        {
+          "image_id": "54",
+          "similarity": 0.4936789870262146,
+          "caption": "Man reads under a starry sky of letters, blending reality with imagination."
+        },
+        {
+          "image_id": "1",
+          "similarity": 0.4913942217826843,
+          "caption": "Artist paints a dove in the sky, blending creativity with nature's canvas."
+        }
+      ]
+    },
+    "21": {
+      "caption": "Golden captivity",
+      "most_similar": [
+        {
+          "image_id": "83",
+          "similarity": 0.40477460622787476,
+          "caption": "Elderly woman joyfully presents a puppet show, featuring two lively characters on stage."
+        },
+        {
+          "image_id": "26",
+          "similarity": 0.4017857611179352,
+          "caption": "Leaf-covered figure with staff under crescent moons and red sky, evoking mystery and solitude."
+        },
+        {
+          "image_id": "53",
+          "similarity": 0.3831406533718109,
+          "caption": "Contemplative figure with open mind, glowing thoughts, and symbolic keys against a red backdrop."
+        },
+        {
+          "image_id": "60",
+          "similarity": 0.3827749490737915,
+          "caption": "Curious figure peeks through a leaf, discovering hidden treasures within its folds."
+        },
+        {
+          "image_id": "49",
+          "similarity": 0.363641619682312,
+          "caption": "Mysterious shell nestled in a dark, twisted forest path."
+        }
+      ]
+    },
+    "22": {
+      "caption": "Solemn procession",
+      "most_similar": [
+        {
+          "image_id": "44",
+          "similarity": 0.34611254930496216,
+          "caption": "Colorful toy display featuring dolls, clothes, and playful vehicles in a vibrant setting."
+        },
+        {
+          "image_id": "28",
+          "similarity": 0.31001394987106323,
+          "caption": "Fairy rescues child from giant creature's jaws in a whimsical, adventurous scene."
+        },
+        {
+          "image_id": "52",
+          "similarity": 0.3084937036037445,
+          "caption": "Child faces friendly blue dragon with a toy sword in a whimsical encounter."
+        },
+        {
+          "image_id": "8",
+          "similarity": 0.3035981357097626,
+          "caption": "Child and teddy bear stand back-to-back, evoking a mood of sadness and separation."
+        },
+        {
+          "image_id": "21",
+          "similarity": 0.20779357850551605,
+          "caption": "Wooden puppet sits on ornate throne, symbolizing control and authority."
+        }
+      ]
+    },
+    "23": {
+      "caption": "Timeless wonder",
+      "most_similar": [
+        {
+          "image_id": "58",
+          "similarity": 0.49354928731918335,
+          "caption": "Planetary abacus against a starry sky, blending education with cosmic wonder."
+        },
+        {
+          "image_id": "54",
+          "similarity": 0.46341198682785034,
+          "caption": "Man reads under a starry sky of letters, blending reality with imagination."
+        },
+        {
+          "image_id": "71",
+          "similarity": 0.42119646072387695,
+          "caption": "Hand cradles swirling blue vortex, contrasting vibrant orange backdrop."
+        },
+        {
+          "image_id": "15",
+          "similarity": 0.3996981978416443,
+          "caption": "Surreal thermometer melting under moonlight, symbolizing extreme heat and climate change."
+        },
+        {
+          "image_id": "20",
+          "similarity": 0.38021212816238403,
+          "caption": "A figure of paper strides through a windy, surreal landscape under a stormy sky."
+        }
+      ]
+    },
+    "24": {
+      "caption": "Watched, silent sorrow",
+      "most_similar": [
+        {
+          "image_id": "38",
+          "similarity": 0.4824197590351105,
+          "caption": "Cheerful scarecrow stands amidst vibrant sunflowers under a bright blue sky."
+        },
+        {
+          "image_id": "7",
+          "similarity": 0.4321269392967224,
+          "caption": "Person gazes from a quirky blue house amidst a snowy, whimsical landscape."
+        },
+        {
+          "image_id": "65",
+          "similarity": 0.42340904474258423,
+          "caption": "Anchor suspended over vibrant yellow dunes under a clear blue sky."
+        },
+        {
+          "image_id": "2",
+          "similarity": 0.410274863243103,
+          "caption": "Majestic king gestures grandly amidst a backdrop of clouds and greenery."
+        },
+        {
+          "image_id": "84",
+          "similarity": 0.40405401587486267,
+          "caption": "Person sowing seeds in a colorful, surreal landscape under a bright yellow sky."
+        }
+      ]
+    },
+    "25": {
+      "caption": "Hidden faces",
+      "most_similar": [
+        {
+          "image_id": "53",
+          "similarity": 0.4857945442199707,
+          "caption": "Contemplative figure with open mind, glowing thoughts, and symbolic keys against a red backdrop."
+        },
+        {
+          "image_id": "41",
+          "similarity": 0.4443466365337372,
+          "caption": "Surreal droplets encapsulate life and nature against a vibrant red backdrop."
+        },
+        {
+          "image_id": "79",
+          "similarity": 0.34677326679229736,
+          "caption": "Surprised woman in colorful dress beside giant yellow apple on vibrant background."
+        },
+        {
+          "image_id": "36",
+          "similarity": 0.34130799770355225,
+          "caption": "Two snails in hats face off in a colorful, whimsical arena."
+        },
+        {
+          "image_id": "26",
+          "similarity": 0.33182212710380554,
+          "caption": "Leaf-covered figure with staff under crescent moons and red sky, evoking mystery and solitude."
+        }
+      ]
+    },
+    "26": {
+      "caption": "Fading embers",
+      "most_similar": [
+        {
+          "image_id": "60",
+          "similarity": 0.6232910752296448,
+          "caption": "Curious figure peeks through a leaf, discovering hidden treasures within its folds."
+        },
+        {
+          "image_id": "53",
+          "similarity": 0.513535737991333,
+          "caption": "Contemplative figure with open mind, glowing thoughts, and symbolic keys against a red backdrop."
+        },
+        {
+          "image_id": "49",
+          "similarity": 0.4814579486846924,
+          "caption": "Mysterious shell nestled in a dark, twisted forest path."
+        },
+        {
+          "image_id": "80",
+          "similarity": 0.4510748088359833,
+          "caption": "Island within a droplet, encapsulating nature's tranquility in a surreal, dreamlike scene."
+        },
+        {
+          "image_id": "69",
+          "similarity": 0.42923012375831604,
+          "caption": "Whimsical egg-shaped village with glowing windows under a dark sky."
+        }
+      ]
+    },
+    "27": {
+      "caption": "Exposed fragility",
+      "most_similar": [
+        {
+          "image_id": "10",
+          "similarity": 0.31308409571647644,
+          "caption": "Knight confronts serpent emerging from book, blending fantasy and literature in a surreal scene."
+        },
+        {
+          "image_id": "53",
+          "similarity": 0.30966752767562866,
+          "caption": "Contemplative figure with open mind, glowing thoughts, and symbolic keys against a red backdrop."
+        },
+        {
+          "image_id": "72",
+          "similarity": 0.3061066269874573,
+          "caption": "Dollhouse with a doll, vibrant rooms, and charming details create a whimsical scene."
+        },
+        {
+          "image_id": "42",
+          "similarity": 0.2978273630142212,
+          "caption": "Children's shadows transform into a wolf, blending innocence with imagination."
+        },
+        {
+          "image_id": "19",
+          "similarity": 0.29207611083984375,
+          "caption": "Whimsical spiral with flowing ribbon and ladder, evoking a surreal, dreamlike mood."
+        }
+      ]
+    },
+    "28": {
+      "caption": "Bizarre freedom",
+      "most_similar": [
+        {
+          "image_id": "52",
+          "similarity": 0.5261145830154419,
+          "caption": "Child faces friendly blue dragon with a toy sword in a whimsical encounter."
+        },
+        {
+          "image_id": "43",
+          "similarity": 0.4614977240562439,
+          "caption": "Fairy enchants towering stack of colorful books, sparking magic and wonder."
+        },
+        {
+          "image_id": "70",
+          "similarity": 0.4461202919483185,
+          "caption": "Child explores a giant seashell on the beach, evoking wonder and curiosity."
+        },
+        {
+          "image_id": "80",
+          "similarity": 0.36239686608314514,
+          "caption": "Island within a droplet, encapsulating nature's tranquility in a surreal, dreamlike scene."
+        },
+        {
+          "image_id": "3",
+          "similarity": 0.3514273464679718,
+          "caption": "Child on white horse near cliff, vibrant rainbow, lush green hills in background."
+        }
+      ]
+    },
+    "29": {
+      "caption": "Fading embers",
+      "most_similar": [
+        {
+          "image_id": "62",
+          "similarity": 0.6288092136383057,
+          "caption": "Whimsical figure in starry robe illuminates light bulb with a candle's gentle glow."
+        },
+        {
+          "image_id": "15",
+          "similarity": 0.3982997536659241,
+          "caption": "Surreal thermometer melting under moonlight, symbolizing extreme heat and climate change."
+        },
+        {
+          "image_id": "66",
+          "similarity": 0.36736977100372314,
+          "caption": "Hand with torch rises from waves, symbolizing hope and resilience."
+        },
+        {
+          "image_id": "19",
+          "similarity": 0.3434676229953766,
+          "caption": "Whimsical spiral with flowing ribbon and ladder, evoking a surreal, dreamlike mood."
+        },
+        {
+          "image_id": "69",
+          "similarity": 0.33226141333580017,
+          "caption": "Whimsical egg-shaped village with glowing windows under a dark sky."
+        }
+      ]
+    },
+    "30": {
+      "caption": "Captured reverie",
+      "most_similar": [
+        {
+          "image_id": "7",
+          "similarity": 0.6190823316574097,
+          "caption": "Person gazes from a quirky blue house amidst a snowy, whimsical landscape."
+        },
+        {
+          "image_id": "31",
+          "similarity": 0.4354948401451111,
+          "caption": "Animated figure strolls through a tranquil snowy landscape, hair and coat flowing in the breeze."
+        },
+        {
+          "image_id": "20",
+          "similarity": 0.4240824580192566,
+          "caption": "A figure of paper strides through a windy, surreal landscape under a stormy sky."
+        },
+        {
+          "image_id": "84",
+          "similarity": 0.42030763626098633,
+          "caption": "Person sowing seeds in a colorful, surreal landscape under a bright yellow sky."
+        },
+        {
+          "image_id": "26",
+          "similarity": 0.4057227373123169,
+          "caption": "Leaf-covered figure with staff under crescent moons and red sky, evoking mystery and solitude."
+        }
+      ]
+    },
+    "31": {
+      "caption": "Windswept solitude",
+      "most_similar": [
+        {
+          "image_id": "20",
+          "similarity": 0.5242007970809937,
+          "caption": "A figure of paper strides through a windy, surreal landscape under a stormy sky."
+        },
+        {
+          "image_id": "7",
+          "similarity": 0.46631115674972534,
+          "caption": "Person gazes from a quirky blue house amidst a snowy, whimsical landscape."
+        },
+        {
+          "image_id": "30",
+          "similarity": 0.4354948401451111,
+          "caption": "Person in a snow globe with house and trees under a starry sky."
+        },
+        {
+          "image_id": "2",
+          "similarity": 0.39509743452072144,
+          "caption": "Majestic king gestures grandly amidst a backdrop of clouds and greenery."
+        },
+        {
+          "image_id": "19",
+          "similarity": 0.3891603946685791,
+          "caption": "Whimsical spiral with flowing ribbon and ladder, evoking a surreal, dreamlike mood."
+        }
+      ]
+    },
+    "32": {
+      "caption": "Weightless surrender",
+      "most_similar": [
+        {
+          "image_id": "41",
+          "similarity": 0.5088715553283691,
+          "caption": "Surreal droplets encapsulate life and nature against a vibrant red backdrop."
+        },
+        {
+          "image_id": "80",
+          "similarity": 0.45554468035697937,
+          "caption": "Island within a droplet, encapsulating nature's tranquility in a surreal, dreamlike scene."
+        },
+        {
+          "image_id": "53",
+          "similarity": 0.4400221109390259,
+          "caption": "Contemplative figure with open mind, glowing thoughts, and symbolic keys against a red backdrop."
+        },
+        {
+          "image_id": "19",
+          "similarity": 0.4148556888103485,
+          "caption": "Whimsical spiral with flowing ribbon and ladder, evoking a surreal, dreamlike mood."
+        },
+        {
+          "image_id": "42",
+          "similarity": 0.39475739002227783,
+          "caption": "Children's shadows transform into a wolf, blending innocence with imagination."
+        }
+      ]
+    },
+    "33": {
+      "caption": "Tiny expeditions",
+      "most_similar": [
+        {
+          "image_id": "16",
+          "similarity": 0.440496027469635,
+          "caption": "Whimsical tree with a face holds vibrant flowers, set in a peaceful landscape."
+        },
+        {
+          "image_id": "60",
+          "similarity": 0.40960773825645447,
+          "caption": "Curious figure peeks through a leaf, discovering hidden treasures within its folds."
+        },
+        {
+          "image_id": "38",
+          "similarity": 0.3890407085418701,
+          "caption": "Cheerful scarecrow stands amidst vibrant sunflowers under a bright blue sky."
+        },
+        {
+          "image_id": "61",
+          "similarity": 0.383769690990448,
+          "caption": "Surreal tree with planets and deer, as a person with an axe approaches."
+        },
+        {
+          "image_id": "44",
+          "similarity": 0.3757142424583435,
+          "caption": "Colorful toy display featuring dolls, clothes, and playful vehicles in a vibrant setting."
+        }
+      ]
+    },
+    "34": {
+      "caption": "Precarious ambition",
+      "most_similar": [
+        {
+          "image_id": "61",
+          "similarity": 0.3271530270576477,
+          "caption": "Surreal tree with planets and deer, as a person with an axe approaches."
+        },
+        {
+          "image_id": "36",
+          "similarity": 0.2963930368423462,
+          "caption": "Two snails in hats face off in a colorful, whimsical arena."
+        },
+        {
+          "image_id": "52",
+          "similarity": 0.28438207507133484,
+          "caption": "Child faces friendly blue dragon with a toy sword in a whimsical encounter."
+        },
+        {
+          "image_id": "50",
+          "similarity": 0.282412588596344,
+          "caption": "Blue mouse charms snake with flute in vibrant, exotic palace setting."
+        },
+        {
+          "image_id": "66",
+          "similarity": 0.22476491332054138,
+          "caption": "Hand with torch rises from waves, symbolizing hope and resilience."
+        }
+      ]
+    },
+    "35": {
+      "caption": "Ephemeral grace",
+      "most_similar": [
+        {
+          "image_id": "64",
+          "similarity": 0.38739752769470215,
+          "caption": "Dark braid intertwined with a vibrant yellow ring against a serene blue backdrop."
+        },
+        {
+          "image_id": "71",
+          "similarity": 0.37354978919029236,
+          "caption": "Hand cradles swirling blue vortex, contrasting vibrant orange backdrop."
+        },
+        {
+          "image_id": "19",
+          "similarity": 0.3623443841934204,
+          "caption": "Whimsical spiral with flowing ribbon and ladder, evoking a surreal, dreamlike mood."
+        },
+        {
+          "image_id": "41",
+          "similarity": 0.32883724570274353,
+          "caption": "Surreal droplets encapsulate life and nature against a vibrant red backdrop."
+        },
+        {
+          "image_id": "44",
+          "similarity": 0.31996187567710876,
+          "caption": "Colorful toy display featuring dolls, clothes, and playful vehicles in a vibrant setting."
+        }
+      ]
+    },
+    "36": {
+      "caption": "Silent confrontation",
+      "most_similar": [
+        {
+          "image_id": "25",
+          "similarity": 0.34130799770355225,
+          "caption": "Yellow masks express diverse emotions on a rich red backdrop."
+        },
+        {
+          "image_id": "68",
+          "similarity": 0.34047389030456543,
+          "caption": "Couple enjoys a whimsical chess game under warm light, surrounded by fluttering red butterflies."
+        },
+        {
+          "image_id": "33",
+          "similarity": 0.3360901176929474,
+          "caption": "Whimsical ladybug with playful creatures peeking from its spots on a vibrant green leaf."
+        },
+        {
+          "image_id": "13",
+          "similarity": 0.3326320946216583,
+          "caption": "Spiral staircase ascends to the sky, amidst serene hills and a curious snail."
+        },
+        {
+          "image_id": "6",
+          "similarity": 0.3282386064529419,
+          "caption": "Surreal tentacles emerge from dice against a vibrant, fiery backdrop."
+        }
+      ]
+    },
+    "37": {
+      "caption": "Quiet valor",
+      "most_similar": [
+        {
+          "image_id": "10",
+          "similarity": 0.42867743968963623,
+          "caption": "Knight confronts serpent emerging from book, blending fantasy and literature in a surreal scene."
+        },
+        {
+          "image_id": "49",
+          "similarity": 0.398469477891922,
+          "caption": "Mysterious shell nestled in a dark, twisted forest path."
+        },
+        {
+          "image_id": "13",
+          "similarity": 0.3960608243942261,
+          "caption": "Spiral staircase ascends to the sky, amidst serene hills and a curious snail."
+        },
+        {
+          "image_id": "48",
+          "similarity": 0.37706029415130615,
+          "caption": "Bird navigates a 3D maze, surrounded by insects and a butterfly, in a whimsical scene."
+        },
+        {
+          "image_id": "60",
+          "similarity": 0.3566516935825348,
+          "caption": "Curious figure peeks through a leaf, discovering hidden treasures within its folds."
+        }
+      ]
+    },
+    "38": {
+      "caption": "Golden solitude",
+      "most_similar": [
+        {
+          "image_id": "39",
+          "similarity": 0.49073976278305054,
+          "caption": "White poppy stands out among vibrant red blooms on a lush green backdrop."
+        },
+        {
+          "image_id": "24",
+          "similarity": 0.4824197590351105,
+          "caption": "Surprised sun gazes at vibrant umbrellas under a clear blue sky."
+        },
+        {
+          "image_id": "16",
+          "similarity": 0.4780460000038147,
+          "caption": "Whimsical tree with a face holds vibrant flowers, set in a peaceful landscape."
+        },
+        {
+          "image_id": "84",
+          "similarity": 0.4720538258552551,
+          "caption": "Person sowing seeds in a colorful, surreal landscape under a bright yellow sky."
+        },
+        {
+          "image_id": "69",
+          "similarity": 0.42933592200279236,
+          "caption": "Whimsical egg-shaped village with glowing windows under a dark sky."
+        }
+      ]
+    },
+    "39": {
+      "caption": "Pale remembrance",
+      "most_similar": [
+        {
+          "image_id": "38",
+          "similarity": 0.49073976278305054,
+          "caption": "Cheerful scarecrow stands amidst vibrant sunflowers under a bright blue sky."
+        },
+        {
+          "image_id": "16",
+          "similarity": 0.4010237455368042,
+          "caption": "Whimsical tree with a face holds vibrant flowers, set in a peaceful landscape."
+        },
+        {
+          "image_id": "41",
+          "similarity": 0.39176201820373535,
+          "caption": "Surreal droplets encapsulate life and nature against a vibrant red backdrop."
+        },
+        {
+          "image_id": "74",
+          "similarity": 0.3867145776748657,
+          "caption": "Daisy blooms defiantly from cracked earth under a swirling, dark sky."
+        },
+        {
+          "image_id": "84",
+          "similarity": 0.3726184070110321,
+          "caption": "Person sowing seeds in a colorful, surreal landscape under a bright yellow sky."
+        }
+      ]
+    },
+    "40": {
+      "caption": "Silent observation",
+      "most_similar": [
+        {
+          "image_id": "79",
+          "similarity": 0.47602224349975586,
+          "caption": "Surprised woman in colorful dress beside giant yellow apple on vibrant background."
+        },
+        {
+          "image_id": "53",
+          "similarity": 0.4221931993961334,
+          "caption": "Contemplative figure with open mind, glowing thoughts, and symbolic keys against a red backdrop."
+        },
+        {
+          "image_id": "62",
+          "similarity": 0.42173394560813904,
+          "caption": "Whimsical figure in starry robe illuminates light bulb with a candle's gentle glow."
+        },
+        {
+          "image_id": "44",
+          "similarity": 0.36474061012268066,
+          "caption": "Colorful toy display featuring dolls, clothes, and playful vehicles in a vibrant setting."
+        },
+        {
+          "image_id": "60",
+          "similarity": 0.35608193278312683,
+          "caption": "Curious figure peeks through a leaf, discovering hidden treasures within its folds."
+        }
+      ]
+    },
+    "41": {
+      "caption": "Ephemeral worlds",
+      "most_similar": [
+        {
+          "image_id": "80",
+          "similarity": 0.6552358865737915,
+          "caption": "Island within a droplet, encapsulating nature's tranquility in a surreal, dreamlike scene."
+        },
+        {
+          "image_id": "6",
+          "similarity": 0.6009694933891296,
+          "caption": "Surreal tentacles emerge from dice against a vibrant, fiery backdrop."
+        },
+        {
+          "image_id": "32",
+          "similarity": 0.5088715553283691,
+          "caption": "Two figures fall through a vivid orange void, evoking a dreamlike sense of motion."
+        },
+        {
+          "image_id": "71",
+          "similarity": 0.4988415539264679,
+          "caption": "Hand cradles swirling blue vortex, contrasting vibrant orange backdrop."
+        },
+        {
+          "image_id": "20",
+          "similarity": 0.483785480260849,
+          "caption": "A figure of paper strides through a windy, surreal landscape under a stormy sky."
+        }
+      ]
+    },
+    "42": {
+      "caption": "Growing shadows",
+      "most_similar": [
+        {
+          "image_id": "32",
+          "similarity": 0.39475739002227783,
+          "caption": "Two figures fall through a vivid orange void, evoking a dreamlike sense of motion."
+        },
+        {
+          "image_id": "72",
+          "similarity": 0.39204084873199463,
+          "caption": "Dollhouse with a doll, vibrant rooms, and charming details create a whimsical scene."
+        },
+        {
+          "image_id": "80",
+          "similarity": 0.3724287748336792,
+          "caption": "Island within a droplet, encapsulating nature's tranquility in a surreal, dreamlike scene."
+        },
+        {
+          "image_id": "49",
+          "similarity": 0.3719441890716553,
+          "caption": "Mysterious shell nestled in a dark, twisted forest path."
+        },
+        {
+          "image_id": "26",
+          "similarity": 0.3574237823486328,
+          "caption": "Leaf-covered figure with staff under crescent moons and red sky, evoking mystery and solitude."
+        }
+      ]
+    },
+    "43": {
+      "caption": "Yearning ascent",
+      "most_similar": [
+        {
+          "image_id": "28",
+          "similarity": 0.4614977240562439,
+          "caption": "Fairy rescues child from giant creature's jaws in a whimsical, adventurous scene."
+        },
+        {
+          "image_id": "10",
+          "similarity": 0.45252060890197754,
+          "caption": "Knight confronts serpent emerging from book, blending fantasy and literature in a surreal scene."
+        },
+        {
+          "image_id": "19",
+          "similarity": 0.4466506242752075,
+          "caption": "Whimsical spiral with flowing ribbon and ladder, evoking a surreal, dreamlike mood."
+        },
+        {
+          "image_id": "60",
+          "similarity": 0.42203593254089355,
+          "caption": "Curious figure peeks through a leaf, discovering hidden treasures within its folds."
+        },
+        {
+          "image_id": "50",
+          "similarity": 0.41938257217407227,
+          "caption": "Blue mouse charms snake with flute in vibrant, exotic palace setting."
+        }
+      ]
+    },
+    "44": {
+      "caption": "Wistful observation",
+      "most_similar": [
+        {
+          "image_id": "72",
+          "similarity": 0.5470781922340393,
+          "caption": "Dollhouse with a doll, vibrant rooms, and charming details create a whimsical scene."
+        },
+        {
+          "image_id": "4",
+          "similarity": 0.4687102437019348,
+          "caption": "Playful monster backpack amidst a colorful mess of everyday items on a table."
+        },
+        {
+          "image_id": "83",
+          "similarity": 0.4225313067436218,
+          "caption": "Elderly woman joyfully presents a puppet show, featuring two lively characters on stage."
+        },
+        {
+          "image_id": "46",
+          "similarity": 0.39488017559051514,
+          "caption": "Whimsical carousel ride at sunset, children joyfully riding animals under a starry canopy."
+        },
+        {
+          "image_id": "8",
+          "similarity": 0.37817105650901794,
+          "caption": "Child and teddy bear stand back-to-back, evoking a mood of sadness and separation."
+        }
+      ]
+    },
+    "45": {
+      "caption": "Open sky dream",
+      "most_similar": [
+        {
+          "image_id": "2",
+          "similarity": 0.49064791202545166,
+          "caption": "Majestic king gestures grandly amidst a backdrop of clouds and greenery."
+        },
+        {
+          "image_id": "69",
+          "similarity": 0.487283855676651,
+          "caption": "Whimsical egg-shaped village with glowing windows under a dark sky."
+        },
+        {
+          "image_id": "20",
+          "similarity": 0.4231378436088562,
+          "caption": "A figure of paper strides through a windy, surreal landscape under a stormy sky."
+        },
+        {
+          "image_id": "13",
+          "similarity": 0.41814225912094116,
+          "caption": "Spiral staircase ascends to the sky, amidst serene hills and a curious snail."
+        },
+        {
+          "image_id": "26",
+          "similarity": 0.4038568437099457,
+          "caption": "Leaf-covered figure with staff under crescent moons and red sky, evoking mystery and solitude."
+        }
+      ]
+    },
+    "46": {
+      "caption": "Fading golden hours",
+      "most_similar": [
+        {
+          "image_id": "17",
+          "similarity": 0.4373129606246948,
+          "caption": "Child blows bubbles under a magical sunset sky, surrounded by lush green hills."
+        },
+        {
+          "image_id": "3",
+          "similarity": 0.41947346925735474,
+          "caption": "Child on white horse near cliff, vibrant rainbow, lush green hills in background."
+        },
+        {
+          "image_id": "44",
+          "similarity": 0.39488017559051514,
+          "caption": "Colorful toy display featuring dolls, clothes, and playful vehicles in a vibrant setting."
+        },
+        {
+          "image_id": "2",
+          "similarity": 0.3746598958969116,
+          "caption": "Majestic king gestures grandly amidst a backdrop of clouds and greenery."
+        },
+        {
+          "image_id": "38",
+          "similarity": 0.37359070777893066,
+          "caption": "Cheerful scarecrow stands amidst vibrant sunflowers under a bright blue sky."
+        }
+      ]
+    },
+    "47": {
+      "caption": "Fleeting existence",
+      "most_similar": [
+        {
+          "image_id": "32",
+          "similarity": 0.3936387896537781,
+          "caption": "Two figures fall through a vivid orange void, evoking a dreamlike sense of motion."
+        },
+        {
+          "image_id": "19",
+          "similarity": 0.388541042804718,
+          "caption": "Whimsical spiral with flowing ribbon and ladder, evoking a surreal, dreamlike mood."
+        },
+        {
+          "image_id": "71",
+          "similarity": 0.3645550608634949,
+          "caption": "Hand cradles swirling blue vortex, contrasting vibrant orange backdrop."
+        },
+        {
+          "image_id": "40",
+          "similarity": 0.3488371670246124,
+          "caption": "Thoughtful woman adorned with whimsical figurine earrings, gazing into the distance."
+        },
+        {
+          "image_id": "23",
+          "similarity": 0.3410189151763916,
+          "caption": "Pocket watch reveals a starry sky, blending time with the cosmos."
+        }
+      ]
+    },
+    "48": {
+      "caption": "Silent labyrinth",
+      "most_similar": [
+        {
+          "image_id": "13",
+          "similarity": 0.4417785108089447,
+          "caption": "Spiral staircase ascends to the sky, amidst serene hills and a curious snail."
+        },
+        {
+          "image_id": "19",
+          "similarity": 0.38727614283561707,
+          "caption": "Whimsical spiral with flowing ribbon and ladder, evoking a surreal, dreamlike mood."
+        },
+        {
+          "image_id": "80",
+          "similarity": 0.3819780647754669,
+          "caption": "Island within a droplet, encapsulating nature's tranquility in a surreal, dreamlike scene."
+        },
+        {
+          "image_id": "69",
+          "similarity": 0.3794320821762085,
+          "caption": "Whimsical egg-shaped village with glowing windows under a dark sky."
+        },
+        {
+          "image_id": "37",
+          "similarity": 0.37706029415130615,
+          "caption": "Rabbit knight faces three mysterious doors, ready for an adventurous quest."
+        }
+      ]
+    },
+    "49": {
+      "caption": "Forgotten sanctuary",
+      "most_similar": [
+        {
+          "image_id": "78",
+          "similarity": 0.5295183658599854,
+          "caption": "Knife entangled in twisting green vines, evoking a surreal and mysterious ambiance."
+        },
+        {
+          "image_id": "60",
+          "similarity": 0.5077670812606812,
+          "caption": "Curious figure peeks through a leaf, discovering hidden treasures within its folds."
+        },
+        {
+          "image_id": "13",
+          "similarity": 0.4978013038635254,
+          "caption": "Spiral staircase ascends to the sky, amidst serene hills and a curious snail."
+        },
+        {
+          "image_id": "26",
+          "similarity": 0.4814579486846924,
+          "caption": "Leaf-covered figure with staff under crescent moons and red sky, evoking mystery and solitude."
+        },
+        {
+          "image_id": "61",
+          "similarity": 0.46053606271743774,
+          "caption": "Surreal tree with planets and deer, as a person with an axe approaches."
+        }
+      ]
+    },
+    "50": {
+      "caption": "Hidden melody",
+      "most_similar": [
+        {
+          "image_id": "71",
+          "similarity": 0.4426272511482239,
+          "caption": "Hand cradles swirling blue vortex, contrasting vibrant orange backdrop."
+        },
+        {
+          "image_id": "43",
+          "similarity": 0.41938257217407227,
+          "caption": "Fairy enchants towering stack of colorful books, sparking magic and wonder."
+        },
+        {
+          "image_id": "19",
+          "similarity": 0.4131627082824707,
+          "caption": "Whimsical spiral with flowing ribbon and ladder, evoking a surreal, dreamlike mood."
+        },
+        {
+          "image_id": "78",
+          "similarity": 0.388316810131073,
+          "caption": "Knife entangled in twisting green vines, evoking a surreal and mysterious ambiance."
+        },
+        {
+          "image_id": "52",
+          "similarity": 0.379832923412323,
+          "caption": "Child faces friendly blue dragon with a toy sword in a whimsical encounter."
+        }
+      ]
+    },
+    "51": {
+      "caption": "Lunar devotion",
+      "most_similar": [
+        {
+          "image_id": "55",
+          "similarity": 0.625734806060791,
+          "caption": "Curious cat reaches over fishbowl under a whimsical starry sky."
+        },
+        {
+          "image_id": "56",
+          "similarity": 0.5443798303604126,
+          "caption": "Cat gazes at deer mount as water drips from ceiling onto wooden floor."
+        },
+        {
+          "image_id": "24",
+          "similarity": 0.4013427495956421,
+          "caption": "Surprised sun gazes at vibrant umbrellas under a clear blue sky."
+        },
+        {
+          "image_id": "7",
+          "similarity": 0.3764364421367645,
+          "caption": "Person gazes from a quirky blue house amidst a snowy, whimsical landscape."
+        },
+        {
+          "image_id": "32",
+          "similarity": 0.3426162302494049,
+          "caption": "Two figures fall through a vivid orange void, evoking a dreamlike sense of motion."
+        }
+      ]
+    },
+    "52": {
+      "caption": "Gentle giant",
+      "most_similar": [
+        {
+          "image_id": "28",
+          "similarity": 0.5261145830154419,
+          "caption": "Fairy rescues child from giant creature's jaws in a whimsical, adventurous scene."
+        },
+        {
+          "image_id": "10",
+          "similarity": 0.4064647853374481,
+          "caption": "Knight confronts serpent emerging from book, blending fantasy and literature in a surreal scene."
+        },
+        {
+          "image_id": "50",
+          "similarity": 0.379832923412323,
+          "caption": "Blue mouse charms snake with flute in vibrant, exotic palace setting."
+        },
+        {
+          "image_id": "44",
+          "similarity": 0.36688143014907837,
+          "caption": "Colorful toy display featuring dolls, clothes, and playful vehicles in a vibrant setting."
+        },
+        {
+          "image_id": "8",
+          "similarity": 0.3583832383155823,
+          "caption": "Child and teddy bear stand back-to-back, evoking a mood of sadness and separation."
+        }
+      ]
+    },
+    "53": {
+      "caption": "Unlocking the self",
+      "most_similar": [
+        {
+          "image_id": "26",
+          "similarity": 0.513535737991333,
+          "caption": "Leaf-covered figure with staff under crescent moons and red sky, evoking mystery and solitude."
+        },
+        {
+          "image_id": "25",
+          "similarity": 0.4857945442199707,
+          "caption": "Yellow masks express diverse emotions on a rich red backdrop."
+        },
+        {
+          "image_id": "19",
+          "similarity": 0.45882663130760193,
+          "caption": "Whimsical spiral with flowing ribbon and ladder, evoking a surreal, dreamlike mood."
+        },
+        {
+          "image_id": "62",
+          "similarity": 0.4542510509490967,
+          "caption": "Whimsical figure in starry robe illuminates light bulb with a candle's gentle glow."
+        },
+        {
+          "image_id": "9",
+          "similarity": 0.44978660345077515,
+          "caption": "Open compass on a map, symbolizing adventure and direction."
+        }
+      ]
+    },
+    "54": {
+      "caption": "Forgotten narratives",
+      "most_similar": [
+        {
+          "image_id": "20",
+          "similarity": 0.4936789870262146,
+          "caption": "A figure of paper strides through a windy, surreal landscape under a stormy sky."
+        },
+        {
+          "image_id": "12",
+          "similarity": 0.4650738537311554,
+          "caption": "Man in top hat ascends sky stairs, reflecting surreal dreamscape."
+        },
+        {
+          "image_id": "23",
+          "similarity": 0.46341198682785034,
+          "caption": "Pocket watch reveals a starry sky, blending time with the cosmos."
+        },
+        {
+          "image_id": "58",
+          "similarity": 0.4278607964515686,
+          "caption": "Planetary abacus against a starry sky, blending education with cosmic wonder."
+        },
+        {
+          "image_id": "53",
+          "similarity": 0.39768779277801514,
+          "caption": "Contemplative figure with open mind, glowing thoughts, and symbolic keys against a red backdrop."
+        }
+      ]
+    },
+    "55": {
+      "caption": "Glassed solitude",
+      "most_similar": [
+        {
+          "image_id": "51",
+          "similarity": 0.625734806060791,
+          "caption": "Cat gazes at a couple in a floating birdcage under a crescent moonlit sky."
+        },
+        {
+          "image_id": "59",
+          "similarity": 0.5183016657829285,
+          "caption": "Cat artist paints vibrant underwater scene with fish and seaweed, blending creativity and whimsy."
+        },
+        {
+          "image_id": "56",
+          "similarity": 0.497017502784729,
+          "caption": "Cat gazes at deer mount as water drips from ceiling onto wooden floor."
+        },
+        {
+          "image_id": "13",
+          "similarity": 0.43727773427963257,
+          "caption": "Spiral staircase ascends to the sky, amidst serene hills and a curious snail."
+        },
+        {
+          "image_id": "74",
+          "similarity": 0.4345754384994507,
+          "caption": "Daisy blooms defiantly from cracked earth under a swirling, dark sky."
+        }
+      ]
+    },
+    "56": {
+      "caption": "Silent trophy",
+      "most_similar": [
+        {
+          "image_id": "51",
+          "similarity": 0.5443798303604126,
+          "caption": "Cat gazes at a couple in a floating birdcage under a crescent moonlit sky."
+        },
+        {
+          "image_id": "55",
+          "similarity": 0.497017502784729,
+          "caption": "Curious cat reaches over fishbowl under a whimsical starry sky."
+        },
+        {
+          "image_id": "61",
+          "similarity": 0.39935848116874695,
+          "caption": "Surreal tree with planets and deer, as a person with an axe approaches."
+        },
+        {
+          "image_id": "7",
+          "similarity": 0.34585899114608765,
+          "caption": "Person gazes from a quirky blue house amidst a snowy, whimsical landscape."
+        },
+        {
+          "image_id": "59",
+          "similarity": 0.32613903284072876,
+          "caption": "Cat artist paints vibrant underwater scene with fish and seaweed, blending creativity and whimsy."
+        }
+      ]
+    },
+    "57": {
+      "caption": "Caged embers",
+      "most_similar": [
+        {
+          "image_id": "66",
+          "similarity": 0.432864785194397,
+          "caption": "Hand with torch rises from waves, symbolizing hope and resilience."
+        },
+        {
+          "image_id": "62",
+          "similarity": 0.36271440982818604,
+          "caption": "Whimsical figure in starry robe illuminates light bulb with a candle's gentle glow."
+        },
+        {
+          "image_id": "45",
+          "similarity": 0.35162174701690674,
+          "caption": "Stone archway opens to a serene, painted sky with fluffy clouds."
+        },
+        {
+          "image_id": "53",
+          "similarity": 0.3320356011390686,
+          "caption": "Contemplative figure with open mind, glowing thoughts, and symbolic keys against a red backdrop."
+        },
+        {
+          "image_id": "47",
+          "similarity": 0.32847338914871216,
+          "caption": "Elderly woman and child in hourglass, symbolizing life's passage and time's flow."
+        }
+      ]
+    },
+    "58": {
+      "caption": "Celestial counting",
+      "most_similar": [
+        {
+          "image_id": "23",
+          "similarity": 0.49354928731918335,
+          "caption": "Pocket watch reveals a starry sky, blending time with the cosmos."
+        },
+        {
+          "image_id": "54",
+          "similarity": 0.4278607964515686,
+          "caption": "Man reads under a starry sky of letters, blending reality with imagination."
+        },
+        {
+          "image_id": "20",
+          "similarity": 0.39624524116516113,
+          "caption": "A figure of paper strides through a windy, surreal landscape under a stormy sky."
+        },
+        {
+          "image_id": "24",
+          "similarity": 0.3821926414966583,
+          "caption": "Surprised sun gazes at vibrant umbrellas under a clear blue sky."
+        },
+        {
+          "image_id": "2",
+          "similarity": 0.3630092740058899,
+          "caption": "Majestic king gestures grandly amidst a backdrop of clouds and greenery."
+        }
+      ]
+    },
+    "59": {
+      "caption": "Fleeting capture",
+      "most_similar": [
+        {
+          "image_id": "55",
+          "similarity": 0.5183016657829285,
+          "caption": "Curious cat reaches over fishbowl under a whimsical starry sky."
+        },
+        {
+          "image_id": "1",
+          "similarity": 0.4942883551120758,
+          "caption": "Artist paints a dove in the sky, blending creativity with nature's canvas."
+        },
+        {
+          "image_id": "67",
+          "similarity": 0.4205508232116699,
+          "caption": "Woman with flowing hair stands atop a cage, fish swimming inside, evoking a surreal dreamscape."
+        },
+        {
+          "image_id": "51",
+          "similarity": 0.3408052921295166,
+          "caption": "Cat gazes at a couple in a floating birdcage under a crescent moonlit sky."
+        },
+        {
+          "image_id": "56",
+          "similarity": 0.32613903284072876,
+          "caption": "Cat gazes at deer mount as water drips from ceiling onto wooden floor."
+        }
+      ]
+    },
+    "60": {
+      "caption": "Secret garden",
+      "most_similar": [
+        {
+          "image_id": "26",
+          "similarity": 0.6232910752296448,
+          "caption": "Leaf-covered figure with staff under crescent moons and red sky, evoking mystery and solitude."
+        },
+        {
+          "image_id": "49",
+          "similarity": 0.5077670812606812,
+          "caption": "Mysterious shell nestled in a dark, twisted forest path."
+        },
+        {
+          "image_id": "70",
+          "similarity": 0.4554392397403717,
+          "caption": "Child explores a giant seashell on the beach, evoking wonder and curiosity."
+        },
+        {
+          "image_id": "13",
+          "similarity": 0.43932175636291504,
+          "caption": "Spiral staircase ascends to the sky, amidst serene hills and a curious snail."
+        },
+        {
+          "image_id": "78",
+          "similarity": 0.4375290274620056,
+          "caption": "Knife entangled in twisting green vines, evoking a surreal and mysterious ambiance."
+        }
+      ]
+    },
+    "61": {
+      "caption": "Unreachable aspirations",
+      "most_similar": [
+        {
+          "image_id": "78",
+          "similarity": 0.4998752772808075,
+          "caption": "Knife entangled in twisting green vines, evoking a surreal and mysterious ambiance."
+        },
+        {
+          "image_id": "49",
+          "similarity": 0.46053606271743774,
+          "caption": "Mysterious shell nestled in a dark, twisted forest path."
+        },
+        {
+          "image_id": "26",
+          "similarity": 0.42742496728897095,
+          "caption": "Leaf-covered figure with staff under crescent moons and red sky, evoking mystery and solitude."
+        },
+        {
+          "image_id": "60",
+          "similarity": 0.42279964685440063,
+          "caption": "Curious figure peeks through a leaf, discovering hidden treasures within its folds."
+        },
+        {
+          "image_id": "16",
+          "similarity": 0.4178439676761627,
+          "caption": "Whimsical tree with a face holds vibrant flowers, set in a peaceful landscape."
+        }
+      ]
+    },
+    "62": {
+      "caption": "Bottled illumination",
+      "most_similar": [
+        {
+          "image_id": "29",
+          "similarity": 0.6288092136383057,
+          "caption": "Lit candle with dripping wax in a holder, casting a warm, serene glow."
+        },
+        {
+          "image_id": "53",
+          "similarity": 0.4542510509490967,
+          "caption": "Contemplative figure with open mind, glowing thoughts, and symbolic keys against a red backdrop."
+        },
+        {
+          "image_id": "15",
+          "similarity": 0.4344007968902588,
+          "caption": "Surreal thermometer melting under moonlight, symbolizing extreme heat and climate change."
+        },
+        {
+          "image_id": "40",
+          "similarity": 0.42173394560813904,
+          "caption": "Thoughtful woman adorned with whimsical figurine earrings, gazing into the distance."
+        },
+        {
+          "image_id": "69",
+          "similarity": 0.41488802433013916,
+          "caption": "Whimsical egg-shaped village with glowing windows under a dark sky."
+        }
+      ]
+    },
+    "63": {
+      "caption": "Crimson pursuit",
+      "most_similar": [
+        {
+          "image_id": "4",
+          "similarity": 0.4017717242240906,
+          "caption": "Playful monster backpack amidst a colorful mess of everyday items on a table."
+        },
+        {
+          "image_id": "78",
+          "similarity": 0.34394559264183044,
+          "caption": "Knife entangled in twisting green vines, evoking a surreal and mysterious ambiance."
+        },
+        {
+          "image_id": "43",
+          "similarity": 0.32317304611206055,
+          "caption": "Fairy enchants towering stack of colorful books, sparking magic and wonder."
+        },
+        {
+          "image_id": "62",
+          "similarity": 0.3221953511238098,
+          "caption": "Whimsical figure in starry robe illuminates light bulb with a candle's gentle glow."
+        },
+        {
+          "image_id": "50",
+          "similarity": 0.2760675549507141,
+          "caption": "Blue mouse charms snake with flute in vibrant, exotic palace setting."
+        }
+      ]
+    },
+    "64": {
+      "caption": "Golden embrace",
+      "most_similar": [
+        {
+          "image_id": "71",
+          "similarity": 0.5256830453872681,
+          "caption": "Hand cradles swirling blue vortex, contrasting vibrant orange backdrop."
+        },
+        {
+          "image_id": "19",
+          "similarity": 0.43921834230422974,
+          "caption": "Whimsical spiral with flowing ribbon and ladder, evoking a surreal, dreamlike mood."
+        },
+        {
+          "image_id": "35",
+          "similarity": 0.38739752769470215,
+          "caption": "Pink ballet shoes hang gracefully, evoking nostalgia against a dark, cobwebbed backdrop."
+        },
+        {
+          "image_id": "78",
+          "similarity": 0.3639589548110962,
+          "caption": "Knife entangled in twisting green vines, evoking a surreal and mysterious ambiance."
+        },
+        {
+          "image_id": "41",
+          "similarity": 0.3501169681549072,
+          "caption": "Surreal droplets encapsulate life and nature against a vibrant red backdrop."
+        }
+      ]
+    },
+    "65": {
+      "caption": "Golden restraint",
+      "most_similar": [
+        {
+          "image_id": "24",
+          "similarity": 0.42340904474258423,
+          "caption": "Surprised sun gazes at vibrant umbrellas under a clear blue sky."
+        },
+        {
+          "image_id": "84",
+          "similarity": 0.4039871096611023,
+          "caption": "Person sowing seeds in a colorful, surreal landscape under a bright yellow sky."
+        },
+        {
+          "image_id": "20",
+          "similarity": 0.39626559615135193,
+          "caption": "A figure of paper strides through a windy, surreal landscape under a stormy sky."
+        },
+        {
+          "image_id": "73",
+          "similarity": 0.35793036222457886,
+          "caption": "Floating castle tethered to a blue balloon drifts through a serene, cloud-dotted sky."
+        },
+        {
+          "image_id": "12",
+          "similarity": 0.35072678327560425,
+          "caption": "Man in top hat ascends sky stairs, reflecting surreal dreamscape."
+        }
+      ]
+    },
+    "66": {
+      "caption": "Fragile ascension",
+      "most_similar": [
+        {
+          "image_id": "53",
+          "similarity": 0.44437772035598755,
+          "caption": "Contemplative figure with open mind, glowing thoughts, and symbolic keys against a red backdrop."
+        },
+        {
+          "image_id": "76",
+          "similarity": 0.4441046118736267,
+          "caption": "Magnifying glass reveals intricate palm lines on a hand."
+        },
+        {
+          "image_id": "57",
+          "similarity": 0.432864785194397,
+          "caption": "Heart ablaze under glass dome, symbolizing fiery passion and containment."
+        },
+        {
+          "image_id": "15",
+          "similarity": 0.4262099266052246,
+          "caption": "Surreal thermometer melting under moonlight, symbolizing extreme heat and climate change."
+        },
+        {
+          "image_id": "41",
+          "similarity": 0.40093037486076355,
+          "caption": "Surreal droplets encapsulate life and nature against a vibrant red backdrop."
+        }
+      ]
+    },
+    "67": {
+      "caption": "Caged longing",
+      "most_similar": [
+        {
+          "image_id": "59",
+          "similarity": 0.4205508232116699,
+          "caption": "Cat artist paints vibrant underwater scene with fish and seaweed, blending creativity and whimsy."
+        },
+        {
+          "image_id": "55",
+          "similarity": 0.3913813829421997,
+          "caption": "Curious cat reaches over fishbowl under a whimsical starry sky."
+        },
+        {
+          "image_id": "19",
+          "similarity": 0.38251185417175293,
+          "caption": "Whimsical spiral with flowing ribbon and ladder, evoking a surreal, dreamlike mood."
+        },
+        {
+          "image_id": "81",
+          "similarity": 0.3555546998977661,
+          "caption": "Dreamy figure rests in ocean, gazing at tiny sailboat under a golden sunset."
+        },
+        {
+          "image_id": "80",
+          "similarity": 0.3495941162109375,
+          "caption": "Island within a droplet, encapsulating nature's tranquility in a surreal, dreamlike scene."
+        }
+      ]
+    },
+    "68": {
+      "caption": "Golden uncertainty",
+      "most_similar": [
+        {
+          "image_id": "36",
+          "similarity": 0.34047389030456543,
+          "caption": "Two snails in hats face off in a colorful, whimsical arena."
+        },
+        {
+          "image_id": "51",
+          "similarity": 0.32362693548202515,
+          "caption": "Cat gazes at a couple in a floating birdcage under a crescent moonlit sky."
+        },
+        {
+          "image_id": "33",
+          "similarity": 0.31701183319091797,
+          "caption": "Whimsical ladybug with playful creatures peeking from its spots on a vibrant green leaf."
+        },
+        {
+          "image_id": "48",
+          "similarity": 0.3164137601852417,
+          "caption": "Bird navigates a 3D maze, surrounded by insects and a butterfly, in a whimsical scene."
+        },
+        {
+          "image_id": "50",
+          "similarity": 0.29128843545913696,
+          "caption": "Blue mouse charms snake with flute in vibrant, exotic palace setting."
+        }
+      ]
+    },
+    "69": {
+      "caption": "Silent beginnings",
+      "most_similar": [
+        {
+          "image_id": "45",
+          "similarity": 0.487283855676651,
+          "caption": "Stone archway opens to a serene, painted sky with fluffy clouds."
+        },
+        {
+          "image_id": "17",
+          "similarity": 0.47740963101387024,
+          "caption": "Child blows bubbles under a magical sunset sky, surrounded by lush green hills."
+        },
+        {
+          "image_id": "84",
+          "similarity": 0.44340038299560547,
+          "caption": "Person sowing seeds in a colorful, surreal landscape under a bright yellow sky."
+        },
+        {
+          "image_id": "38",
+          "similarity": 0.42933592200279236,
+          "caption": "Cheerful scarecrow stands amidst vibrant sunflowers under a bright blue sky."
+        },
+        {
+          "image_id": "26",
+          "similarity": 0.42923012375831604,
+          "caption": "Leaf-covered figure with staff under crescent moons and red sky, evoking mystery and solitude."
+        }
+      ]
+    },
+    "70": {
+      "caption": "Whispers of giants",
+      "most_similar": [
+        {
+          "image_id": "60",
+          "similarity": 0.4554392397403717,
+          "caption": "Curious figure peeks through a leaf, discovering hidden treasures within its folds."
+        },
+        {
+          "image_id": "28",
+          "similarity": 0.4461202919483185,
+          "caption": "Fairy rescues child from giant creature's jaws in a whimsical, adventurous scene."
+        },
+        {
+          "image_id": "81",
+          "similarity": 0.36569803953170776,
+          "caption": "Dreamy figure rests in ocean, gazing at tiny sailboat under a golden sunset."
+        },
+        {
+          "image_id": "49",
+          "similarity": 0.34541401267051697,
+          "caption": "Mysterious shell nestled in a dark, twisted forest path."
+        },
+        {
+          "image_id": "3",
+          "similarity": 0.33927997946739197,
+          "caption": "Child on white horse near cliff, vibrant rainbow, lush green hills in background."
+        }
+      ]
+    },
+    "71": {
+      "caption": "Fleeting control",
+      "most_similar": [
+        {
+          "image_id": "64",
+          "similarity": 0.5256830453872681,
+          "caption": "Dark braid intertwined with a vibrant yellow ring against a serene blue backdrop."
+        },
+        {
+          "image_id": "41",
+          "similarity": 0.4988415539264679,
+          "caption": "Surreal droplets encapsulate life and nature against a vibrant red backdrop."
+        },
+        {
+          "image_id": "76",
+          "similarity": 0.4533831477165222,
+          "caption": "Magnifying glass reveals intricate palm lines on a hand."
+        },
+        {
+          "image_id": "50",
+          "similarity": 0.4426272511482239,
+          "caption": "Blue mouse charms snake with flute in vibrant, exotic palace setting."
+        },
+        {
+          "image_id": "23",
+          "similarity": 0.42119646072387695,
+          "caption": "Pocket watch reveals a starry sky, blending time with the cosmos."
+        }
+      ]
+    },
+    "72": {
+      "caption": "Tiny universes",
+      "most_similar": [
+        {
+          "image_id": "44",
+          "similarity": 0.5470781922340393,
+          "caption": "Colorful toy display featuring dolls, clothes, and playful vehicles in a vibrant setting."
+        },
+        {
+          "image_id": "42",
+          "similarity": 0.39204084873199463,
+          "caption": "Children's shadows transform into a wolf, blending innocence with imagination."
+        },
+        {
+          "image_id": "80",
+          "similarity": 0.3876488506793976,
+          "caption": "Island within a droplet, encapsulating nature's tranquility in a surreal, dreamlike scene."
+        },
+        {
+          "image_id": "19",
+          "similarity": 0.3778334856033325,
+          "caption": "Whimsical spiral with flowing ribbon and ladder, evoking a surreal, dreamlike mood."
+        },
+        {
+          "image_id": "48",
+          "similarity": 0.37586361169815063,
+          "caption": "Bird navigates a 3D maze, surrounded by insects and a butterfly, in a whimsical scene."
+        }
+      ]
+    },
+    "73": {
+      "caption": "Skybound reverie",
+      "most_similar": [
+        {
+          "image_id": "17",
+          "similarity": 0.4457823634147644,
+          "caption": "Child blows bubbles under a magical sunset sky, surrounded by lush green hills."
+        },
+        {
+          "image_id": "6",
+          "similarity": 0.41129636764526367,
+          "caption": "Surreal tentacles emerge from dice against a vibrant, fiery backdrop."
+        },
+        {
+          "image_id": "13",
+          "similarity": 0.40561893582344055,
+          "caption": "Spiral staircase ascends to the sky, amidst serene hills and a curious snail."
+        },
+        {
+          "image_id": "41",
+          "similarity": 0.3930125832557678,
+          "caption": "Surreal droplets encapsulate life and nature against a vibrant red backdrop."
+        },
+        {
+          "image_id": "45",
+          "similarity": 0.38993796706199646,
+          "caption": "Stone archway opens to a serene, painted sky with fluffy clouds."
+        }
+      ]
+    },
+    "74": {
+      "caption": "Fragile emergence",
+      "most_similar": [
+        {
+          "image_id": "1",
+          "similarity": 0.4507519602775574,
+          "caption": "Artist paints a dove in the sky, blending creativity with nature's canvas."
+        },
+        {
+          "image_id": "55",
+          "similarity": 0.4345754384994507,
+          "caption": "Curious cat reaches over fishbowl under a whimsical starry sky."
+        },
+        {
+          "image_id": "16",
+          "similarity": 0.420066237449646,
+          "caption": "Whimsical tree with a face holds vibrant flowers, set in a peaceful landscape."
+        },
+        {
+          "image_id": "38",
+          "similarity": 0.41182562708854675,
+          "caption": "Cheerful scarecrow stands amidst vibrant sunflowers under a bright blue sky."
+        },
+        {
+          "image_id": "30",
+          "similarity": 0.40151047706604004,
+          "caption": "Person in a snow globe with house and trees under a starry sky."
+        }
+      ]
+    },
+    "75": {
+      "caption": "Golden decadence",
+      "most_similar": [
+        {
+          "image_id": "4",
+          "similarity": 0.4395928382873535,
+          "caption": "Playful monster backpack amidst a colorful mess of everyday items on a table."
+        },
+        {
+          "image_id": "63",
+          "similarity": 0.2713872492313385,
+          "caption": "Whimsical scientist concocts potions in a colorful, cluttered laboratory filled with mysterious bottles."
+        },
+        {
+          "image_id": "19",
+          "similarity": 0.25530678033828735,
+          "caption": "Whimsical spiral with flowing ribbon and ladder, evoking a surreal, dreamlike mood."
+        },
+        {
+          "image_id": "72",
+          "similarity": 0.2457779049873352,
+          "caption": "Dollhouse with a doll, vibrant rooms, and charming details create a whimsical scene."
+        },
+        {
+          "image_id": "78",
+          "similarity": 0.24107280373573303,
+          "caption": "Knife entangled in twisting green vines, evoking a surreal and mysterious ambiance."
+        }
+      ]
+    },
+    "76": {
+      "caption": "Revealed destiny",
+      "most_similar": [
+        {
+          "image_id": "71",
+          "similarity": 0.4533831477165222,
+          "caption": "Hand cradles swirling blue vortex, contrasting vibrant orange backdrop."
+        },
+        {
+          "image_id": "66",
+          "similarity": 0.4441046118736267,
+          "caption": "Hand with torch rises from waves, symbolizing hope and resilience."
+        },
+        {
+          "image_id": "23",
+          "similarity": 0.3685964345932007,
+          "caption": "Pocket watch reveals a starry sky, blending time with the cosmos."
+        },
+        {
+          "image_id": "78",
+          "similarity": 0.34567195177078247,
+          "caption": "Knife entangled in twisting green vines, evoking a surreal and mysterious ambiance."
+        },
+        {
+          "image_id": "54",
+          "similarity": 0.34139707684516907,
+          "caption": "Man reads under a starry sky of letters, blending reality with imagination."
+        }
+      ]
+    },
+    "77": {
+      "caption": "Quiet beginnings",
+      "most_similar": [
+        {
+          "image_id": "33",
+          "similarity": 0.35191649198532104,
+          "caption": "Whimsical ladybug with playful creatures peeking from its spots on a vibrant green leaf."
+        },
+        {
+          "image_id": "48",
+          "similarity": 0.30756211280822754,
+          "caption": "Bird navigates a 3D maze, surrounded by insects and a butterfly, in a whimsical scene."
+        },
+        {
+          "image_id": "51",
+          "similarity": 0.27325958013534546,
+          "caption": "Cat gazes at a couple in a floating birdcage under a crescent moonlit sky."
+        },
+        {
+          "image_id": "69",
+          "similarity": 0.2647807002067566,
+          "caption": "Whimsical egg-shaped village with glowing windows under a dark sky."
+        },
+        {
+          "image_id": "55",
+          "similarity": 0.24527427554130554,
+          "caption": "Curious cat reaches over fishbowl under a whimsical starry sky."
+        }
+      ]
+    },
+    "78": {
+      "caption": "Emerald labyrinth",
+      "most_similar": [
+        {
+          "image_id": "49",
+          "similarity": 0.5295183658599854,
+          "caption": "Mysterious shell nestled in a dark, twisted forest path."
+        },
+        {
+          "image_id": "61",
+          "similarity": 0.4998752772808075,
+          "caption": "Surreal tree with planets and deer, as a person with an axe approaches."
+        },
+        {
+          "image_id": "19",
+          "similarity": 0.49016308784484863,
+          "caption": "Whimsical spiral with flowing ribbon and ladder, evoking a surreal, dreamlike mood."
+        },
+        {
+          "image_id": "10",
+          "similarity": 0.4882347583770752,
+          "caption": "Knight confronts serpent emerging from book, blending fantasy and literature in a surreal scene."
+        },
+        {
+          "image_id": "6",
+          "similarity": 0.4583936333656311,
+          "caption": "Surreal tentacles emerge from dice against a vibrant, fiery backdrop."
+        }
+      ]
+    },
+    "79": {
+      "caption": "Golden longing",
+      "most_similar": [
+        {
+          "image_id": "40",
+          "similarity": 0.47602224349975586,
+          "caption": "Thoughtful woman adorned with whimsical figurine earrings, gazing into the distance."
+        },
+        {
+          "image_id": "25",
+          "similarity": 0.34677326679229736,
+          "caption": "Yellow masks express diverse emotions on a rich red backdrop."
+        },
+        {
+          "image_id": "24",
+          "similarity": 0.31524983048439026,
+          "caption": "Surprised sun gazes at vibrant umbrellas under a clear blue sky."
+        },
+        {
+          "image_id": "84",
+          "similarity": 0.31417787075042725,
+          "caption": "Person sowing seeds in a colorful, surreal landscape under a bright yellow sky."
+        },
+        {
+          "image_id": "16",
+          "similarity": 0.3076184391975403,
+          "caption": "Whimsical tree with a face holds vibrant flowers, set in a peaceful landscape."
+        }
+      ]
+    },
+    "80": {
+      "caption": "Ephemeral Eden",
+      "most_similar": [
+        {
+          "image_id": "41",
+          "similarity": 0.6552358865737915,
+          "caption": "Surreal droplets encapsulate life and nature against a vibrant red backdrop."
+        },
+        {
+          "image_id": "19",
+          "similarity": 0.493896484375,
+          "caption": "Whimsical spiral with flowing ribbon and ladder, evoking a surreal, dreamlike mood."
+        },
+        {
+          "image_id": "6",
+          "similarity": 0.46249812841415405,
+          "caption": "Surreal tentacles emerge from dice against a vibrant, fiery backdrop."
+        },
+        {
+          "image_id": "32",
+          "similarity": 0.45554468035697937,
+          "caption": "Two figures fall through a vivid orange void, evoking a dreamlike sense of motion."
+        },
+        {
+          "image_id": "26",
+          "similarity": 0.4510748088359833,
+          "caption": "Leaf-covered figure with staff under crescent moons and red sky, evoking mystery and solitude."
+        }
+      ]
+    },
+    "81": {
+      "caption": "Sunken reverie",
+      "most_similar": [
+        {
+          "image_id": "80",
+          "similarity": 0.41217494010925293,
+          "caption": "Island within a droplet, encapsulating nature's tranquility in a surreal, dreamlike scene."
+        },
+        {
+          "image_id": "30",
+          "similarity": 0.39886629581451416,
+          "caption": "Person in a snow globe with house and trees under a starry sky."
+        },
+        {
+          "image_id": "53",
+          "similarity": 0.3878706693649292,
+          "caption": "Contemplative figure with open mind, glowing thoughts, and symbolic keys against a red backdrop."
+        },
+        {
+          "image_id": "12",
+          "similarity": 0.3847731947898865,
+          "caption": "Man in top hat ascends sky stairs, reflecting surreal dreamscape."
+        },
+        {
+          "image_id": "62",
+          "similarity": 0.3832893967628479,
+          "caption": "Whimsical figure in starry robe illuminates light bulb with a candle's gentle glow."
+        }
+      ]
+    },
+    "82": {
+      "caption": "Melancholy resonance",
+      "most_similar": [
+        {
+          "image_id": "19",
+          "similarity": 0.4284881353378296,
+          "caption": "Whimsical spiral with flowing ribbon and ladder, evoking a surreal, dreamlike mood."
+        },
+        {
+          "image_id": "50",
+          "similarity": 0.3353857696056366,
+          "caption": "Blue mouse charms snake with flute in vibrant, exotic palace setting."
+        },
+        {
+          "image_id": "44",
+          "similarity": 0.3183601498603821,
+          "caption": "Colorful toy display featuring dolls, clothes, and playful vehicles in a vibrant setting."
+        },
+        {
+          "image_id": "83",
+          "similarity": 0.30779212713241577,
+          "caption": "Elderly woman joyfully presents a puppet show, featuring two lively characters on stage."
+        },
+        {
+          "image_id": "72",
+          "similarity": 0.29132503271102905,
+          "caption": "Dollhouse with a doll, vibrant rooms, and charming details create a whimsical scene."
+        }
+      ]
+    },
+    "83": {
+      "caption": "Puppet master's gaze",
+      "most_similar": [
+        {
+          "image_id": "44",
+          "similarity": 0.4225313067436218,
+          "caption": "Colorful toy display featuring dolls, clothes, and playful vehicles in a vibrant setting."
+        },
+        {
+          "image_id": "21",
+          "similarity": 0.40477460622787476,
+          "caption": "Wooden puppet sits on ornate throne, symbolizing control and authority."
+        },
+        {
+          "image_id": "72",
+          "similarity": 0.3626241385936737,
+          "caption": "Dollhouse with a doll, vibrant rooms, and charming details create a whimsical scene."
+        },
+        {
+          "image_id": "82",
+          "similarity": 0.30779212713241577,
+          "caption": "Joyful cellist plays as tiny figures dance on swirling musical notes."
+        },
+        {
+          "image_id": "47",
+          "similarity": 0.2966468930244446,
+          "caption": "Elderly woman and child in hourglass, symbolizing life's passage and time's flow."
+        }
+      ]
+    },
+    "84": {
+      "caption": "Golden anticipation",
+      "most_similar": [
+        {
+          "image_id": "20",
+          "similarity": 0.5200916528701782,
+          "caption": "A figure of paper strides through a windy, surreal landscape under a stormy sky."
+        },
+        {
+          "image_id": "1",
+          "similarity": 0.47915834188461304,
+          "caption": "Artist paints a dove in the sky, blending creativity with nature's canvas."
+        },
+        {
+          "image_id": "38",
+          "similarity": 0.4720538258552551,
+          "caption": "Cheerful scarecrow stands amidst vibrant sunflowers under a bright blue sky."
+        },
+        {
+          "image_id": "41",
+          "similarity": 0.4478509724140167,
+          "caption": "Surreal droplets encapsulate life and nature against a vibrant red backdrop."
+        },
+        {
+          "image_id": "69",
+          "similarity": 0.44340038299560547,
+          "caption": "Whimsical egg-shaped village with glowing windows under a dark sky."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,512 @@
+{
+  "model": "gemma3-27b",
+  "total_images": 84,
+  "total_tokens": 4771,
+  "captions": {
+    "1": {
+      "filename": "1.png",
+      "caption": "Fragile ascension",
+      "reasoning": "The image depicts a person on a ladder painting a white dove against a blue sky, creating a whimsical and imaginative scene.",
+      "tokens": 52
+    },
+    "2": {
+      "filename": "2.png",
+      "caption": "Empty command",
+      "reasoning": "The image depicts a regal figure wearing a crown and cape, gesturing dramatically against a cloudy sky.",
+      "tokens": 47
+    },
+    "3": {
+      "filename": "3.png",
+      "caption": "Golden passage",
+      "reasoning": "The image depicts a child riding a white horse near a cliff with a vibrant rainbow and lush green hills in the background, creating a whimsical and adventurous mood.",
+      "tokens": 60
+    },
+    "4": {
+      "filename": "4.png",
+      "caption": "Hidden anxieties",
+      "reasoning": "The image depicts a whimsical, monster-like backpack with an open mouth, surrounded by scattered items on a table, creating a playful and chaotic scene.",
+      "tokens": 57
+    },
+    "5": {
+      "filename": "5.png",
+      "caption": "Weightless surrender",
+      "reasoning": "The image depicts a person lying on a bed in a room with patterned walls and ceiling. The mood appears contemplative or somber, indicated by the tally marks and small window.",
+      "tokens": 68
+    },
+    "6": {
+      "filename": "6.png",
+      "caption": "Entwined destiny",
+      "reasoning": "The image depicts a surreal scene with a white dice from which black tentacles emerge, set against a warm gradient background. The mood is mysterious and slightly ominous.",
+      "tokens": 60
+    },
+    "7": {
+      "filename": "7.png",
+      "caption": "Wound, waiting stillness",
+      "reasoning": "The image depicts a whimsical, round blue house with a red roof and a crank handle. A person is looking out the window, surrounded by a snowy landscape under a yellow sky.",
+      "tokens": 64
+    },
+    "8": {
+      "filename": "8.png",
+      "caption": "Silent guardian",
+      "reasoning": "The image depicts a child and a large teddy bear standing back-to-back against a warm orange background. The child holds a skipping rope, and the bear appears to be crying, suggesting a mood of sadnes...",
+      "tokens": 74
+    },
+    "9": {
+      "filename": "9.png",
+      "caption": "Uncharted memories",
+      "reasoning": "The image shows an open compass resting on a map, suggesting navigation and exploration.",
+      "tokens": 41
+    },
+    "10": {
+      "filename": "10.png",
+      "caption": "Unwritten fate",
+      "reasoning": "The image depicts a knight on horseback, ready to confront a serpent emerging from a book, suggesting a fantastical or literary adventure.",
+      "tokens": 56
+    },
+    "11": {
+      "filename": "11.png",
+      "caption": "Quiet reckoning",
+      "reasoning": "The image depicts a balance scale with a feather on one side and a red sack on the other, set against a dark purple background. The mood suggests a theme of weighing lightness against material wealth.",
+      "tokens": 72
+    },
+    "12": {
+      "filename": "12.png",
+      "caption": "Fragile ascent",
+      "reasoning": "The image depicts a surreal scene with a man in a top hat ascending stairs that lead to a door in the sky, with a reflection below.",
+      "tokens": 56
+    },
+    "13": {
+      "filename": "13.png",
+      "caption": "Golden, slow climb",
+      "reasoning": "The image depicts a surreal scene with a spiral staircase ascending into the sky, surrounded by rolling hills and a snail in the foreground, suggesting a whimsical and dreamlike atmosphere.",
+      "tokens": 64
+    },
+    "14": {
+      "filename": "14.png",
+      "caption": "Devouring giants",
+      "reasoning": "The image depicts a giant, aggressive figure towering over a cityscape, holding a house and appearing to consume it. The vibrant colors and exaggerated features create a surreal and menacing mood.",
+      "tokens": 69
+    },
+    "15": {
+      "filename": "15.png",
+      "caption": "Rising unease",
+      "reasoning": "The image depicts a melting thermometer with a surreal, dreamlike quality, under a full moon.",
+      "tokens": 48
+    },
+    "16": {
+      "filename": "16.png",
+      "caption": "Guarded bloom",
+      "reasoning": "The image depicts a whimsical tree with a face, holding a colorful bouquet of flowers, set against a serene landscape.",
+      "tokens": 53
+    },
+    "17": {
+      "filename": "17.png",
+      "caption": "Ephemeral yearning",
+      "reasoning": "The image depicts a whimsical scene of a child blowing bubbles against a vibrant, colorful sunset sky over rolling hills.",
+      "tokens": 50
+    },
+    "18": {
+      "filename": "18.png",
+      "caption": "Orchestrated ascent",
+      "reasoning": "The image depicts a person conducting a group of birds perched on a tree branch, creating a whimsical and musical atmosphere.",
+      "tokens": 54
+    },
+    "19": {
+      "filename": "19.png",
+      "caption": "Rewinding memories",
+      "reasoning": "The image features a large, colorful spiral with a flowing white ribbon and a small black ladder, creating a whimsical and surreal atmosphere.",
+      "tokens": 58
+    },
+    "20": {
+      "filename": "20.png",
+      "caption": "Ephemeral echoes",
+      "reasoning": "The image shows a figure made of paper sheets walking in a windy landscape with trees bending and papers flying around, suggesting a whimsical and surreal mood.",
+      "tokens": 59
+    },
+    "21": {
+      "filename": "21.png",
+      "caption": "Golden captivity",
+      "reasoning": "The image depicts a wooden puppet sitting on an ornate throne, suggesting themes of control and authority.",
+      "tokens": 46
+    },
+    "22": {
+      "filename": "22.png",
+      "caption": "Solemn procession",
+      "reasoning": "The image depicts a whimsical scene with a toy soldier pulling a cart carrying a child, set against a backdrop of more toy soldiers. The mood is playful and imaginative.",
+      "tokens": 63
+    },
+    "23": {
+      "filename": "23.png",
+      "caption": "Timeless wonder",
+      "reasoning": "The image depicts a pocket watch with its lid open, revealing a starry night sky inside. This juxtaposition of time and space creates a surreal and contemplative mood.",
+      "tokens": 61
+    },
+    "24": {
+      "filename": "24.png",
+      "caption": "Watched, silent sorrow",
+      "reasoning": "The image depicts a whimsical sun with a surprised expression, overlooking a colorful array of umbrellas.",
+      "tokens": 46
+    },
+    "25": {
+      "filename": "25.png",
+      "caption": "Hidden faces",
+      "reasoning": "The image features a collection of yellow theatrical masks displaying various emotions against a dark red background.",
+      "tokens": 42
+    },
+    "26": {
+      "filename": "26.png",
+      "caption": "Fading embers",
+      "reasoning": "The image depicts a figure covered in yellow leaves, holding a staff, set against a red sky and dark hills, creating a mystical and surreal atmosphere.",
+      "tokens": 62
+    },
+    "27": {
+      "filename": "27.png",
+      "caption": "Exposed fragility",
+      "reasoning": "The image depicts a sad clown standing alone under a spotlight, conveying a somber mood.",
+      "tokens": 43
+    },
+    "28": {
+      "filename": "28.png",
+      "caption": "Bizarre freedom",
+      "reasoning": "The image depicts a whimsical scene where a fairy is rescuing a child from the jaws of a large, green creature. The mood is adventurous and fantastical, with bright colors highlighting the fairy and c...",
+      "tokens": 75
+    },
+    "29": {
+      "filename": "29.png",
+      "caption": "Fading embers",
+      "reasoning": "The image depicts a lit candle with wax dripping, set in a simple holder, creating a warm, serene ambiance.",
+      "tokens": 52
+    },
+    "30": {
+      "filename": "30.png",
+      "caption": "Captured reverie",
+      "reasoning": "The image depicts a whimsical scene with a person inside a snow globe, surrounded by a house, trees, and a bright sky, creating a serene and magical atmosphere.",
+      "tokens": 61
+    },
+    "31": {
+      "filename": "31.png",
+      "caption": "Windswept solitude",
+      "reasoning": "The image depicts an animated character with long hair and a flowing coat, walking through a snowy landscape. The mood is serene and contemplative, with soft colors and gentle movement.",
+      "tokens": 66
+    },
+    "32": {
+      "filename": "32.png",
+      "caption": "Weightless surrender",
+      "reasoning": "The image depicts two people falling through a vibrant, orange background, creating a sense of motion and surrealism.",
+      "tokens": 53
+    },
+    "33": {
+      "filename": "33.png",
+      "caption": "Tiny expeditions",
+      "reasoning": "The image shows a whimsical scene with a ladybug on a leaf, featuring small animals peeking out from its spots, creating a playful and imaginative mood.",
+      "tokens": 63
+    },
+    "34": {
+      "filename": "34.png",
+      "caption": "Precarious ambition",
+      "reasoning": "The image depicts two ants engaging in a sword fight atop a stack of gold coins, creating a whimsical and adventurous mood.",
+      "tokens": 50
+    },
+    "35": {
+      "filename": "35.png",
+      "caption": "Ephemeral grace",
+      "reasoning": "The image shows a pair of pink ballet shoes hanging with ribbons, set against a dark background with a spider web, creating a nostalgic and abandoned mood.",
+      "tokens": 61
+    },
+    "36": {
+      "filename": "36.png",
+      "caption": "Silent confrontation",
+      "reasoning": "The image depicts two snails with colorful hats facing each other in a whimsical arena setting.",
+      "tokens": 45
+    },
+    "37": {
+      "filename": "37.png",
+      "caption": "Quiet valor",
+      "reasoning": "The image depicts a rabbit in knight armor holding a sword, standing before three distinct doors, suggesting a whimsical adventure or quest.",
+      "tokens": 51
+    },
+    "38": {
+      "filename": "38.png",
+      "caption": "Golden solitude",
+      "reasoning": "The image features a cheerful scarecrow in a field of vibrant sunflowers under a clear blue sky.",
+      "tokens": 49
+    },
+    "39": {
+      "filename": "39.png",
+      "caption": "Pale remembrance",
+      "reasoning": "The image features a single white poppy surrounded by vibrant red poppies against a green background, creating a striking contrast.",
+      "tokens": 52
+    },
+    "40": {
+      "filename": "40.png",
+      "caption": "Silent observation",
+      "reasoning": "The image depicts a woman with a thoughtful expression, featuring two small figures as earrings, adding a whimsical touch.",
+      "tokens": 51
+    },
+    "41": {
+      "filename": "41.png",
+      "caption": "Ephemeral worlds",
+      "reasoning": "The image features various elements like a landscape, animals, and a person encapsulated in droplets against a red background, suggesting themes of nature and life.",
+      "tokens": 57
+    },
+    "42": {
+      "filename": "42.png",
+      "caption": "Growing shadows",
+      "reasoning": "The image depicts two children holding hands, casting a shadow resembling a menacing wolf, suggesting a playful or imaginative scene.",
+      "tokens": 50
+    },
+    "43": {
+      "filename": "43.png",
+      "caption": "Yearning ascent",
+      "reasoning": "The image features a whimsical scene with a fairy-like figure interacting with a stack of colorful books, creating a magical and imaginative atmosphere.",
+      "tokens": 55
+    },
+    "44": {
+      "filename": "44.png",
+      "caption": "Wistful observation",
+      "reasoning": "The image shows a colorful toy display with dolls, clothes, a toy plane, and a toy truck, creating a playful and nostalgic mood.",
+      "tokens": 58
+    },
+    "45": {
+      "filename": "45.png",
+      "caption": "Open sky dream",
+      "reasoning": "The image depicts a stone archway with a sky-like scene, creating a surreal, dreamlike atmosphere.",
+      "tokens": 48
+    },
+    "46": {
+      "filename": "46.png",
+      "caption": "Fading golden hours",
+      "reasoning": "The image depicts a whimsical carousel with children riding various animals against a warm, orange background, creating a nostalgic and playful mood.",
+      "tokens": 57
+    },
+    "47": {
+      "filename": "47.png",
+      "caption": "Fleeting existence",
+      "reasoning": "The image depicts an hourglass with an elderly woman in the top half and a child in the bottom half, symbolizing the passage of time and life stages.",
+      "tokens": 64
+    },
+    "48": {
+      "filename": "48.png",
+      "caption": "Silent labyrinth",
+      "reasoning": "The image depicts a bird navigating a yellow 3D maze, surrounded by insects and a butterfly, creating a whimsical and curious atmosphere.",
+      "tokens": 61
+    },
+    "49": {
+      "filename": "49.png",
+      "caption": "Forgotten sanctuary",
+      "reasoning": "The image depicts a mysterious forest with twisted trees and a lone white shell-like object in the center, creating an eerie and surreal atmosphere.",
+      "tokens": 53
+    },
+    "50": {
+      "filename": "50.png",
+      "caption": "Hidden melody",
+      "reasoning": "The image depicts a blue mouse wearing a red hat, playing a flute to charm a snake. The setting includes an ornate archway with a view of a palace, suggesting an exotic or magical theme.",
+      "tokens": 66
+    },
+    "51": {
+      "filename": "51.png",
+      "caption": "Lunar devotion",
+      "reasoning": "The image depicts a whimsical scene with a cat gazing at a couple inside a floating birdcage under a crescent moon.",
+      "tokens": 59
+    },
+    "52": {
+      "filename": "52.png",
+      "caption": "Gentle giant",
+      "reasoning": "The image depicts a small child holding a sword facing a large, friendly-looking blue dragon. The background is warm, suggesting a whimsical and adventurous atmosphere.",
+      "tokens": 57
+    },
+    "53": {
+      "filename": "53.png",
+      "caption": "Unlocking the self",
+      "reasoning": "The image depicts a contemplative figure with an open head, revealing glowing orbs, and keys with symbols. The mood is introspective and mysterious.",
+      "tokens": 62
+    },
+    "54": {
+      "filename": "54.png",
+      "caption": "Forgotten narratives",
+      "reasoning": "The image depicts a person sitting on a bench, reading a newspaper under a night sky filled with scattered letters, creating a whimsical and contemplative atmosphere.",
+      "tokens": 58
+    },
+    "55": {
+      "filename": "55.png",
+      "caption": "Glassed solitude",
+      "reasoning": "The image depicts a playful cat with wide eyes, reaching over a fishbowl containing a small fish. The background is a starry night sky, suggesting a whimsical and curious mood.",
+      "tokens": 65
+    },
+    "56": {
+      "filename": "56.png",
+      "caption": "Silent trophy",
+      "reasoning": "The image depicts a cat in a basket staring at a mounted deer head on the wall, with water dripping from the ceiling.",
+      "tokens": 54
+    },
+    "57": {
+      "filename": "57.png",
+      "caption": "Caged embers",
+      "reasoning": "The image depicts a heart engulfed in flames, enclosed under a glass dome, symbolizing intense passion or protection.",
+      "tokens": 50
+    },
+    "58": {
+      "filename": "58.png",
+      "caption": "Celestial counting",
+      "reasoning": "The image depicts an abacus with planets instead of beads against a starry night sky, creating a whimsical, educational theme.",
+      "tokens": 54
+    },
+    "59": {
+      "filename": "59.png",
+      "caption": "Fleeting capture",
+      "reasoning": "The image depicts a cat artist painting an underwater scene with fish and seaweed, creating a whimsical and creative mood.",
+      "tokens": 54
+    },
+    "60": {
+      "filename": "60.png",
+      "caption": "Secret garden",
+      "reasoning": "The image shows a person in a hat peering through a large leaf with various objects inside. The mood is curious and whimsical.",
+      "tokens": 55
+    },
+    "61": {
+      "filename": "61.png",
+      "caption": "Unreachable aspirations",
+      "reasoning": "The image depicts a surreal scene with a tree bearing planets, a deer, and a person with an axe. The mood is whimsical and imaginative.",
+      "tokens": 58
+    },
+    "62": {
+      "filename": "62.png",
+      "caption": "Bottled illumination",
+      "reasoning": "The image depicts a whimsical scene of a person in a starry robe holding a candle inside a light bulb, creating a magical and imaginative atmosphere.",
+      "tokens": 61
+    },
+    "63": {
+      "filename": "63.png",
+      "caption": "Crimson pursuit",
+      "reasoning": "The image depicts a whimsical scene of a person in a red coat conducting a chemistry experiment in a cluttered, colorful laboratory. The atmosphere is magical and curious, with various bottles and an ...",
+      "tokens": 78
+    },
+    "64": {
+      "filename": "64.png",
+      "caption": "Golden embrace",
+      "reasoning": "The image shows a dark braid with a bright yellow ring encircling it against a blue background, creating a striking contrast.",
+      "tokens": 52
+    },
+    "65": {
+      "filename": "65.png",
+      "caption": "Golden restraint",
+      "reasoning": "The image features a large anchor hanging from a chain, set against a backdrop of rolling yellow dunes and a clear blue sky. The contrast between the anchor and the bright landscape creates a surreal ...",
+      "tokens": 66
+    },
+    "66": {
+      "filename": "66.png",
+      "caption": "Fragile ascension",
+      "reasoning": "The image shows a hand emerging from water, holding a lit torch against a blue sky, symbolizing hope and perseverance.",
+      "tokens": 50
+    },
+    "67": {
+      "filename": "67.png",
+      "caption": "Caged longing",
+      "reasoning": "The image depicts a woman with flowing hair standing atop a cage-like structure with fish inside, creating a surreal and whimsical atmosphere.",
+      "tokens": 58
+    },
+    "68": {
+      "filename": "68.png",
+      "caption": "Golden uncertainty",
+      "reasoning": "The image depicts a couple playing chess at a round table under warm lighting, surrounded by red butterflies, creating a whimsical and romantic atmosphere.",
+      "tokens": 58
+    },
+    "69": {
+      "filename": "69.png",
+      "caption": "Silent beginnings",
+      "reasoning": "The image shows a collection of colorful, egg-shaped structures with small windows, resembling a whimsical village.",
+      "tokens": 47
+    },
+    "70": {
+      "filename": "70.png",
+      "caption": "Whispers of giants",
+      "reasoning": "The image depicts a child curiously peering into a large, open seashell on a beach, creating a whimsical and adventurous mood.",
+      "tokens": 56
+    },
+    "71": {
+      "filename": "71.png",
+      "caption": "Fleeting control",
+      "reasoning": "The image depicts a hand supporting a swirling blue vortex against a warm, orange background, suggesting a blend of calm and energy.",
+      "tokens": 51
+    },
+    "72": {
+      "filename": "72.png",
+      "caption": "Tiny universes",
+      "reasoning": "The image depicts a dollhouse with a doll sitting inside, showcasing a cozy, colorful interior.",
+      "tokens": 50
+    },
+    "73": {
+      "filename": "73.png",
+      "caption": "Skybound reverie",
+      "reasoning": "The image depicts a whimsical scene with a castle suspended beneath a large blue hot air balloon, floating in a clear sky.",
+      "tokens": 56
+    },
+    "74": {
+      "filename": "74.png",
+      "caption": "Fragile emergence",
+      "reasoning": "The image depicts a single daisy with white petals and a yellow center, growing from cracked ground under a dark, swirling sky. The mood is one of resilience and hope.",
+      "tokens": 63
+    },
+    "75": {
+      "filename": "75.png",
+      "caption": "Golden decadence",
+      "reasoning": "The image depicts a cluttered dining table filled with various foods, drinks, and a candelabra, suggesting a festive or chaotic meal setting.",
+      "tokens": 55
+    },
+    "76": {
+      "filename": "76.png",
+      "caption": "Revealed destiny",
+      "reasoning": "The image shows a hand with a magnifying glass focusing on the palm, highlighting the lines.",
+      "tokens": 43
+    },
+    "77": {
+      "filename": "77.png",
+      "caption": "Quiet beginnings",
+      "reasoning": "The image depicts a chicken dressed as a military officer inspecting a group of chicks, with a large egg in the background showing a surprised face peeking out. The scene is whimsical and humorous.",
+      "tokens": 68
+    },
+    "78": {
+      "filename": "78.png",
+      "caption": "Emerald labyrinth",
+      "reasoning": "The image depicts a knife entangled in a dense network of green vines, creating a surreal and mysterious atmosphere.",
+      "tokens": 51
+    },
+    "79": {
+      "filename": "79.png",
+      "caption": "Golden longing",
+      "reasoning": "The image depicts a woman with flowing hair and a colorful dress, appearing surprised or startled, against a warm, gradient background with a large yellow apple.",
+      "tokens": 58
+    },
+    "80": {
+      "filename": "80.png",
+      "caption": "Ephemeral Eden",
+      "reasoning": "The image depicts a large water droplet containing a small island with trees and a house, set against a blue background with other droplets. The mood is serene and imaginative.",
+      "tokens": 66
+    },
+    "81": {
+      "filename": "81.png",
+      "caption": "Sunken reverie",
+      "reasoning": "The image depicts a serene, dreamlike scene with a large, contemplative face resting on the water, observing a small sailboat. The background features a vibrant sunset, enhancing the tranquil mood.",
+      "tokens": 70
+    },
+    "82": {
+      "filename": "82.png",
+      "caption": "Melancholy resonance",
+      "reasoning": "The image depicts a woman joyfully playing a cello, with whimsical figures dancing on musical notes.",
+      "tokens": 46
+    },
+    "83": {
+      "filename": "83.png",
+      "caption": "Puppet master's gaze",
+      "reasoning": "The image depicts a whimsical scene with an elderly woman holding a puppet theater, featuring two puppets. The colors are bright and cheerful, suggesting a playful and imaginative mood.",
+      "tokens": 65
+    },
+    "84": {
+      "filename": "84.png",
+      "caption": "Golden anticipation",
+      "reasoning": "The image depicts a person sowing seeds in a vibrant field with surreal, colorful plants. The mood is hopeful and imaginative.",
+      "tokens": 54
+    }
+  },
+  "style": "dixit_abstract"
+}
